@@ -51,7 +51,7 @@ How to reach me:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Naereen/badges)
 
-#### My Memorial 
+#### My Memorial 🗿💻
 
 <p align="center">
   <img width="230" height="170" src="https://j.gifs.com/vQOpJ3.gif">
