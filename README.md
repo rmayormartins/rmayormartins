@@ -6,11 +6,11 @@ Visit my .io page: [https://rmayormartins.github.io/](https://rmayormartins.gith
 
 #### About me
 
-- 👨‍🏫  Professor of Engineering and Technical Education, in the area of Telecommunications, at Instituto Federal de Santa Catarina
+- 👨‍🏫  Professor of Engineering and Technical Education, in the area of Telecommunications, at [Instituto Federal de Santa Catarina](www.ifsc.edu.br)
 - 🎓 I am M.Sc. in Telecommunications from [Instituto Nacional de Telecomunicações](www.inatel.br) since 2014.  
 - 🎓 Electrical Engineer with emphasis on Telematics, from the [Universidade do Sul de Santa Catarina - UNISUL](www.unisul.br) in 2010.
 - 🎓 Specialist in: Telecommunications Systems in 2015; Computer Networks in 2017; Systems Engineering in 2018
-- 🎓 Professional MBA in Systems Analysis and Telecommunications in 2017
+- 🎓 Professional MBA in: Systems Analysis and Telecommunications in 2017
 - 👨🏻‍💻 Programmer since 1998, my road: Basic,HTML,Pascal,C,CBuilder,Visual Basic,C++,Shell Script,Matlab,R,Python...
 - 🛰️ Satellite Radio operator, callsign PU4MAY licensed by ANATEL
 - 📻 Ham Radio (Radio Amateur) operator since 1996, callsign PU4MAY licensed by ANATEL
@@ -31,10 +31,11 @@ Visit my .io page: [https://rmayormartins.github.io/](https://rmayormartins.gith
 How to reach me:
 - 📬🏫 ramon.mayor@ifsc.edu.br
 - 📬🐧 mayor@linuxmail.org
+- [other ways, see more](https://rmayormartins.github.io/contact.html)
 
 #### More more about me:
 - 💻🎨 [OpenSea](https://opensea.io/collection/rmayormartins) -> _NFT Art - Non Fungible Token Crypto Art_
-- 💻📈 [Insta @novarendainvest](https://www.instagram.com/novarendainvest/) -> _Economic and investment analysis_
+- 🌐📈 [Insta @novarendainvest](https://www.instagram.com/novarendainvest/) -> _Economic and investment analysis_
 
 #### Tech Stack 🛠💻
 
