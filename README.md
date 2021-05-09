@@ -11,7 +11,7 @@ Visit my .io page: [https://rmayormartins.github.io/](https://rmayormartins.gith
 - 🎓 Electrical Engineer with emphasis on Telematics, from the [Universidade do Sul de Santa Catarina - UNISUL](www.unisul.br) in 2010.
 - 🎓 Specialist in: Telecommunications Systems in 2015; Computer Networks in 2017; Systems Engineering in 2018
 - 🎓 Professional MBA in: Systems Analysis and Telecommunications in 2017
-- 👨🏻‍💻 Programmer since 1998, my road: Basic,HTML,Pascal,C,CBuilder,Visual Basic,C++,Shell Script,Matlab,R,Python...
+- 👨🏻‍💻 Programmer since 1988, my road: Basic(in MSX),HTML,Pascal,C,CBuilder,Visual Basic,C++,Shell Script,Matlab,R,Python...
 - 🛰️ Satellite Radio operator, callsign PU4MAY licensed by ANATEL
 - 📻 Ham Radio (Radio Amateur) operator since 1996, callsign PU4MAY licensed by ANATEL
 
@@ -51,4 +51,12 @@ How to reach me:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Naereen/badges)
 
-... _And eternal love with: goto, graphics.h, conio.h and QBasic_
+#### My Memorial 
+
+<p align="center">
+  <img width="260" height="200" src="https://j.gifs.com/vQOpJ3.gif">
+  <img width="260" height="200" src="https://upload.wikimedia.org/wikipedia/commons/7/71/Msxbasic.png">
+  <img width="260" height="200" src="https://winworldpc.com/res/img/screenshots/2x-adf890821833e9f6e089b94ddd35b36b-Turbo%20C%202.0%20-%20Splash.png">
+  <img width="260" height="200" src="http://www.facom.ufu.br/~albertini/prossiga/images/6/6a/Projeto.GIF">  
+</p>
+_...And eternal love with: goto, graphics.h, conio.h and QBasic_
