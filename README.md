@@ -11,7 +11,7 @@ Visit my .io page: [https://rmayormartins.github.io/](https://rmayormartins.gith
 - 🎓 Electrical Engineer with emphasis on Telematics, from the [Universidade do Sul de Santa Catarina - UNISUL](www.unisul.br) in 2010.
 - 🎓 Specialist in: Telecommunications Systems in 2015; Computer Networks in 2017; Systems Engineering in 2018
 - 🎓 Professional MBA in Systems Analysis and Telecommunications in 2017
-- 👨🏻‍💻 Programmer since 1998, my road: Basic,HTML,Pascal,C,CBuilder,Visual Basic,C++,Shell Script,Matlab,R,Python..._I love goto,conio.h and QBasic_
+- 👨🏻‍💻 Programmer since 1998, my road: Basic,HTML,Pascal,C,CBuilder,Visual Basic,C++,Shell Script,Matlab,R,Python...
 - 🛰️ Satellite Radio operator, callsign PU4MAY licensed by ANATEL
 - 📻 Ham Radio (Radio Amateur) operator since 1996, callsign PU4MAY licensed by ANATEL
 
@@ -50,3 +50,5 @@ How to reach me:
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Naereen/badges)
+
+... _And eternal love with: I love goto, conio.h and QBasic_
