@@ -32,8 +32,7 @@ How to reach me:
 - 📬🏫 ramon.mayor@ifsc.edu.br
 - 📬🐧 mayor@linuxmail.org
 
-#### More more about me, why not?
-
+#### More more about me:
 - 💻🎨 [OpenSea](https://opensea.io/collection/rmayormartins) -> _NFT Art - Non Fungible Token Crypto Art_
 - 💻📈 [Insta @novarendainvest](https://www.instagram.com/novarendainvest/) -> _Economic and investment analysis_
 
