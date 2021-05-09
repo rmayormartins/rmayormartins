@@ -57,7 +57,6 @@ How to reach me:
   <img width="230" height="170" src="https://j.gifs.com/vQOpJ3.gif">
   <img width="230" height="170" src="https://upload.wikimedia.org/wikipedia/commons/7/71/Msxbasic.png">
   <img width="230" height="170" src="https://winworldpc.com/res/img/screenshots/2x-adf890821833e9f6e089b94ddd35b36b-Turbo%20C%202.0%20-%20Splash.png">
-  <img width="230" height="170" src="http://www.facom.ufu.br/~albertini/prossiga/images/6/6a/Projeto.GIF">  
 </p>
 
-_And eternal love with: processor: Zilog Z80; instructions: goto,gosub,gotoxy; librarys: graphics.h, conio.h; IDEs: QBasic, codeblock_
+_And eternal love with: processor: Zilog Z80; instructions: goto,gosub,gotoxy; librarys: graphics.h,conio.h,Allegro; IDEs: QBasic, codeblock_
