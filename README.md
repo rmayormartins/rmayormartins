@@ -51,4 +51,4 @@ How to reach me:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Naereen/badges)
 
-... _And eternal love with: I love goto, conio.h and QBasic_
+... _And eternal love with: goto, graphics.h, conio.h and QBasic_
