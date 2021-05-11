@@ -59,5 +59,6 @@ How to reach me:
   <img width="200" height="140" src="https://winworldpc.com/res/img/screenshots/2x-adf890821833e9f6e089b94ddd35b36b-Turbo%20C%202.0%20-%20Splash.png">
   <img width="200" height="140" src="https://i.pinimg.com/originals/35/ad/3e/35ad3e02c2a21a6164f6e9fa525e9bc0.gif">  
 </p>
-230 170
+
+
 _And eternal love with: processor: Zilog Z80; instructions: goto,gosub,gotoxy; librarys: graphics.h,conio.h,Allegro; IDEs: QBasic, codeblock_
