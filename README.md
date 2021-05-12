@@ -64,4 +64,4 @@ How to reach me:
 </p>
 
 
-_And eternal love with: processor: Zilog Z80; instructions: goto,gosub,gotoxy; librarys: graphics.h,conio.h,Allegro; IDEs: QBasic, codeblock_
+_And eternal love with: processor: Zilog Z80; instructions: goto,gosub,gotoxy; libraries: graphics.h,conio.h,Allegro; IDEs: QBasic, codeblock_
