@@ -24,7 +24,7 @@ Visit my .io page: [https://rmayormartins.github.io/](https://rmayormartins.gith
 #### Interest
 
 - 📡🛰️ Radiofrequency and Satellite comunications systems projects
-- 💻🤖 Artificial Intelligence and Machine Learning projects
+- 💻🤖 Artificial Intelligence and Machine/Deep Learning projects
 
 #### Contact me
 
