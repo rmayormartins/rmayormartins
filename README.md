@@ -46,6 +46,7 @@ How to reach me:
 ![basic](https://img.shields.io/badge/Basic-MSX-blue)
 ![c](https://img.shields.io/badge/C-ANSI-blue)
 [![arduino-library-badge](https://www.ardu-badge.com/badge/MyLibrary.svg?)](https://www.ardu-badge.com/MyLibrary)
+![fastai](https://img.shields.io/badge/Fast.ai-deep%20learning%20library-blue)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-333333?style=flat&logo=OpenCV)
 ![latex](https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg)
 ![bash](https://img.shields.io/badge/Made%20with-Bash-1f425f.svg)
