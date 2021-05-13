@@ -11,7 +11,7 @@ Visit my .io page: [https://rmayormartins.github.io/](https://rmayormartins.gith
 - 🎓 Electrical Engineer with emphasis on Telematics, from the [Universidade do Sul de Santa Catarina - UNISUL](www.unisul.br) in 2010.
 - 🎓 Specialist in: Telecommunications Systems in 2015; Computer Networks in 2017; Systems Engineering in 2018
 - 🎓 Professional MBA in: Systems Analysis and Telecommunications in 2017
-- 👨🏻‍💻 Programmer since 1988, my road: Basic(in MSX),HTML,Pascal,C,CBuilder,Visual Basic,C++,Shell Script,Matlab,R,Python...
+- 👨🏻‍💻 Programmer since 1998,and my road: Basic(in MSX),HTML,Pascal,C,CBuilder,Visual Basic,C++,Shell Script,Matlab,R,Python...
 - 🛰️ Satellite Radio operator, callsign PU4MAY licensed by ANATEL
 - 📻 Ham Radio (Radio Amateur) operator since 1996, callsign PU4MAY licensed by ANATEL
 
