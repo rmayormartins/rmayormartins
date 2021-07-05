@@ -56,6 +56,11 @@ How to reach me:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Naereen/badges)
 
+#### This is the way?
+
+<p align="center">
+  <img width="200" height="140" src="https://gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2021/02/nyan-cat-1.gif">
+
 #### My Memorial 🗿💻
 
 <p align="center">
@@ -64,6 +69,5 @@ How to reach me:
   <img width="200" height="140" src="https://winworldpc.com/res/img/screenshots/2x-adf890821833e9f6e089b94ddd35b36b-Turbo%20C%202.0%20-%20Splash.png">
   <img width="200" height="140" src="https://i.pinimg.com/originals/35/ad/3e/35ad3e02c2a21a6164f6e9fa525e9bc0.gif">  
 </p>
-
 
 _And eternal love with: processor: Zilog Z80; instructions: goto,gosub,gotoxy; libraries: graphics.h,conio.h,Allegro; IDEs: QBasic, devc++ and codeblock_
