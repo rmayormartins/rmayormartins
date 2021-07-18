@@ -70,10 +70,13 @@ How to reach me:
 #### My Memorial 🗿💻
 
 <p align="center">
+  <img width="200" height="140" src="https://www.msx.org/sites/default/files/news/2014/08/batman.png">
   <img width="200" height="140" src="https://j.gifs.com/vQOpJ3.gif">
+  <img width="200" height="140" src="https://i.ytimg.com/vi/fKU-NMrK4qw/hqdefault.jpg">
   <img width="200" height="140" src="https://upload.wikimedia.org/wikipedia/commons/7/71/Msxbasic.png">
   <img width="200" height="140" src="https://winworldpc.com/res/img/screenshots/2x-adf890821833e9f6e089b94ddd35b36b-Turbo%20C%202.0%20-%20Splash.png">
-  <img width="200" height="140" src="https://i.pinimg.com/originals/35/ad/3e/35ad3e02c2a21a6164f6e9fa525e9bc0.gif">  
+  <img width="200" height="140" src="https://i.pinimg.com/originals/35/ad/3e/35ad3e02c2a21a6164f6e9fa525e9bc0.gif">
+  <img width="200" height="140" src="https://s2.glbimg.com/0A4q4bt82qmQSbfbTKQiooZ263g=/0x0:1258x720/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/n/B/EPqiaiRyO4sdPjQPyCOg/allejo-international-superstar-soccer.jpg">  
 </p>
 
 _And eternal love with: processor: Zilog Z80; instructions: goto,gosub,gotoxy; libraries: graphics.h,conio.h,Allegro; IDEs: QBasic, devc++ and codeblock_
