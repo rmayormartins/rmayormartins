@@ -7,7 +7,8 @@ Visit my .io page: [https://rmayormartins.github.io/](https://rmayormartins.gith
 #### About me
 
 - 👨‍🏫  Professor of Engineering and Technical Education, in the area of Telecommunications, at [Instituto Federal de Santa Catarina](www.ifsc.edu.br)
-- 🎓 I am M.Sc. in Telecommunications from [Instituto Nacional de Telecomunicações](www.inatel.br) since 2014.  
+- 🎓 Ph.D. student at Computer Science Program from [Universidade Federal de Santa Catarina](www.ufsc.br) since 2021.
+- 🎓 M.Sc. in Telecommunications from [Instituto Nacional de Telecomunicações](www.inatel.br) since 2014.  
 - 🎓 Electrical Engineer with emphasis on Telematics, from the [Universidade do Sul de Santa Catarina - UNISUL](www.unisul.br) in 2010.
 - 🎓 Specialist in: Telecommunications Systems in 2015; Computer Networks in 2017; Systems Engineering in 2018
 - 🎓 Professional MBA in: Systems Analysis and Telecommunications in 2017
@@ -55,6 +56,11 @@ How to reach me:
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Naereen/badges)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rmayormartins&show_icons=true&theme=syjnthwave)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 #### This is the way?
 
