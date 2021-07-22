@@ -61,6 +61,7 @@ How to reach me:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rmayormartins&show_icons=true&theme=syjnthwave)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmayormartins&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=username.rmayormartins)
 
 #### This is the way?
 
