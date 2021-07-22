@@ -63,10 +63,11 @@ How to reach me:
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=username.rmayormartins)
 
-#### This is the way?
+#### Topic Pursuit 🎯💻
 
 <p align="center">
   <img width="200" height="140" src="https://gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2021/02/nyan-cat-1.gif">
+  <img width="200" height="140" src="https://thumbs.gfycat.com/AffectionateMemorableGreyhounddog-size_restricted.gif">
 
 #### My Memorial 🗿💻
 
