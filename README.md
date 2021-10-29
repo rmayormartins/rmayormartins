@@ -87,4 +87,4 @@ How to reach me:
   <img width="200" height="140" src="https://s2.glbimg.com/0A4q4bt82qmQSbfbTKQiooZ263g=/0x0:1258x720/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/n/B/EPqiaiRyO4sdPjQPyCOg/allejo-international-superstar-soccer.jpg">  
 </p>
 
-_And eternal love with: processor: Zilog Z80; instructions: goto,gosub,gotoxy; libraries: graphics.h,conio.h,Allegro; IDEs: QBasic, devc++ and codeblock_
+_And eternal love with: Computer: XT, MSX; Processor: Zilog Z80; instructions: goto,gosub,gotoxy; libraries: graphics.h,conio.h,Allegro; IDEs: QBasic, Turbo C, devc++ and codeblock_
