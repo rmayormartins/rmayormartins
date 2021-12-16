@@ -2,11 +2,11 @@
 
 ```.... . .-.. .-.. ---```
 
-Visit my .io page: [https://rmayormartins.github.io/](https://rmayormartins.github.io/)
+- ➡️ Visit my .io page: [https://rmayormartins.github.io/](https://rmayormartins.github.io/)
 
 #### About me
 
-- 👨‍🏫  Professor of Engineering and Technical Education, in the area of Telecommunications, at [Instituto Federal de Santa Catarina](www.ifsc.edu.br)
+- 👨‍🏫 Professor of Engineering and Technical Education, in the area of Telecommunications, at [Instituto Federal de Santa Catarina](www.ifsc.edu.br)
 - 🎓 Ph.D. student at Computer Science Program from [Universidade Federal de Santa Catarina](www.ufsc.br) since 2021.
 - 🎓 M.Sc. in Telecommunications from [Instituto Nacional de Telecomunicações](www.inatel.br) since 2014.  
 - 🎓 Electrical Engineer with emphasis on Telematics, from the [Universidade do Sul de Santa Catarina - UNISUL](www.unisul.br) in 2010.
