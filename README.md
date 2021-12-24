@@ -72,7 +72,7 @@ How to reach me:
   <img width="200" height="140" src="https://thumbs.gfycat.com/DisastrousGaseousAnole-max-1mb.gif">
 
 #### My Memorial (1988-1998) 🗿💻
-
+  
 <p align="center">
   <img width="200" height="140" src="https://www.msx.org/sites/default/files/news/2014/08/batman.png">
   <img width="200" height="140" src="https://user-images.githubusercontent.com/13935213/139339938-19f6d05b-2d75-41b4-ab8c-f984f442e4fd.png">
@@ -94,4 +94,6 @@ How to reach me:
 
 </p>
 
-_And eternal love with: Computer: XT, MSX; Processor: Zilog Z80; instructions: goto,gosub,gotoxy; libraries: graphics.h,conio.h,Allegro; IDEs: QBasic, Turbo C, devc++ and codeblock_
+📢💻[In defense of the Goto statement](https://koblents.com/Ches/Links/Month-Mar-2013/20-Using-Goto-in-Linux-Kernel-Code/)
+
+_...And eternal love with: Computer: XT, MSX; Processor: Zilog Z80; instructions: goto,gosub,gotoxy; libraries: graphics.h,conio.h,Allegro; IDEs: QBasic, Turbo C, devc++ and codeblock_
