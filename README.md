@@ -66,7 +66,7 @@ How to reach me:
 #### Topic Pursuit 🎯💻
 
 <p align="center">
-  <img width="200" height="140" src="https://gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2021/02/nyan-cat-1.gif">
+  <img width="200" height="140" src="https://c.tenor.com/S7LGhN4-u-sAAAAC/nyan-cat.gif">
   <img width="200" height="140" src="https://thumbs.gfycat.com/AffectionateMemorableGreyhounddog-size_restricted.gif">
  <img width="200" height="140" src="https://qph.fs.quoracdn.net/main-qimg-c05ec72225e19614f0cc10385d27525c">
   <img width="200" height="140" src="https://thumbs.gfycat.com/DisastrousGaseousAnole-max-1mb.gif">
