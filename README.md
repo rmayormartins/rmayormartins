@@ -94,6 +94,7 @@ How to reach me:
 
 </p>
 
+🙌🔢[In honor of the Oliver Heaviside](http://www.fourmilab.ws/documents/reading_list/indices/book_1146.html)<p>
 📢💻[In defense of the Goto statement](https://koblents.com/Ches/Links/Month-Mar-2013/20-Using-Goto-in-Linux-Kernel-Code/)
 
 _...And eternal love with: Computer: XT, MSX; Processor: Zilog Z80; instructions: goto,gosub,gotoxy; libraries: graphics.h,conio.h,Allegro; IDEs: QBasic, Turbo C, devc++ and codeblock_
