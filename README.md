@@ -1,9 +1,9 @@
-### Hello World, I'm Ramon Mayor Martins! I'm in QAP QRV!
+### Hello World, I'm Ramon Mayor Martins! I'm in QAP QRV! <img width="50" height="50" src="https://i.redd.it/nc4224rsomp71.gif">
 
 ```.... . .-.. .-.. ---```
 
 - ➡️ Visit my .io page: [https://rmayormartins.github.io/](https://rmayormartins.github.io/)
-
+#
 #### About me
 
 - 👨‍🏫 Professor of Engineering and Technical Education, in the area of Telecommunications, at [Instituto Federal de Santa Catarina](www.ifsc.edu.br)
@@ -15,29 +15,29 @@
 - 👨🏻‍💻 Programmer since 1998,and my road: Basic,Pascal,C,CBuilder,Visual Basic,C++,Shell Script,Matlab,R,Python...
 - 🛰️ Satellite Radio operator, callsign PU4MAY licensed by ANATEL
 - 📻 Ham Radio (Radio Amateur) operator since 1996, callsign PU4MAY licensed by ANATEL
-
+#
 #### More about me
 
 - 💻😺 [Github.io](https://rmayormartins.github.io/)
 - 📃👨‍🎓 [Lattes CV](http://lattes.cnpq.br/6289204315531991)
 - 📑🏫 [Wikipage](https://wiki.sj.ifsc.edu.br/index.php/Ramon_Mayor_Martins)
-
+#
 #### Interest
 
 - 📡🛰️ Radiofrequency and Satellite comunications systems projects
 - 💻🤖 Artificial Intelligence and Machine/Deep Learning projects
-
+#
 #### Contact me
 
 How to reach me:
 - 📬🏫 ramon.mayor@ifsc.edu.br
 - 📬🐧 mayor@linuxmail.org
 - [other ways, see more](https://rmayormartins.github.io/contact.html)
-
+#
 #### More more about me:
 - 💻🎨 [OpenSea](https://opensea.io/collection/rmayormartins) -> _NFT Art - Non Fungible Token Crypto Art_
 - 🌐📈 [Insta @novarendainvest](https://www.instagram.com/novarendainvest/) -> _Economic and investment analysis_
-
+#
 #### Tech Stack 🛠💻
 
 ![R](https://img.shields.io/badge/-R-333333?style=flat&logo=r)
@@ -62,7 +62,7 @@ How to reach me:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmayormartins&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=username.rmayormartins)
-
+#
 #### Topic Pursuit 🎯💻
 
 <p align="center">
@@ -70,7 +70,9 @@ How to reach me:
   <img width="200" height="140" src="https://thumbs.gfycat.com/AffectionateMemorableGreyhounddog-size_restricted.gif">
  <img width="200" height="140" src="https://qph.fs.quoracdn.net/main-qimg-c05ec72225e19614f0cc10385d27525c">
   <img width="200" height="140" src="https://thumbs.gfycat.com/DisastrousGaseousAnole-max-1mb.gif">
+</p>
 
+#
 #### My Memorial (1988-1998) 🗿💻
   
 <p align="center">
