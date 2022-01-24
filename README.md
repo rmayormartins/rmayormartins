@@ -1,4 +1,5 @@
-### Hello World, I'm Ramon Mayor Martins! I'm in QAP QRV! <img width="50" height="50" src="https://i.redd.it/nc4224rsomp71.gif">
+### Hello World, I'm Ramon Mayor Martins! I'm in QAP QRV! <img width="50" height="50" src="https://i.redd.it/nc4224rsomp71.gif"><img width="51" height="51" src="https://miro.medium.com/max/700/1*KMsAE8WmWsPJtxkRaov4Ow.gif">
+
 
 ```.... . .-.. .-.. ---```
 
