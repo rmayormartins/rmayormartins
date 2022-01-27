@@ -68,7 +68,7 @@ How to reach me:
 #### Topic Pursuit 🎯💻
 
 <p align="center">
-  <img width="200" height="140" src="https://c.tenor.com/S7LGhN4-u-sAAAAC/nyan-cat.gif">
+  <img width="200" height="140" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Animated_Hwss.gif">
   <img width="200" height="140" src="https://thumbs.gfycat.com/AffectionateMemorableGreyhounddog-size_restricted.gif">
  <img width="200" height="140" src="https://qph.fs.quoracdn.net/main-qimg-c05ec72225e19614f0cc10385d27525c">
   <img width="200" height="140" src="https://thumbs.gfycat.com/DisastrousGaseousAnole-max-1mb.gif">
@@ -98,6 +98,8 @@ How to reach me:
 
 </p>
 
+🙌💻[In honor of Alan Turing](https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf)</br>
 📢💻[In defense of the Goto statement](https://koblents.com/Ches/Links/Month-Mar-2013/20-Using-Goto-in-Linux-Kernel-Code/)
+
 
 _...And eternal love with: Computer: XT, MSX; Processor: Zilog Z80; instructions: goto,gosub,gotoxy; libraries: graphics.h,conio.h,Allegro; IDEs: QBasic, Turbo C, devc++ and codeblock_
