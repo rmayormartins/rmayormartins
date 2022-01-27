@@ -1,4 +1,5 @@
-### Hello World, I'm Ramon Mayor Martins! I'm in QAP QRV! <img width="50" height="50" src="https://i.redd.it/nc4224rsomp71.gif"><img width="51" height="51" src="https://miro.medium.com/max/700/1*KMsAE8WmWsPJtxkRaov4Ow.gif">
+### Hello World, I'm Ramon Mayor Martins! I'm in QAP QRV! <img width="50" height="50" src="https://i.redd.it/nc4224rsomp71.gif"><img width="51" height="51" src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Game_of_life_animated_glider.gif"> <img width="51" height="51" src="https://upload.wikimedia.org/wikipedia/commons/3/37/Game_of_life_animated_LWSS.gif">
+
 
 
 ```.... . .-.. .-.. ---```
@@ -97,7 +98,6 @@ How to reach me:
 
 </p>
 
-🙌🔢[In honor of the Oliver Heaviside](http://www.fourmilab.ws/documents/reading_list/indices/book_1146.html)<p>
 📢💻[In defense of the Goto statement](https://koblents.com/Ches/Links/Month-Mar-2013/20-Using-Goto-in-Linux-Kernel-Code/)
 
 _...And eternal love with: Computer: XT, MSX; Processor: Zilog Z80; instructions: goto,gosub,gotoxy; libraries: graphics.h,conio.h,Allegro; IDEs: QBasic, Turbo C, devc++ and codeblock_
