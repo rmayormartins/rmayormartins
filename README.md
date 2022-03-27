@@ -48,7 +48,7 @@ How to reach me:
 ![MATLAB](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)
 ![basic](https://img.shields.io/badge/Basic-MSX-blue)
 ![c](https://img.shields.io/badge/C-ANSI-blue)
-[![arduino-library-badge](https://www.ardu-badge.com/badge/MyLibrary.svg?)](https://www.ardu-badge.com/MyLibrary)
+![lolcode](https://img.shields.io/badge/LOLCODE-Esoteric%20Prog.%20Lang.-blue)
 ![fastai](https://img.shields.io/badge/Fast.ai-deep%20learning%20library-blue)
 ![gnuradio](https://img.shields.io/badge/GNU%20Radio-SDR%20Systems-blue)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-333333?style=flat&logo=OpenCV)
