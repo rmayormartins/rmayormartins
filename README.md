@@ -25,7 +25,7 @@
 <sub>💻🤖 Artificial Intelligence and Machine/Deep Learning projects</sub>
 #
 #### Contact me
-How to reach me:
+<sub>How to reach me:</sub><br>
 <sub>📬🏫 ramon.mayor@ifsc.edu.br</sub><br>
 <sub>📬🐧 mayor@linuxmail.org</sub><br>
 <sub>[other ways, see more](https://rmayormartins.github.io/contact.html)</sub><br>
