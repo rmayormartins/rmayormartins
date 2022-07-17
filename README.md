@@ -85,10 +85,10 @@ How to reach me:
   <img width="140" height="80" src="https://thumbs.gfycat.com/RequiredShamefulCopperhead-size_restricted.gif">
    <img width="140" height="80" src="https://www.myabandonware.com/media/screenshots/n/nigel-mansells-world-championship-racing-1m5/nigel-mansells-world-championship-racing_4.png">
   <img width="140" height="80" src="https://s2.glbimg.com/0A4q4bt82qmQSbfbTKQiooZ263g=/0x0:1258x720/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/n/B/EPqiaiRyO4sdPjQPyCOg/allejo-international-superstar-soccer.jpg">
+  <img width="140" height="80" src="https://thumbs.gfycat.com/LateQuaintCassowary-max-1mb.gif">
   <img width="140" height="80" src="https://user-images.githubusercontent.com/13935213/145812197-4d42e96b-f0e2-41cc-81f6-fb3c5ea32359.png">
   <img width="140" height="80" src="https://user-images.githubusercontent.com/13935213/145812328-efa4624b-3b8b-46cc-9d05-dcf57dfcc6f3.png">
   <img width="140" height="80" src="https://user-images.githubusercontent.com/13935213/146217554-7173f7c6-cac8-4837-bb49-cf81dfcce54b.png">
-  <img width="140" height="80" src="https://thumbs.gfycat.com/LateQuaintCassowary-max-1mb.gif">
 </p>
 <sub>📃💻[In honor of Alan Turing](https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf)</sub><br>
 <sub>📢💻[In defense of the Goto statement](https://koblents.com/Ches/Links/Month-Mar-2013/20-Using-Goto-in-Linux-Kernel-Code/)</sub><br>
