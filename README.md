@@ -1,48 +1,41 @@
-### Hello World, I'm Ramon Mayor Martins! I'm in QAP QRV! <img width="50" height="50" src="https://i.redd.it/nc4224rsomp71.gif"><img width="51" height="51" src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Game_of_life_animated_glider.gif"> <img width="51" height="51" src="https://upload.wikimedia.org/wikipedia/commons/3/37/Game_of_life_animated_LWSS.gif">
+### Hello World, I'm Ramon Mayor Martins! I'm in QAP QRV! <img width="50" height="50" src="https://i.redd.it/nc4224rsomp71.gif"><img width="51" height="51" src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Game_of_life_animated_glider.gif">
 
-
-
-```.... . .-.. .-.. ---```
-
-- ➡️ Visit my .io page: [https://rmayormartins.github.io/](https://rmayormartins.github.io/)
+<sub>```.... . .-.. .-.. ---```</sub><br>
+<sub>➡️ Visit my .io page: [https://rmayormartins.github.io/](https://rmayormartins.github.io/)</sub>
 #
 #### About me
-
-- 👨‍🏫 Professor of Engineering and Technical Education, in the area of Telecommunications, at [Instituto Federal de Santa Catarina](www.ifsc.edu.br)
-- 🎓 Ph.D. student at Computer Science Program from [Universidade Federal de Santa Catarina](www.ufsc.br) since 2021.
-- 🎓 M.Sc. in Telecommunications from [Instituto Nacional de Telecomunicações](www.inatel.br) since 2014.  
-- 🎓 Electrical Engineer with emphasis on Telematics, from the [Universidade do Sul de Santa Catarina - UNISUL](www.unisul.br) in 2010.
-- 🎓 Specialist in: Telecommunications Systems in 2015; Computer Networks in 2017; Systems Engineering in 2018
-- 🎓 Professional MBA in: Systems Analysis and Telecommunications in 2017
-- 👨🏻‍💻 Programmer since 1998,and my road: Basic,Pascal,C,CBuilder,Visual Basic,C++,Shell Script,Matlab,R,Python...
-- 🛰️ Satellite Radio operator, callsign PU4MAY licensed by ANATEL
-- 📻 Ham Radio (Radio Amateur) operator since 1996, callsign PU4MAY licensed by ANATEL
+<sub>👨‍🏫 Professor of Engineering and Technical Education, in the area of Telecommunications, at [Instituto Federal de Santa Catarina](www.ifsc.edu.br)</sub><br>
+<sub>🎓 Ph.D. student at Computer Science Program from [Universidade Federal de Santa Catarina](www.ufsc.br) since 2021.</sub></sub><br>
+<sub>🎓 M.Sc. in Telecommunications from [Instituto Nacional de Telecomunicações](www.inatel.br) since 2014.</sub><br>
+<sub>🎓 Electrical Engineer with emphasis on Telematics, from the [Universidade do Sul de Santa Catarina - UNISUL](www.unisul.br) in 2010.</sub><br>
+<sub>🎓 Specialist in: Telecommunications Systems in 2015; Computer Networks in 2017; Systems Engineering in 2018</sub><br>
+<sub>🎓 Professional MBA in: Systems Analysis and Telecommunications in 2017</sub><br>
+<sub>👨🏻‍💻 Programmer since 1998,and my road: Basic,Pascal,C,CBuilder,Visual Basic,C++,Shell Script,Matlab,R,Python...</sub><br>
+<sub>🛰️ Satellite Radio operator, callsign PU4MAY licensed by ANATEL</sub><br>
+<sub>📻 Ham Radio (Radio Amateur) operator since 1996, callsign PU4MAY licensed by ANATEL</sub>
 #
 #### More about me
-
-- 💻😺 [Github.io](https://rmayormartins.github.io/)
-- 📃👨‍🎓 [Lattes CV](http://lattes.cnpq.br/6289204315531991)
-- 📑🏫 [Wikipage](https://wiki.sj.ifsc.edu.br/index.php/Ramon_Mayor_Martins)
+<sub>💻😺 [Github.io](https://rmayormartins.github.io/)</sub><br>
+<sub>📃👨‍🎓 [Lattes CV](http://lattes.cnpq.br/6289204315531991)</sub><br>
+<sub>📑🏫 [Wikipage](https://wiki.sj.ifsc.edu.br/index.php/Ramon_Mayor_Martins)</sub>
 #
 #### Interest
-
-- 📡🛰️ Radiofrequency and Satellite comunications systems projects
-- 💻🤖 Artificial Intelligence and Machine/Deep Learning projects
+<sub>📡🛰️ Radiofrequency and Satellite comunications systems projects</sub><br>
+<sub>💻🤖 Artificial Intelligence and Machine/Deep Learning projects</sub>
 #
 #### Contact me
-
 How to reach me:
-- 📬🏫 ramon.mayor@ifsc.edu.br
-- 📬🐧 mayor@linuxmail.org
-- [other ways, see more](https://rmayormartins.github.io/contact.html)
+<sub>📬🏫 ramon.mayor@ifsc.edu.br</sub><br>
+<sub>📬🐧 mayor@linuxmail.org</sub><br>
+<sub>[other ways, see more](https://rmayormartins.github.io/contact.html)</sub><br>
 #
 #### More more about me:
-- 💻🎨 [OpenSea](https://opensea.io/collection/rmayormartins) -> _NFT Art - Non Fungible Token Crypto Art_
-- 🌐📈 [Insta @novarendainvest](https://www.instagram.com/novarendainvest/) -> _Economic and investment analysis_
+<sub>💻🎨 [OpenSea](https://opensea.io/collection/rmayormartins) -> _NFT Art - Non Fungible Token Crypto Art_</sub><br>
+<sub>🌐📈 [Insta @novarendainvest](https://www.instagram.com/novarendainvest/) -> _Economic and investment analysis_</sub><br>
 #
 #### Tech Stack 🛠💻
 
-![R](https://img.shields.io/badge/-R-333333?style=flat&logo=r)
+<sub><sup>![R](https://img.shields.io/badge/-R-333333?style=flat&logo=r)</sub></sup>
 ![PYTHON](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![CPP](https://img.shields.io/badge/C++-Solutions-blue.svg?style=flat&logo=c++)
 ![MATLAB](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)
@@ -95,12 +88,10 @@ How to reach me:
   <img width="200" height="140" src="https://user-images.githubusercontent.com/13935213/145812197-4d42e96b-f0e2-41cc-81f6-fb3c5ea32359.png">
   <img width="200" height="140" src="https://user-images.githubusercontent.com/13935213/145812328-efa4624b-3b8b-46cc-9d05-dcf57dfcc6f3.png">
   <img width="200" height="140" src="https://user-images.githubusercontent.com/13935213/146217554-7173f7c6-cac8-4837-bb49-cf81dfcce54b.png">
-
-
 </p>
 
-🙌💻[In honor of Alan Turing](https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf)</br>
-📢💻[In defense of the Goto statement](https://koblents.com/Ches/Links/Month-Mar-2013/20-Using-Goto-in-Linux-Kernel-Code/)
+<sub>📃💻[In honor of Alan Turing](https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf)</sub><br>
+<sub>📢💻[In defense of the Goto statement](https://koblents.com/Ches/Links/Month-Mar-2013/20-Using-Goto-in-Linux-Kernel-Code/)</sub><br>
 
 
-_...And eternal love with: Computer: XT, MSX; Processor: Zilog Z80; instructions: goto,gosub,gotoxy; libraries: graphics.h,conio.h,Allegro; IDEs: QBasic, Turbo C, devc++ and codeblock_
+<sub>_...And eternal love with: Computer: XT, MSX; Processor: Zilog Z80; instructions: goto,gosub,gotoxy; libraries: graphics.h,conio.h,Allegro; IDEs: QBasic, Turbo C, devc++ and codeblock_</sub><br>
