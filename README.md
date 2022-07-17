@@ -64,6 +64,7 @@ How to reach me:
   <img width="140" height="80" src="https://thumbs.gfycat.com/AffectionateMemorableGreyhounddog-size_restricted.gif">
  <img width="140" height="80" src="https://qph.fs.quoracdn.net/main-qimg-c05ec72225e19614f0cc10385d27525c">
   <img width="140" height="80" src="https://thumbs.gfycat.com/DisastrousGaseousAnole-max-1mb.gif">
+   <img width="140" height="80" src="https://miro.medium.com/max/840/1*tQ9PotwEr93jwFte56U8aA.gif">
 </p>
 
 #
@@ -86,6 +87,7 @@ How to reach me:
   <img width="140" height="80" src="https://user-images.githubusercontent.com/13935213/145812197-4d42e96b-f0e2-41cc-81f6-fb3c5ea32359.png">
   <img width="140" height="80" src="https://user-images.githubusercontent.com/13935213/145812328-efa4624b-3b8b-46cc-9d05-dcf57dfcc6f3.png">
   <img width="140" height="80" src="https://user-images.githubusercontent.com/13935213/146217554-7173f7c6-cac8-4837-bb49-cf81dfcce54b.png">
+  <img width="140" height="80" src="https://thumbs.gfycat.com/LateQuaintCassowary-max-1mb.gif">
 </p>
 <sub>📃💻[In honor of Alan Turing](https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf)</sub><br>
 <sub>📢💻[In defense of the Goto statement](https://koblents.com/Ches/Links/Month-Mar-2013/20-Using-Goto-in-Linux-Kernel-Code/)</sub><br>
