@@ -20,6 +20,7 @@
 <sub>📑🏫 [Wikipage](https://wiki.sj.ifsc.edu.br/index.php/Ramon_Mayor_Martins)</sub>
 #
 #### Interest
+<sub>👨‍🏫🤖 Strategies for Teaching Machine Learning in High School</sub><br>
 <sub>📡🛰️ Radiofrequency and Satellite comunications systems projects</sub><br>
 <sub>💻🤖 Artificial Intelligence and Machine/Deep Learning projects</sub>
 #
