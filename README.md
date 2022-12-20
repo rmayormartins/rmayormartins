@@ -61,7 +61,7 @@
 #
 #### Topic Pursuit🎯💻
 <p align="center">
-  <img width="140" height="80" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Animated_Hwss.gif">
+  <img width="140" height="80" src="https://miro.medium.com/max/632/1*z3JQucKIjgdSpTQ5F1Geew.gif">
   <img width="140" height="80" src="https://thumbs.gfycat.com/AffectionateMemorableGreyhounddog-size_restricted.gif">
  <img width="140" height="80" src="https://qph.fs.quoracdn.net/main-qimg-c05ec72225e19614f0cc10385d27525c">
   <img width="140" height="80" src="https://thumbs.gfycat.com/DisastrousGaseousAnole-max-1mb.gif">
