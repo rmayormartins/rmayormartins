@@ -75,6 +75,10 @@
   <img width="140" height="80" src="https://user-images.githubusercontent.com/13935213/139339938-19f6d05b-2d75-41b4-ab8c-f984f442e4fd.png">
   <img width="140" height="80" src="https://user-images.githubusercontent.com/13935213/139340075-d18e1c3e-556f-400a-ab61-dad7a92460b9.png">
   <img width="140" height="80" src="https://j.gifs.com/vQOpJ3.gif">
+  <img width="140" height="80" src="https://miro.medium.com/max/640/0*KkRlZBfC27Kq3raL.gif">
+  <img width="140" height="80" src="https://miro.medium.com/max/532/0*u2Y2NXPZsNHHqKnM.jpg">
+  <img width="140" height="80" src="https://miro.medium.com/max/480/0*xxEGUZ4AEACmaQpN.gif">
+<img width="140" height="80" src="https://miro.medium.com/max/640/0*6vMLIqNR6-RImE0b.gif">
  <img width="140" height="80" src="https://user-images.githubusercontent.com/13935213/145850530-5f758af9-a870-4bcf-ac47-53c450eb3876.png">
   <img width="140" height="80" src="https://i.ytimg.com/vi/fKU-NMrK4qw/hqdefault.jpg">
   <img width="140" height="80" src="https://upload.wikimedia.org/wikipedia/commons/7/71/Msxbasic.png">
