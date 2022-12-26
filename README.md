@@ -31,8 +31,9 @@
 <sub>[other ways, see more](https://rmayormartins.github.io/contact.html)</sub><br>
 #
 #### More more about me:
-<sub>💻🎨 [OpenSea](https://opensea.io/collection/rmayormartins) -> _NFT Art - Non Fungible Token Crypto Art_</sub><br>
-<sub>🌐📈 [Insta @novarendainvest](https://www.instagram.com/novarendainvest/) -> _Economic and investment analysis_</sub><br>
+<sub>💻🎨 [OpenSea](https://opensea.io/collection/aiandme) -> _NFT Art </sub><br>
+<sub>👨‍🎨🎨 [DeviantArt](https://www.deviantart.com/rmayormartins) -> Hand drawing Art </sub><br>
+<sub>🌐📈 [Insta @novarendainvest](https://www.instagram.com/novarendainvest/) -> _Finance and investment analysis_</sub><br>
 #
 #### Tech Stack🛠💻
 
