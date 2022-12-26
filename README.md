@@ -32,7 +32,7 @@
 #
 #### More more about me:
 <sub>💻🎨 [OpenSea](https://opensea.io/collection/aiandme) -> _NFT Art </sub><br>
-<sub>👨‍🎨🎨 [DeviantArt](https://www.deviantart.com/rmayormartins) -> Hand drawing Art </sub><br>
+<sub>👨‍🎨✏️ [DeviantArt](https://www.deviantart.com/rmayormartins) -> Hand drawing Art </sub><br>
 <sub>🌐📈 [Insta @novarendainvest](https://www.instagram.com/novarendainvest/) -> _Finance and investment analysis_</sub><br>
 #
 #### Tech Stack🛠💻
