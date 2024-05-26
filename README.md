@@ -62,10 +62,10 @@
 #
 #### Topic Pursuit🎯💻
 <p align="center">
-  <img width="140" height="80" src="https://miro.medium.com/max/632/1*z3JQucKIjgdSpTQ5F1Geew.gif">
-  <img width="140" height="80" src="https://thumbs.gfycat.com/AffectionateMemorableGreyhounddog-size_restricted.gif">
- <img width="140" height="80" src="https://qph.fs.quoracdn.net/main-qimg-c05ec72225e19614f0cc10385d27525c">
-  <img width="140" height="80" src="https://thumbs.gfycat.com/DisastrousGaseousAnole-max-1mb.gif">
+  <img width="140" height="80" src="https://miro.medium.com/v2/resize:fit:624/1*vnt4DlXUo_oYYYbtQu9qXw.png">
+  <img width="140" height="80" src="https://theaisummer.com/static/385447122c9c6ce73e449fe3a7ecf46a/ee604/hugging-face-vit.png">
+ <img width="140" height="80" src="https://miro.medium.com/v2/resize:fit:1000/1*63sGPbvLLpvlD16hG1bvmA.gif">
+  <img width="140" height="80" src="https://farm6.staticflickr.com/5520/9300199921_4c0ce4e4a4_z.jpg">
    <img width="140" height="80" src="https://miro.medium.com/max/840/1*tQ9PotwEr93jwFte56U8aA.gif">
 </p>
 
