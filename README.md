@@ -85,12 +85,12 @@
   <img width="140" height="80" src="https://upload.wikimedia.org/wikipedia/commons/7/71/Msxbasic.png">
   <img width="140" height="80" src="https://winworldpc.com/res/img/screenshots/2x-adf890821833e9f6e089b94ddd35b36b-Turbo%20C%202.0%20-%20Splash.png">
   <img width="140" height="80" src="https://i.pinimg.com/originals/35/ad/3e/35ad3e02c2a21a6164f6e9fa525e9bc0.gif">
-  <img width="140" height="80" src="https://thumbs.gfycat.com/FrankFavoriteAfricanmolesnake-max-1mb.gif">
+  <img width="140" height="80" src="https://bdjogos.com.br/fotos/13102017021515-super-soccer-snes-004.png">
   <img width="140" height="80" src="https://user-images.githubusercontent.com/13935213/139536119-e2450078-5f14-4377-813a-07975e44c30e.png">
-  <img width="140" height="80" src="https://thumbs.gfycat.com/RequiredShamefulCopperhead-size_restricted.gif">
+  <img width="140" height="80" src="https://4.bp.blogspot.com/-zn4Ob_G4XIU/WHV2h6WWgpI/AAAAAAAAWw8/K2HoOgo7xfsh8jfNtDvXsLz0RvnAd9logCLcB/s1600/Lamborghini-American-Challenge-Titus-Super-Nintendo-SNES-Amiga-PC-Xtreme-Retro-8.png">
    <img width="140" height="80" src="https://www.myabandonware.com/media/screenshots/n/nigel-mansells-world-championship-racing-1m5/nigel-mansells-world-championship-racing_4.png">
   <img width="140" height="80" src="https://s2.glbimg.com/0A4q4bt82qmQSbfbTKQiooZ263g=/0x0:1258x720/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/n/B/EPqiaiRyO4sdPjQPyCOg/allejo-international-superstar-soccer.jpg">
-  <img width="140" height="80" src="https://thumbs.gfycat.com/LateQuaintCassowary-max-1mb.gif">
+  <img width="140" height="80" src="https://r.mprd.se/media/images/35386-Sonic_Wings_(Japan)-1491088625.jpg">
   <img width="140" height="80" src="https://user-images.githubusercontent.com/13935213/145812197-4d42e96b-f0e2-41cc-81f6-fb3c5ea32359.png">
   <img width="140" height="80" src="https://user-images.githubusercontent.com/13935213/145812328-efa4624b-3b8b-46cc-9d05-dcf57dfcc6f3.png">
   <img width="140" height="80" src="https://user-images.githubusercontent.com/13935213/146217554-7173f7c6-cac8-4837-bb49-cf81dfcce54b.png">
