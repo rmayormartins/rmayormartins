@@ -2,6 +2,7 @@
 
 <sub>```.... . .-.. .-.. ---```</sub><br>
 <sub>➡️ Visit my .io page: [https://rmayormartins.github.io/](https://rmayormartins.github.io/)</sub><br>
+<sub>➡️ Visit my Hugging Face spaces: [https://huggingface.co/rmayormartins)</sub><br>
 #
 #### About me
 <sub>👨‍🏫 Professor of Engineering and Technical Education, in the area of Telecommunications, at [Instituto Federal de Santa Catarina](www.ifsc.edu.br)</sub><br>
@@ -10,19 +11,25 @@
 <sub>🎓 Electrical Engineer with emphasis on Telematics, from the [Universidade do Sul de Santa Catarina - UNISUL](www.unisul.br) in 2010.</sub><br>
 <sub>🎓 Specialist in: Telecommunications Systems in 2015; Computer Networks in 2017; Systems Engineering in 2018</sub><br>
 <sub>🎓 Professional MBA in: Systems Analysis and Telecommunications in 2017</sub><br>
-<sub>👨🏻‍💻 Programmer since 1998,and my road: Basic,Pascal,C,CBuilder,Visual Basic,C++,Shell Script,Matlab,R,Python...</sub><br>
+<sub>👨🏻‍💻 Programmer since 1998, and my road: Basic, Pascal, C, CBuilder, Visual Basic, C++, Shell Script, Matlab, R, Python...</sub><br>
 <sub>🛰️ Satellite Radio operator, callsign PU4MAY licensed by ANATEL</sub><br>
 <sub>📻 Ham Radio (Radio Amateur) operator since 1996, callsign PU4MAY licensed by ANATEL</sub>
 #
 #### More about me
 <sub>💻😺 [Github.io](https://rmayormartins.github.io/)</sub><br>
 <sub>📃👨‍🎓 [Lattes CV](http://lattes.cnpq.br/6289204315531991)</sub><br>
-<sub>📑🏫 [Wikipage](https://wiki.sj.ifsc.edu.br/index.php/Ramon_Mayor_Martins)</sub>
+<sub>📑🏫 [Wikipage](https://wiki.sj.ifsc.edu.br/index.php/Ramon_Mayor_Martins)</sub><br>
 #
 #### Interest
-<sub>👨‍🏫🤖 Strategies for Teaching Machine Learning in High School</sub><br>
-<sub>📡🛰️ Radiofrequency and Satellite comunications systems projects</sub><br>
+<sub>👨‍🏫🤖 Strategies for Teaching Machine Learning </sub><br>
+<sub>📡🛰️ Radiofrequency and Satellite communications systems projects</sub><br>
 <sub>💻🤖 Artificial Intelligence and Machine/Deep Learning projects</sub>
+#
+#### Researches
+<sub>📃🏫 [PhD activities](https://wiki.sj.ifsc.edu.br/index.php/Ramon_Mayor_Martins_PhD_memorial)</sub><br>
+<sub>📃🏫 [Google Scholar](https://scholar.google.com.br/citations?user=8SWqOv8AAAAJ&hl=pt-BR)</sub><br>
+<sub>📃🏫 [Researchgate](https://www.researchgate.net/profile/Ramon-Martins-5)</sub><br>
+<sub>📃🏫 [Academia.edu](https://ifsc.academia.edu/RamonMayorMartins)</sub>
 #
 #### Contact me
 <sub>How to reach me:</sub><br>
@@ -33,10 +40,8 @@
 #### More more about me:
 <sub>💻🎨 [OpenSea](https://opensea.io/collection/aiandme) -> _NFT Art </sub><br>
 <sub>👨‍🎨✏️ [DeviantArt](https://www.deviantart.com/rmayormartins) -> Hand drawing Art </sub><br>
-<sub>🌐📈 [Insta @novarendainvest](https://www.instagram.com/novarendainvest/) -> _Finance and investment analysis_</sub><br>
 #
 #### Tech Stack🛠💻
-
 ![R](https://img.shields.io/badge/-R-333333?style=flat&logo=r)
 ![PYTHON](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![CPP](https://img.shields.io/badge/C++-Solutions-blue.svg?style=flat&logo=c++)
