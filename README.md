@@ -2,11 +2,11 @@
 
 <sub>```.... . .-.. .-.. ---```</sub><br>
 <sub>➡️ Visit my .io page: [https://rmayormartins.github.io/](https://rmayormartins.github.io/)</sub><br>
-<sub>➡️ Visit my Hugging Face spaces: [https://huggingface.co/rmayormartins)</sub><br>
+<sub>➡️ Visit my Hugging Face Spaces: [https://huggingface.co/rmayormartins](https://huggingface.co/rmayormartins)</sub><br>
 #
 #### About me
 <sub>👨‍🏫 Professor of Engineering and Technical Education, in the area of Telecommunications, at [Instituto Federal de Santa Catarina](www.ifsc.edu.br)</sub><br>
-<sub>🎓 Ph.D. student at Computer Science Program from [Universidade Federal de Santa Catarina](www.ufsc.br) since 2021.</sub></sub><br>
+<sub>🎓 Ph.D. student in the Computer Science Program from [Universidade Federal de Santa Catarina](www.ufsc.br) since 2021.</sub></sub><br>
 <sub>🎓 M.Sc. in Telecommunications from [Instituto Nacional de Telecomunicações](www.inatel.br) since 2014.</sub><br>
 <sub>🎓 Electrical Engineer with emphasis on Telematics, from the [Universidade do Sul de Santa Catarina - UNISUL](www.unisul.br) in 2010.</sub><br>
 <sub>🎓 Specialist in: Telecommunications Systems in 2015; Computer Networks in 2017; Systems Engineering in 2018</sub><br>
@@ -56,8 +56,9 @@
 ![bash](https://img.shields.io/badge/Made%20with-Bash-1f425f.svg)
 ![shell](https://img.shields.io/badge/Shell%20Script-using-blue)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Naereen/badges)
+![HuggingFace Spaces](https://img.shields.io/badge/HuggingFace-Spaces-blue?style=flat)
+![HuggingFace Transformer](https://img.shields.io/badge/HuggingFace-Transformers-blue?style=flat)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Naereen/badges)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rmayormartins&show_icons=true&theme=syjnthwave)
