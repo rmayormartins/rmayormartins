@@ -3,79 +3,114 @@
 <sub>```.... . .-.. .-.. ---```</sub><br>
 <sub>➡️ Visit my .io page: [https://rmayormartins.github.io/](https://rmayormartins.github.io/)</sub><br>
 <sub>➡️ Visit my Hugging Face Spaces: [https://huggingface.co/rmayormartins](https://huggingface.co/rmayormartins)</sub><br>
-#
+
+---
+
 #### About me
-<sub>👨‍🏫 Professor of Engineering and Technical Education, in the area of Telecommunications, at [Instituto Federal de Santa Catarina](www.ifsc.edu.br)</sub><br>
-<sub>🎓 Ph.D. student in the Computer Science Program from [Universidade Federal de Santa Catarina](www.ufsc.br) since 2021.</sub></sub><br>
-<sub>🎓 M.Sc. in Telecommunications from [Instituto Nacional de Telecomunicações](www.inatel.br) since 2014.</sub><br>
-<sub>🎓 Electrical Engineer with emphasis on Telematics, from the [Universidade do Sul de Santa Catarina - UNISUL](www.unisul.br) in 2010.</sub><br>
-<sub>🎓 Specialist in: Telecommunications Systems in 2015; Computer Networks in 2017; Systems Engineering in 2018</sub><br>
-<sub>🎓 Professional MBA in: Systems Analysis and Telecommunications in 2017</sub><br>
-<sub>👨🏻‍💻 Programmer since 1998, and my road: Basic, Pascal, C, CBuilder, Visual Basic, C++, Shell Script, Matlab, R, Python...</sub><br>
-<sub>🛰️ Satellite Radio operator, callsign PU4MAY licensed by ANATEL</sub><br>
-<sub>📻 Ham Radio (Radio Amateur) operator since 1996, callsign PU4MAY licensed by ANATEL</sub>
-#
+
+| <sub>Info</sub> | <sub>Details</sub> |
+| ---- | ------- |
+| <sub>👨‍🏫 Professor </sub>|  <sub>Engineering and Technical Education, Telecommunications at [Instituto Federal de Santa Catarina](www.ifsc.edu.br) </sub>|
+| <sub>🎓 Ph.D. student </sub>| <sub>Computer Science at [Universidade Federal de Santa Catarina](www.ufsc.br) since 2021 </sub>|
+| <sub>🎓 M.Sc. </sub>| <sub>Telecommunications from [Instituto Nacional de Telecomunicações](www.inatel.br) since 2014 </sub>|
+| <sub>🎓 Electrical Engineer </sub>| <sub>Emphasis on Telematics from [Universidade do Sul de Santa Catarina - UNISUL](www.unisul.br) in 2010 </sub>|
+| <sub>🎓 Specialist </sub>| <sub>Telecommunications Systems (2015), Computer Networks (2017), Systems Engineering (2018) </sub>|
+| <sub>🎓 MBA </sub>| <sub>Systems Analysis and Telecommunications (2017) </sub>|
+| <sub>👨🏻‍💻 Programmer </sub>| <sub>Since 1998: Basic, Pascal, C, CBuilder, Visual Basic, C++, Shell Script, Matlab, R, Python... </sub>|
+| <sub>🛰️ Satellite Radio Operator </sub>| <sub>Callsign PU4MAY licensed by ANATEL </sub>|
+| <sub>📻 Ham Radio Operator </sub>| <sub>Since 1996, callsign PU4MAY licensed by ANATEL </sub>|
+
+---
+
 #### More about me
-<sub>💻😺 [Github.io](https://rmayormartins.github.io/)</sub><br>
-<sub>📃👨‍🎓 [Lattes CV](http://lattes.cnpq.br/6289204315531991)</sub><br>
-<sub>📑🏫 [Wikipage](https://wiki.sj.ifsc.edu.br/index.php/Ramon_Mayor_Martins)</sub><br>
-#
-#### Interest
-<sub>👨‍🏫🤖 Strategies for Teaching Machine Learning </sub><br>
-<sub>📡🛰️ Radiofrequency and Satellite communications systems projects</sub><br>
-<sub>💻🤖 Artificial Intelligence and Machine/Deep Learning projects</sub>
-#
+
+| <sub>Links</sub> | <sub>Details</sub> |
+| ----- | ------- |
+| <sub>💻😺 [Github.io](https://rmayormartins.github.io/)</sub> | <sub>My personal webpage</sub> |
+| <sub>📃👨‍🎓 [Lattes CV](http://lattes.cnpq.br/6289204315531991)</sub> | <sub>Curriculum Vitae</sub> |
+| <sub>📑🏫 [Wikipage](https://wiki.sj.ifsc.edu.br/index.php/Ramon_Mayor_Martins)</sub> | <sub>Personal Wiki page</sub> |
+
+---
+
+#### Interests
+
+| <sub>Interest</sub> | <sub>Details</sub> |
+| -------- | ------- |
+| <sub>👨‍🏫🤖</sub> | <sub>Strategies for Teaching Machine Learning</sub> |
+| <sub>📡🛰️</sub> | <sub>Radiofrequency and Satellite communications systems projects</sub> |
+| <sub>💻🤖</sub> | <sub>Artificial Intelligence and Machine/Deep Learning projects</sub> |
+
+---
+
 #### Researches
-<sub>📃🏫 [PhD activities](https://wiki.sj.ifsc.edu.br/index.php/Ramon_Mayor_Martins_PhD_memorial)</sub><br>
-<sub>📃🏫 [Google Scholar](https://scholar.google.com.br/citations?user=8SWqOv8AAAAJ&hl=pt-BR)</sub><br>
-<sub>📃🏫 [Researchgate](https://www.researchgate.net/profile/Ramon-Martins-5)</sub><br>
-<sub>📃🏫 [Academia.edu](https://ifsc.academia.edu/RamonMayorMartins)</sub>
-#
+
+| <sub>Research</sub> | <sub>Details</sub> |
+| -------- | ------- |
+| <sub>📃🏫 [PhD activities](https://wiki.sj.ifsc.edu.br/index.php/Ramon_Mayor_Martins_PhD_memorial)</sub> | <sub>My PhD research activities</sub> |
+| <sub>📃🏫 [Google Scholar](https://scholar.google.com.br/citations?user=8SWqOv8AAAAJ&hl=pt-BR)</sub> | <sub>Google Scholar profile</sub> |
+| <sub>📃🏫 [Researchgate](https://www.researchgate.net/profile/Ramon-Martins-5)</sub> | <sub>ResearchGate profile</sub> |
+| <sub>📃🏫 [Academia.edu](https://ifsc.academia.edu/RamonMayorMartins)</sub> | <sub>Academia.edu profile</sub> |
+
+---
+
 #### Contact me
-<sub>How to reach me:</sub><br>
-<sub>📬🏫 ramon.mayor@ifsc.edu.br</sub><br>
-<sub>📬🐧 mayor@linuxmail.org</sub><br>
-<sub>[other ways, see more](https://rmayormartins.github.io/contact.html)</sub><br>
-#
-#### More more about me:
-<sub>💻🎨 [OpenSea](https://opensea.io/collection/aiandme) -> _NFT Art </sub><br>
-<sub>👨‍🎨✏️ [DeviantArt](https://www.deviantart.com/rmayormartins) -> Hand drawing Art </sub><br>
-#
+
+| <sub>Method</sub> | <sub>Details</sub> |
+| ------ | ------- |
+| <sub>📬🏫</sub> | <sub>ramon.mayor@ifsc.edu.br</sub> |
+| <sub>📬🐧</sub> | <sub>mayor@linuxmail.org</sub> |
+| <sub>[More ways to reach me](https://rmayormartins.github.io/contact.html)</sub> | <sub>Various contact methods</sub> |
+
+---
+
+#### More more about me
+
+| <sub>Platform</sub> | <sub>Details</sub> |
+| -------- | ------- |
+| <sub>💻🎨 [OpenSea](https://opensea.io/collection/aiandme)</sub> | <sub>NFT Art</sub> |
+| <sub>👨‍🎨✏️ [DeviantArt](https://www.deviantart.com/rmayormartins)</sub> | <sub>Hand drawing Art</sub> |
+
+---
+
 #### Tech Stack🛠💻
-![R](https://img.shields.io/badge/-R-333333?style=flat&logo=r)
-![PYTHON](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![CPP](https://img.shields.io/badge/C++-Solutions-blue.svg?style=flat&logo=c++)
-![MATLAB](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)
-![basic](https://img.shields.io/badge/Basic-MSX-blue)
-![c](https://img.shields.io/badge/C-ANSI-blue)
-![lolcode](https://img.shields.io/badge/LOLCODE-Esoteric%20Prog.%20Lang.-blue)
-![fastai](https://img.shields.io/badge/Fast.ai-deep%20learning%20library-blue)
-![gnuradio](https://img.shields.io/badge/GNU%20Radio-SDR%20Systems-blue)
-![OpenCV](https://img.shields.io/badge/-OpenCV-333333?style=flat&logo=OpenCV)
-![latex](https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg)
-![bash](https://img.shields.io/badge/Made%20with-Bash-1f425f.svg)
-![shell](https://img.shields.io/badge/Shell%20Script-using-blue)
-![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-![HuggingFace Spaces](https://img.shields.io/badge/HuggingFace-Spaces-blue?style=flat)
-![HuggingFace Transformer](https://img.shields.io/badge/HuggingFace-Transformers-blue?style=flat)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Naereen/badges)
 
+<sub>![R](https://img.shields.io/badge/-R-333333?style=flat&logo=r)</sub>
+<sub>![PYTHON](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)</sub>
+<sub>![CPP](https://img.shields.io/badge/C++-Solutions-blue.svg?style=flat&logo=c++)</sub>
+<sub>![MATLAB](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)</sub>
+<sub>![basic](https://img.shields.io/badge/Basic-MSX-blue)</sub>
+<sub>![c](https://img.shields.io/badge/C-ANSI-blue)</sub>
+<sub>![lolcode](https://img.shields.io/badge/LOLCODE-Esoteric%20Prog.%20Lang.-blue)</sub>
+<sub>![fastai](https://img.shields.io/badge/Fast.ai-deep%20learning%20library-blue)</sub>
+<sub>![gnuradio](https://img.shields.io/badge/GNU%20Radio-SDR%20Systems-blue)</sub>
+<sub>![OpenCV](https://img.shields.io/badge/-OpenCV-333333?style=flat&logo=OpenCV)</sub>
+<sub>![latex](https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg)</sub>
+<sub>![bash](https://img.shields.io/badge/Made%20with-Bash-1f425f.svg)</sub>
+<sub>![shell](https://img.shields.io/badge/Shell%20Script-using-blue)</sub>
+<sub>![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)</sub>
+<sub>![HuggingFace Spaces](https://img.shields.io/badge/HuggingFace-Spaces-blue?style=flat)</sub>
+<sub>![HuggingFace Transformer](https://img.shields.io/badge/HuggingFace-Transformers-blue?style=flat)</sub>
+<sub>[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Naereen/badges)</sub>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rmayormartins&show_icons=true&theme=syjnthwave)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmayormartins&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<sub>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rmayormartins&show_icons=true&theme=syjnthwave)</sub>
+<sub>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmayormartins&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</sub>
 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=username.rmayormartins)
-#
+<sub>![Visitor](https://visitor-badge.laobi.icu/badge?page_id=username.rmayormartins)</sub>
+
+---
+
 #### Topic Pursuit🎯💻
+
 <p align="center">
   <img width="140" height="80" src="https://miro.medium.com/v2/resize:fit:624/1*vnt4DlXUo_oYYYbtQu9qXw.png">
   <img width="140" height="80" src="https://theaisummer.com/static/385447122c9c6ce73e449fe3a7ecf46a/ee604/hugging-face-vit.png">
- <img width="140" height="80" src="https://miro.medium.com/v2/resize:fit:1000/1*63sGPbvLLpvlD16hG1bvmA.gif">
+  <img width="140" height="80" src="https://miro.medium.com/v2/resize:fit:1000/1*63sGPbvLLpvlD16hG1bvmA.gif">
   <img width="140" height="80" src="https://farm6.staticflickr.com/5520/9300199921_4c0ce4e4a4_z.jpg">
-   <img width="140" height="80" src="https://miro.medium.com/max/840/1*tQ9PotwEr93jwFte56U8aA.gif">
+  <img width="140" height="80" src="https://miro.medium.com/max/840/1*tQ9PotwEr93jwFte56U8aA.gif">
 </p>
 
-#
+---
+
 #### My Memorial (1988-1998)🗿💻
 <p align="center">
   <img width="140" height="80" src="https://www.msx.org/sites/default/files/news/2014/08/batman.png">
