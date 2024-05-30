@@ -101,7 +101,6 @@
   <img width="140" height="80" src="https://user-images.githubusercontent.com/13935213/145812328-efa4624b-3b8b-46cc-9d05-dcf57dfcc6f3.png">
   <img width="140" height="80" src="https://user-images.githubusercontent.com/13935213/146217554-7173f7c6-cac8-4837-bb49-cf81dfcce54b.png">
   <img width="140" height="80" src="https://www.chartwellyorke.com/derive/images/in_action/550/simultaneousequations.gif">
-  <img width="140" height="80" src="https://www.chartwellyorke.com/derive/images/in_action/550/simultaneousequations.gif">
 </p>
 <sub>📃💻[In honor of Alan Turing](https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf)</sub><br>
 <sub>📢💻[In defense of the Goto statement](https://koblents.com/Ches/Links/Month-Mar-2013/20-Using-Goto-in-Linux-Kernel-Code/)</sub><br>
