@@ -67,7 +67,6 @@
 
 | <sub>Platform</sub> | <sub>Details</sub> |
 | -------- | ------- |
-| <sub>💻🎨 [OpenSea](https://opensea.io/collection/aiandme)</sub> | <sub>NFT Art</sub> |
 | <sub>👨‍🎨✏️ [DeviantArt](https://www.deviantart.com/rmayormartins)</sub> | <sub>Hand drawing Art</sub> |
 
 ---
