@@ -53,6 +53,15 @@
 
 ---
 
+#### On-the-fly spaces
+
+| <sub>Platform</sub> | <sub>Details</sub> |
+| -------- | ------- |
+| <sub>💻🤗 [Hugging Face Space](https://huggingface.co/rmayormartins)</sub> | <sub>IA/ML Projects</sub> |
+| <sub>📃😺 [Gitbook Space](https://app.gitbook.com/invite/Py9VZr7k7OWAOCot6mDs/TZMbqJZtWUqllIPRGDfd)</sub> | <sub>Documentation and Guides</sub> |
+
+---
+
 #### Contact me
 
 | <sub>Method</sub> | <sub>Details</sub> |
