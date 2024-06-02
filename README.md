@@ -13,7 +13,7 @@
 | <sub>👨‍🏫 Professor </sub>|  <sub>Engineering and Technical Education, Telecommunications at [Instituto Federal de Santa Catarina](www.ifsc.edu.br) </sub>|
 | <sub>🎓 Ph.D. student </sub>| <sub>Computer Science at [Universidade Federal de Santa Catarina](www.ufsc.br) since 2021 </sub>|
 | <sub>🎓 M.Sc. </sub>| <sub>Telecommunications from [Instituto Nacional de Telecomunicações](www.inatel.br) since 2014 </sub>|
-| <sub>🎓 Electrical Engineer </sub>| <sub>Emphasis on Telematics from [Universidade do Sul de Santa Catarina - UNISUL](www.unisul.br) in 2010 </sub>|
+| <sub>🎓 Engineer </sub>| <sub>Electrical emphasis on Telematics and Telecommunications from [Universidade do Sul de Santa Catarina - UNISUL](www.unisul.br) in 2010 </sub>|
 | <sub>🎓 Specialist </sub>| <sub>Telecommunications Systems (2015), Computer Networks (2017), Systems Engineering (2018) </sub>|
 | <sub>🎓 MBA </sub>| <sub>Systems Analysis and Telecommunications (2017) </sub>|
 | <sub>👨🏻‍💻 Programmer </sub>| <sub>Since 1998: Basic, Pascal, C, CBuilder, Visual Basic, C++, Shell Script, Matlab, R, Python... </sub>|
@@ -68,6 +68,8 @@
 | <sub>Platform</sub> | <sub>Details</sub> |
 | -------- | ------- |
 | <sub>👨‍🎨✏️ [DeviantArt](https://www.deviantart.com/rmayormartins)</sub> | <sub>Hand drawing Art</sub> |
+| <sub>📻🎵 [SoundCloud](https://soundcloud.com/odinwottan)</sub> | <sub>Shortwaves Radio Tracks</sub> |
+| <sub>📌 [Pinterest](https://br.pinterest.com/rmayormartins/)</sub> | <sub>Images Collections</sub> |
 
 ---
 
