@@ -58,6 +58,7 @@
 | <sub>Platform</sub> | <sub>Details</sub> |
 | -------- | ------- |
 | <sub>💻🤗 [Hugging Face Space](https://huggingface.co/rmayormartins)</sub> | <sub>IA/ML Projects</sub> |
+| <sub>💻👾 [Replit Repls](https://replit.com/@rmayormartins)</sub> | <sub>Code Projects</sub> |
 | <sub>📃😺 [Gitbook Space](https://app.gitbook.com/invite/Py9VZr7k7OWAOCot6mDs/TZMbqJZtWUqllIPRGDfd)</sub> | <sub>Personal Organization</sub> |
 
 ---
