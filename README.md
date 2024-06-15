@@ -26,8 +26,9 @@
 
 #### On-the-fly spaces
 
-💻🤗|| Hugging Face Spaces: [https://huggingface.co/rmayormartins](https://huggingface.co/rmayormartins)<br>
-💻👾|| Replit Code Projects [Replit Repls](https://replit.com/@rmayormartins) 
+💻🤗|| Hugging Face Spaces: (https://huggingface.co/rmayormartins)<br>
+💻👾|| Replit Code Projects (https://replit.com/@rmayormartins) <br>
+💻 **k** || Kaggle Projects (https://www.kaggle.com/rmayormartins)
 
 ---
 #### Contact me
