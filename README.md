@@ -1,88 +1,41 @@
 ### CQ DX, Hello World, I'm Ramon Mayor Martins! I'm in QAP QRV! <img width="50" height="50" src="https://i.redd.it/nc4224rsomp71.gif"><img width="51" height="51" src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Game_of_life_animated_glider.gif">
 
-<sub>```.... . .-.. .-.. ---```</sub><br>
-<sub>➡️ Visit my .io page: [https://rmayormartins.github.io/](https://rmayormartins.github.io/)</sub><br>
-<sub>➡️ Visit my Hugging Face Spaces: [https://huggingface.co/rmayormartins](https://huggingface.co/rmayormartins)</sub><br>
+```.... . .-.. .-.. ---```<br>
+➡️ Visit my .io page: [https://rmayormartins.github.io/](https://rmayormartins.github.io/)<br>
 
 ---
-
 #### About me
-
-| <sub>Info</sub> | <sub>Details</sub> |
-| ---- | ------- |
-| <sub>👨‍🏫 Professor </sub>|  <sub>Engineering and Technical Education, Telecommunications at [Instituto Federal de Santa Catarina](www.ifsc.edu.br) </sub>|
-| <sub>🎓 Ph.D. student </sub>| <sub>Computer Science at [Universidade Federal de Santa Catarina](www.ufsc.br) since 2021 </sub>|
-| <sub>🎓 M.Sc. </sub>| <sub>Telecommunications from [Instituto Nacional de Telecomunicações](www.inatel.br) since 2014 </sub>|
-| <sub>🎓 PGC </sub>| <sub>Telecommunications Systems (2015), Computer Networks (2017), Systems Engineering (2018) </sub>|
-| <sub>🎓 MBA </sub>| <sub>Systems Analysis and Telecommunications (2017) </sub>|
-| <sub>🎓 Engineer </sub>| <sub>Electrical emphasis on Telematics and Telecommunications from [Universidade do Sul de Santa Catarina - UNISUL](www.unisul.br) in 2010 </sub>|
-| <sub>👨🏻‍💻 Programmer </sub>| <sub>Since 1998: Basic, Pascal, C, CBuilder, Visual Basic, C++, Shell Script, Matlab, R, Python... </sub>|
-| <sub>📻 Ham Radio Operator </sub>| <sub>Since 1996, callsign PU4MAY licensed by ANATEL </sub>|
-| <sub>🛰️ Satellite Radio Operator </sub>| <sub>Callsign PU4MAY licensed by ANATEL </sub>|
-
+```
+👨‍🏫|| Professor of Engineering and Technical Education, Telecommunications at [IFSC - Instituto Federal de Santa Catarina]
+🎓|| Ph.D. student, Computer Science at [UFSC - Universidade Federal de Santa Catarina]
+🛰️|| M.Sc. in Telecommunications from [INATEL - Instituto Nacional de Telecomunicações]
+🎓|| PGC in Telecommunications Systems, Computer Networks, Systems Engineering
+🎓|| MBA in Systems Analysis and Telecommunications
+🎓|| Electrical Engineering emphasis on Telematics and Telecommunications from [UNISUL - Universidade do Sul de Santa Catarina]
+👨🏻‍💻|| Programmer, since 1998: Basic, Pascal, C, CBuilder, Visual Basic, C++, Shell Script, Matlab, R, Python...
+📡|| Ham Radio Operator, since 1996, callsign PU4MAY licensed by ANATEL
+🛰️|| Satellite Radio Operator, Callsign PU4MAY licensed by ANATEL
+```
 ---
-
-#### More about me
-
-| <sub>Links</sub> | <sub>Details</sub> |
-| ----- | ------- |
-| <sub>💻😺 [Github.io](https://rmayormartins.github.io/)</sub> | <sub>My personal webpage</sub> |
-| <sub>📃👨‍🎓 [Lattes CV](http://lattes.cnpq.br/6289204315531991)</sub> | <sub>Curriculum Vitae</sub> |
-| <sub>📑🏫 [Wikipage](https://wiki.sj.ifsc.edu.br/index.php/Ramon_Mayor_Martins)</sub> | <sub>Personal Wiki page</sub> |
-
----
-
 #### Interests
-
-| <sub>Interest</sub> | <sub>Details</sub> |
-| -------- | ------- |
-| <sub>👨‍🏫🤖</sub> | <sub>Strategies for Teaching Machine Learning</sub> |
-| <sub>📡🛰️</sub> | <sub>Radiofrequency and Satellite communications systems projects</sub> |
-| <sub>💻🤖</sub> | <sub>Artificial Intelligence and Machine/Deep Learning projects</sub> |
-
----
-
-#### Researches
-
-| <sub>Research</sub> | <sub>Details</sub> |
-| -------- | ------- |
-| <sub>📃🏫 [PhD activities](https://wiki.sj.ifsc.edu.br/index.php/Ramon_Mayor_Martins_PhD_memorial)</sub> | <sub>My PhD research activities</sub> |
-| <sub>📃🏫 [Google Scholar](https://scholar.google.com.br/citations?user=8SWqOv8AAAAJ&hl=pt-BR)</sub> | <sub>Google Scholar profile</sub> |
-| <sub>📃🏫 [Researchgate](https://www.researchgate.net/profile/Ramon-Martins-5)</sub> | <sub>ResearchGate profile</sub> |
-| <sub>📃🏫 [Academia.edu](https://ifsc.academia.edu/RamonMayorMartins)</sub> | <sub>Academia.edu profile</sub> |
-
----
+```
+👨‍🏫🤖|| Strategies for Teaching Machine Learning
+📡🛰️|| Radiofrequency and Satellite communications systems projects
+💻🤖|| Artificial Intelligence and Machine/Deep Learning projects
+```
 
 #### On-the-fly spaces
 
-| <sub>Platform</sub> | <sub>Details</sub> |
-| -------- | ------- |
-| <sub>💻🤗 [Hugging Face Space](https://huggingface.co/rmayormartins)</sub> | <sub>IA/ML Projects</sub> |
-| <sub>💻👾 [Replit Repls](https://replit.com/@rmayormartins)</sub> | <sub>Code Projects</sub> |
-| <sub>📃😺 [Gitbook Space](https://app.gitbook.com/invite/Py9VZr7k7OWAOCot6mDs/TZMbqJZtWUqllIPRGDfd)</sub> | <sub>Personal Organization</sub> |
+💻🤗|| Hugging Face Spaces: [https://huggingface.co/rmayormartins](https://huggingface.co/rmayormartins)<br>
+💻👾|| Replit Code Projects [Replit Repls](https://replit.com/@rmayormartins) 
 
 ---
-
 #### Contact me
-
-| <sub>Method</sub> | <sub>Details</sub> |
-| ------ | ------- |
-| <sub>📬🏫</sub> | <sub>ramon.mayor@ifsc.edu.br</sub> |
-| <sub>📬🐧</sub> | <sub>mayor@linuxmail.org</sub> |
-| <sub>[More ways to reach me](https://rmayormartins.github.io/contact.html)</sub> | <sub>Various contact methods</sub> |
-
+```
+📬🏫||ramon.mayor@ifsc.edu.br
+📬🐧||mayor@linuxmail.org
+```
 ---
-
-#### More more about me
-
-| <sub>Platform</sub> | <sub>Details</sub> |
-| -------- | ------- |
-| <sub>👨‍🎨✏️ [DeviantArt](https://www.deviantart.com/rmayormartins)</sub> | <sub>Hand drawing Art</sub> |
-| <sub>📻🎵 [SoundCloud](https://soundcloud.com/odinwottan)</sub> | <sub>Shortwaves Radio Tracks</sub> |
-| <sub>📌 [Pinterest](https://br.pinterest.com/rmayormartins/)</sub> | <sub>Images Collections</sub> |
-
----
-
 #### Tech Stack🛠💻
 
 <sub>![R](https://img.shields.io/badge/-R-333333?style=flat&logo=r)</sub>
