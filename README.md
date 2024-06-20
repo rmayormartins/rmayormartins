@@ -25,11 +25,11 @@
 ```
 
 #### On-the-fly spaces
-
-💻🤗|| Hugging Face Spaces: (https://huggingface.co/rmayormartins)<br>
-💻👾|| Replit Code Projects (https://replit.com/@rmayormartins) <br>
-💻 **k** || Kaggle Projects (https://www.kaggle.com/rmayormartins)
-
+```
+💻🤗|| Hugging Face Spaces: https://huggingface.co/rmayormartins<br>
+💻👾|| Replit Code Projects: https://replit.com/@rmayormartins <br>
+💻 K|| Kaggle Projects: https://www.kaggle.com/rmayormartins
+```
 ---
 #### Contact me
 ```
