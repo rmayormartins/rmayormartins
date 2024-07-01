@@ -62,8 +62,6 @@
 
 <sub>![Visitor](https://visitor-badge.laobi.icu/badge?page_id=username.rmayormartins)</sub>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 ---
 
 #### Topic Pursuit🎯💻
