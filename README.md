@@ -7,7 +7,7 @@
 #### About me
 ```
 👨‍🏫|| Professor of Engineering and Technical Education, Telecommunications at [IFSC - Instituto Federal de Santa Catarina]
-🎓|| Ph.D. student, Computer Science at [UFSC - Universidade Federal de Santa Catarina]
+🎓|| Ph.D. in Computer Science from [UFSC - Universidade Federal de Santa Catarina]
 🛰️|| M.Sc. in Telecommunications from [INATEL - Instituto Nacional de Telecomunicações]
 🎓|| PGC in Telecommunications Systems, Computer Networks, Systems Engineering
 🎓|| MBA in Systems Analysis and Telecommunications
