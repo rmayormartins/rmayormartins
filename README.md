@@ -60,6 +60,8 @@
 <sub>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rmayormartins&show_icons=true&theme=syjnthwave)</sub>
 <sub>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmayormartins&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</sub>
 
+<sub>![stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rmayormartins&theme=transparent)</sub>
+
 <sub>![Visitor](https://visitor-badge.laobi.icu/badge?page_id=username.rmayormartins)</sub><br>
 <sub>![Visitor Count](https://profile-counter.glitch.me/rmayormartins/count.svg)</sub>
 ---
