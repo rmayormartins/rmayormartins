@@ -33,8 +33,8 @@
 ---
 #### Contact me
 ```
-📬🏫||ramon.mayor@ifsc.edu.br
-📬🐧||mayor@linuxmail.org
+📬🏫||ramon.mayor at: ifsc.edu.br
+📬🐧||mayor at: linuxmail.org
 ```
 ---
 #### Tech Stack🛠💻
