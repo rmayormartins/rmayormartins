@@ -1,4 +1,4 @@
-### CQ DX, Hello World, I'm Ramon Mayor Martins! I'm in QAP QRV! <img width="50" height="50" src="https://i.redd.it/nc4224rsomp71.gif"><img width="51" height="51" src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Game_of_life_animated_glider.gif"><img width="51" height="51" src="https://static.wikia.nocookie.net/vsbattles/images/7/75/Dragon-1.png/revision/latest?cb=20170407152217">
+### CQ DX, Hello World, I'm Ramon Mayor Martins! I'm in QAP QRV! <img width="50" height="50" src="https://i.redd.it/nc4224rsomp71.gif"><img width="51" height="51" src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Game_of_life_animated_glider.gif">
 
 ```.... . .-.. .-.. ---```<br>
 ➡️ Visit my .io page: [https://rmayormartins.github.io/](https://rmayormartins.github.io/)<br>
