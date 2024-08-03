@@ -15,6 +15,7 @@
 👨🏻‍💻|| Programmer, since 1998: Basic, Pascal, C, CBuilder, Visual Basic, C++, Shell Script, Matlab, R, Python...
 📡|| Ham Radio Operator, since 1996, callsign PU4MAY licensed by ANATEL
 🛰️|| Satellite Radio Operator, Callsign PU4MAY licensed by ANATEL
+🎖️|| MIT App Inventor Teacher Excellence Award 2023
 ```
 ---
 #### Interests
