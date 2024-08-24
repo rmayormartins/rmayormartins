@@ -2,7 +2,7 @@
 <table align="center" border="1" cellpadding="5" cellspacing="0" style="border-collapse: collapse; border: 1px solid black;">
   <tr>
     <td style="border: 1px solid black; padding: 5px;">
-      <p style="text-align: center;">Bem vindo ao meu github</p>
+      <p style="text-align: center;">Welcome to my github</p>
       <p style="text-align: center;"><a href="https://rmayormartins.github.io/" target="_blank">Ramon Mayor Martins</a></p>
     </td>
   </tr>
