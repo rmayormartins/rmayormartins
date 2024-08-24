@@ -9,24 +9,23 @@
 
 ---
 #### About me
-```
-👨‍🏫|| Professor of Engineering and Technical Education, Telecommunications at [IFSC - Instituto Federal de Santa Catarina]
-🎓|| Ph.D. in Computer Science from [UFSC - Universidade Federal de Santa Catarina]
-🛰️|| M.Sc. in Telecommunications from [INATEL - Instituto Nacional de Telecomunicações]
-🎓|| PGC in Telecommunications Systems, Computer Networks, Systems Engineering
-🎓|| MBA in Systems Analysis and Telecommunications
-🎓|| Electrical Engineering emphasis on Telematics and Telecommunications from [UNISUL - Universidade do Sul de Santa Catarina]
-👨🏻‍💻|| Programmer, since 1998: Basic, Pascal, C, CBuilder, Visual Basic, C++, Shell Script, Matlab, R, Python...
-📡|| Ham Radio Operator, since 1996, callsign PU4MAY licensed by ANATEL
-🛰️|| Satellite Radio Operator, Callsign PU4MAY licensed by ANATEL
-🎖️|| MIT App Inventor Teacher Excellence Award 2023
-```
+
+Ramon Mayor Martins holds a Ph.D. in Computer Science from [Universidade Federal de Santa Catarina](https://ppgcc.ufsc.br/apresentacao/?lang=en) (2024). He earned a Master's degree in Telecommunications from [Instituto Nacional de Telecomunicações](https://www.inatel.br) (2014), a specialization in Systems Engineering, Computer Networks, Telecommunications Systems, and a Professional MBA in Systems Analysis and Telecommunications. He also holds a Bachelor's degree in Electrical Engineering with an emphasis on Telematics / Telecommunications Engineering from [Universidade do Sul de Santa Catarina](https://www.unisul.br) (2010). 
+Since 2016, he has been a permanent professor in the area of Telecommunications at [Instituto Federal de Santa Catarina, Campus São José](https://www.ifsc.edu.br/).
+
 ---
 #### Interests
 ```
 👨‍🏫🤖|| Strategies for Teaching Machine Learning
 📡🛰️|| Radiofrequency and Satellite communications systems projects
 💻🤖|| Artificial Intelligence and Machine/Deep Learning projects
+```
+---
+#### Tech profile
+```
+👨🏻‍💻|| Programmer, since 1998: Basic, Pascal, C, CBuilder, Visual Basic, C++, Shell Script, Matlab, R, Python...
+📡|| Ham Radio Operator, since 1996, callsign PU4MAY licensed by ANATEL
+🛰️|| Satellite Radio Operator, Callsign PU4MAY licensed by ANATEL
 ```
 ---
 #### On-the-fly spaces
