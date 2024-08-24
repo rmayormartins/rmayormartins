@@ -1,3 +1,4 @@
+
 <table align="center" border="1" cellpadding="5" cellspacing="0" style="border-collapse: collapse; border: 1px solid black;">
   <tr>
     <td style="border: 1px solid black; padding: 5px;">
@@ -9,7 +10,7 @@
 
 ---
 #### About me
-````
+```
 👨‍🏫|| Professor of Engineering and Technical Education, Telecommunications at [IFSC - Instituto Federal de Santa Catarina]
 🎓|| Ph.D. in Computer Science from [UFSC - Universidade Federal de Santa Catarina]
 🛰️|| M.Sc. in Telecommunications from [INATEL - Instituto Nacional de Telecomunicações]
@@ -28,7 +29,7 @@
 📡🛰️|| Radiofrequency and Satellite communications systems projects
 💻🤖|| Artificial Intelligence and Machine/Deep Learning projects
 ```
-
+---
 #### On-the-fly spaces
 ```
 💻🤗|| Hugging Face Spaces: https://huggingface.co/rmayormartins
@@ -110,8 +111,9 @@
   <img width="140" height="80" src="https://user-images.githubusercontent.com/13935213/146217554-7173f7c6-cac8-4837-bb49-cf81dfcce54b.png">
   <img width="140" height="80" src="https://www.chartwellyorke.com/derive/images/in_action/550/simultaneousequations.gif">
 </p>
-<sub>📃💻[In honor of Alan Turing](https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf)</sub><br>
-<sub>📢💻[In defense of the Goto statement](https://koblents.com/Ches/Links/Month-Mar-2013/20-Using-Goto-in-Linux-Kernel-Code/)</sub><br>
 
+<sub><code>📃💻[In honor of Alan Turing](https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf)</code></sub><br>
+<sub><code>📢💻[In defense of the Goto statement](https://koblents.com/Ches/Links/Month-Mar-2013/20-Using-Goto-in-Linux-Kernel-Code/)</code></sub><br>
 
-<sub>_...And eternal love with: Computer: XT, MSX; Processor: Zilog Z80; instructions: goto,gosub,gotoxy; libraries: graphics.h,conio.h,Allegro; IDEs: QBasic, Turbo C, devc++ and codeblock_</sub><br>
+<sub><code>_...And eternal love with: Computer: XT, MSX; Processor: Zilog Z80; instructions: goto, gosub, gotoxy; libraries: graphics.h, conio.h, Allegro; IDEs: QBasic, Turbo C, devc++ and codeblock_</code></sub><br>
+
