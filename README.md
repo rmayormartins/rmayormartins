@@ -46,6 +46,7 @@ Since 2016, he has been a associate professor in the area of Telecommunications 
 💻🤗|| Hugging Face Spaces: https://huggingface.co/rmayormartins
 💻👾|| Replit Code Projects: https://replit.com/@rmayormartins
 💻 K|| Kaggle Projects: https://www.kaggle.com/rmayormartins
+💻 ℝ|| Shiny R Apps: https://rmayormartins.shinyapps.io/DiagnosticDataset/
 ```
 ---
 #### Contact me
