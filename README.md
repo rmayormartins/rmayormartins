@@ -15,6 +15,20 @@ Ramon Mayor Martins holds a Ph.D. in Computer Science from the [Universidade Fed
 Since 2016, he has been a tenured associate professor in the area of Telecommunications at [Instituto Federal de Santa Catarina](https://www.ifsc.edu.br/), Campus São José.
 
 ---
+#### My Badges
+
+#### My Badges
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><img width="120" height="110" src="2023_Teacher_Excellence_Awards_Badge.jpg"><br><i>MIT App Inventor Foundation 2023 Teacher Excellence Award</i></td>
+      <td align="center"><img width="110" height="110" src="nasa-open-science.png"><br><i>NASA OpenScience Qualified</i></td>
+    </tr>
+  </table>
+</div>
+
+---
 #### Interests
 ```
 👨‍🏫🤖|| Strategies for Teaching Machine Learning
