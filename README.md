@@ -12,18 +12,16 @@
 
 Ramon Mayor Martins holds a Ph.D. in Computer Science from the [Universidade Federal de Santa Catarina](https://ufsc.br) (2024). He earned a Master's degree in Telecommunications from [Instituto Nacional de Telecomunicações](https://www.inatel.br) (2014). He holds postgraduate certificates in Systems Engineering, Computer Networks, and Telecommunications Systems, as well as a Professional MBA in Systems Analysis and Telecommunications. Additionally, he completed a Bachelor's degree in Electrical Engineering with an emphasis on Telematics / Telecommunications Engineering from the [Universidade do Sul de Santa Catarina](https://www.unisul.br) (2010). 
 
-Since 2016, he has been a tenured associate professor in the area of Telecommunications at [Instituto Federal de Santa Catarina](https://www.ifsc.edu.br/), Campus São José.
+Since 2016, he has been a associate professor in the area of Telecommunications at [Instituto Federal de Santa Catarina](https://www.ifsc.edu.br/), Campus São José.
 
 ---
-#### My Badges
-
-#### My Badges
+#### Honors and Qualification
 
 <div align="center">
   <table>
     <tr>
-      <td align="center"><img width="120" height="110" src="2023_Teacher_Excellence_Awards_Badge.jpg"><br><i>MIT App Inventor Foundation 2023 Teacher Excellence Award</i></td>
-      <td align="center"><img width="110" height="110" src="nasa-open-science.png"><br><i>NASA OpenScience Qualified</i></td>
+      <td align="center"><img width="110" height="95" src="2023_Teacher_Excellence_Awards_Badge.jpg"><br><small><i>MIT App Inventor Foundation 2023 Teacher Excellence Award</i></small></td>
+      <td align="center"><img width="95" height="90" src="nasa-open-science.png"><br><small><i>NASA OpenScience Qualified</i></small></td>
     </tr>
   </table>
 </div>
