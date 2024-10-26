@@ -21,7 +21,7 @@ Since 2016, he has been a associate professor in the area of Telecommunications 
   <table>
     <tr>
       <td align="center"><img width="110" height="95" src="2023_Teacher_Excellence_Awards_Badge.jpg"><br><small><i>MIT App Inventor Foundation 2023 Teacher Excellence Award</i></small></td>
-      <td align="center"><img width="95" height="90" src="nasa-open-science.png"><br><small><i>NASA OpenScience Qualified</i></small></td>
+      <td align="center"><img width="93" height="90" src="nasa-open-science.png"><br><small><i>NASA OpenScience Qualified</i></small></td>
     </tr>
   </table>
 </div>
