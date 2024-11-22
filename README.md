@@ -36,7 +36,7 @@ Since 2016, he has been a associate professor in the area of Telecommunications 
 ---
 #### Tech profile
 ```
-👨🏻‍💻|| Programmer, since 1998: Basic, Pascal, C, CBuilder, Visual Basic, C++, Shell Script, Matlab, R, Python...
+👨🏻‍💻|| Programmer, since 1998: Basic, Pascal, C, CBuilder, Visual Basic, C++, Shell Script, Matlab, R, Python, Java...
 📡|| Ham Radio Operator, since 1996, callsign PU4MAY licensed by ANATEL
 🛰️|| Satellite Radio Operator, Callsign PU4MAY licensed by ANATEL
 ```
@@ -124,8 +124,8 @@ Since 2016, he has been a associate professor in the area of Telecommunications 
   <img width="140" height="80" src="https://www.chartwellyorke.com/derive/images/in_action/550/simultaneousequations.gif">
 </p>
 
-<sub><code>📃💻[In honor of Alan Turing](https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf)</code></sub><br>
-<sub><code>📢💻[In defense of the Goto statement](https://koblents.com/Ches/Links/Month-Mar-2013/20-Using-Goto-in-Linux-Kernel-Code/)</code></sub><br>
+<sub>📃💻[In honor of Alan Turing](https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf)</sub><br>
+<sub>📢💻[In defense of the Goto statement](https://koblents.com/Ches/Links/Month-Mar-2013/20-Using-Goto-in-Linux-Kernel-Code/)</sub><br>
 
-<sub><code>_...And eternal love with: Computer: XT, MSX; Processor: Zilog Z80; instructions: goto, gosub, gotoxy; libraries: graphics.h, conio.h, Allegro; IDEs: QBasic, Turbo C, devc++ and codeblock_</code></sub><br>
+<sub>_...And eternal love with: Computer: XT, MSX; Processor: Zilog Z80; instructions: goto, gosub, gotoxy; libraries: graphics.h, conio.h, Allegro; IDEs: QBasic, Turbo C, devc++ and codeblock_</sub><br>
 
