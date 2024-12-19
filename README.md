@@ -130,8 +130,11 @@ Since 2016, he has been a associate professor in the area of Telecommunications 
   <img width="140" height="80" src="https://www.chartwellyorke.com/derive/images/in_action/550/simultaneousequations.gif">
 </p>
 
+---
+#### My statements
 <sub>📃💻[In honor of Alan Turing](https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf)</sub><br>
 <sub>📢💻[In defense of the Goto statement](https://koblents.com/Ches/Links/Month-Mar-2013/20-Using-Goto-in-Linux-Kernel-Code/)</sub><br>
 
 <sub>_...And eternal love with: Computer: XT, MSX; Processor: Zilog Z80; instructions: goto, gosub, gotoxy; libraries: graphics.h, conio.h, Allegro; IDEs: QBasic, Turbo C, devc++ and codeblock_</sub><br>
 
+---
