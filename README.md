@@ -74,13 +74,15 @@ Since 2016, he has been a associate professor in the area of Telecommunications 
 <sub>![HuggingFace Spaces](https://img.shields.io/badge/HuggingFace-Spaces-blue?style=flat)</sub>
 <sub>![HuggingFace Transformer](https://img.shields.io/badge/HuggingFace-Transformers-blue?style=flat)</sub>
 <sub>[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Naereen/badges)</sub>
+---
 
 #### Revoltz Tech Stack 🏴‍☠️🛠💻
 <sub>![Java_variable](https://img.shields.io/badge/JAVA-global_variables_rules-blue)</sub>
 <sub>![C GOTO](https://img.shields.io/badge/C-GOTO_rules-blue)</sub>
 <sub>![Pyton ident](https://img.shields.io/badge/Python-against_ident_rules-blue)</sub>
+---
 
-
+#### Stats Stack 📈📊🛠💻
 <sub>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rmayormartins&show_icons=true&theme=syjnthwave)</sub>
 <sub>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmayormartins&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</sub>
 
