@@ -88,8 +88,6 @@ Since 2016, he has been a associate professor in the area of Telecommunications 
 
 <sub>![stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rmayormartins&theme=transparent)</sub>
 
-<sub>![stats2](https://ssr-contributions-svg.vercel.app/_/rmayormartins?chart=3dbar&gap=0.6&scale=2&flatten=1&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&weeks=15&theme=blue&widget_size=small)</sub>
-
 <sub>![Visitor](https://visitor-badge.laobi.icu/badge?page_id=username.rmayormartins)</sub><br>
 <sub>![Visitor Count](https://profile-counter.glitch.me/rmayormartins/count.svg)</sub>
 
