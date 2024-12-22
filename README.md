@@ -104,9 +104,8 @@ Since 2016, he has been a associate professor in the area of Telecommunications 
   </tr>
 </table>
 
-<sub>![Visitor](https://visitor-badge.laobi.icu/badge?page_id=username.rmayormartins)</sub><br>
-<sub>![Visitor Count](https://profile-counter.glitch.me/rmayormartins/count.svg)</sub>
-
+<sub>![Visitor Count](https://profile-counter.glitch.me/rmayormartins/count.svg)</sub><br>
+<sub>![Visitor](https://visitor-badge.laobi.icu/badge?page_id=username.rmayormartins)</sub>
 ---
 
 #### Topic Pursuit🎯💻
