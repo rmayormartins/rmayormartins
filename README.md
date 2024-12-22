@@ -83,12 +83,17 @@ Since 2016, he has been a associate professor in the area of Telecommunications 
 ---
 
 #### Stats Stack 📈📊🛠💻
-<sub>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rmayormartins&show_icons=true&theme=syjnthwave)</sub>
-<sub>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmayormartins&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</sub>
 
-<sub>![stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rmayormartins&theme=transparent)</sub>
+<div align="center">
 
-<table>
+  <img src="https://github-readme-stats.vercel.app/api?username=rmayormartins&show_icons=true&theme=syjnthwave" alt="GitHub stats"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmayormartins&layout=compact" alt="Top Languages"/>
+  
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rmayormartins&theme=transparent" alt="Profile Summary"/>
+</div>
+
+<table align="center">
   <tr>
     <td>
       <img src="https://ssr-contributions-svg.vercel.app/_/rmayormartins?chart=3dbar&gap=0.6&scale=2&flatten=1&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=15&theme=blue&widget_size=small" alt="GitHub Contribution Graph"/>
