@@ -32,6 +32,7 @@ Since 2016, he has been a associate professor in the area of Telecommunications 
 👨‍🏫🤖|| Strategies for Teaching Machine Learning
 📡🛰️|| Radiofrequency and Satellite communications systems projects
 💻🤖|| Artificial Intelligence and Machine/Deep Learning projects
+👨‍🏫💻|| Computational Thinking and Critical Thinking in Computing Education
 ```
 ---
 #### Tech profile
