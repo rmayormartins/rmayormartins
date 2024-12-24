@@ -91,6 +91,8 @@ Since 2016, he has been a associate professor in the area of Telecommunications 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmayormartins&layout=compact" alt="Top Languages"/>
   
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rmayormartins&theme=transparent" alt="Profile Summary"/>
+
+  <img src="https://streak-stats.demolab.com?user=rmayormartins&theme=transparent&hide_border=true&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" />
 </div>
 
 <table align="center">
