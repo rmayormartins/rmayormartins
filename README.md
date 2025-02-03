@@ -123,6 +123,8 @@ Since 2016, he has been a associate professor in the area of Telecommunications 
   </tr>
 </table>
 
+<model-viewer src="rmayormartins-2025-city.stl"></model-viewer>
+
 
 <sub>![Visitor Count](https://profile-counter.glitch.me/rmayormartins/count.svg)</sub><br>
 <sub>![Visitor](https://visitor-badge.laobi.icu/badge?page_id=username.rmayormartins)</sub>
