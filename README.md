@@ -123,7 +123,7 @@ Since 2016, he has been a associate professor in the area of Telecommunications 
   </tr>
 </table>
 
-<model-viewer src="rmayormartins-2025-city.stl"></model-viewer>
+[![GitHub City](images/githubcity.png)](https://honzaap.github.io/GithubCity/?name=rmayormartins&year=2025)
 
 
 <sub>![Visitor Count](https://profile-counter.glitch.me/rmayormartins/count.svg)</sub><br>
