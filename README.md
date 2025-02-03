@@ -105,7 +105,24 @@ Since 2016, he has been a associate professor in the area of Telecommunications 
       <img src="https://github-profile-trophy.vercel.app/?username=rmayormartins&row=2&column=3" alt="GitHub Trophies"/>
     </td>
   </tr>
+  <tr>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rmayormartins&theme=transparent" alt="GitHub Stats"/>
+    </td>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rmayormartins&theme=transparent&utcOffset=8" alt="GitHub Productive Time"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rmayormartins&theme=transparent" alt="GitHub Repos per Language"/>
+    </td>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rmayormartins&theme=transparent" alt="GitHub Most Commit Language"/>
+    </td>
+  </tr>
 </table>
+
 
 <sub>![Visitor Count](https://profile-counter.glitch.me/rmayormartins/count.svg)</sub><br>
 <sub>![Visitor](https://visitor-badge.laobi.icu/badge?page_id=username.rmayormartins)</sub>
