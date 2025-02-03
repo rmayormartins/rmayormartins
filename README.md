@@ -136,7 +136,7 @@ Since 2016, he has been a associate professor in the area of Telecommunications 
 
 ---
 
-#### Meu GitHub City (click) 🌆 
+#### My GitHub City (click) 🌆 
 <div align="center">
   <a href="https://honzaap.github.io/GithubCity/?name=rmayormartins&year=2025">
     <img src="githubcity.png" alt="GitHub City" width="200">
