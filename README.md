@@ -85,12 +85,20 @@ Since 2016, he has been a associate professor in the area of Telecommunications 
 
 #### Stats Stack 📈📊🛠💻
 
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=rmayormartins&show_icons=true&theme=syntwave" alt="GitHub Stats"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmayormartins&layout=compact" alt="Top Languages"/>
+    </td>
+  </tr>
+</table>
+
+
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=rmayormartins&show_icons=true&theme=syjnthwave" alt="GitHub stats"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmayormartins&layout=compact" alt="Top Languages"/>
-  
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rmayormartins&theme=transparent" alt="Profile Summary"/>
 
   <img src="https://streak-stats.demolab.com?user=rmayormartins&theme=transparent&hide_border=true&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" />
@@ -123,14 +131,21 @@ Since 2016, he has been a associate professor in the area of Telecommunications 
   </tr>
 </table>
 
-[![GitHub City](images/githubcity.PNG)](https://honzaap.github.io/GithubCity/?name=rmayormartins&year=2025)
-
-
 <sub>![Visitor Count](https://profile-counter.glitch.me/rmayormartins/count.svg)</sub><br>
 <sub>![Visitor](https://visitor-badge.laobi.icu/badge?page_id=username.rmayormartins)</sub>
+
 ---
 
-#### Topic Pursuit🎯💻
+#### Meu GitHub City (click) 🌆 
+<div align="center">
+  <a href="https://honzaap.github.io/GithubCity/?name=rmayormartins&year=2025">
+    <img src="githubcity.png" alt="GitHub City" width="200">
+  </a>
+</div>
+
+---
+
+#### Topic Pursuit 🎯💻
 
 <p align="center">
   <img width="140" height="80" src="https://miro.medium.com/v2/resize:fit:624/1*vnt4DlXUo_oYYYbtQu9qXw.png">
