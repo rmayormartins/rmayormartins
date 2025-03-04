@@ -46,7 +46,6 @@ Since 2016, he has been an Associate Professor in the field of Telecommunication
 #### On-the-fly spaces
 ```
 💻🤗|| Hugging Face Spaces: https://huggingface.co/rmayormartins
-💻👾|| Replit Code Projects: https://replit.com/@rmayormartins
 💻 K|| Kaggle Projects: https://www.kaggle.com/rmayormartins
 💻 ℝ|| Shiny R Apps: https://rmayormartins.shinyapps.io/DiagnosticDataset/
 ```
