@@ -22,7 +22,7 @@ Since 2016, he has been an Associate Professor in the field of Telecommunication
       <td align="center"><img width="110" height="95" src="2023_Teacher_Excellence_Awards_Badge.jpg"><br><small><i>MIT App Inventor Foundation<br>Teacher Excellence Award</i></small></td>
       <td align="center"><img width="93" height="90" src="nasa-open-science.png"><br><small><i>NASA OpenScience<br>Qualified</i></small></td>
       <td align="center"><img width="93" height="90" src="ibm-machine-learning-specialist-advanced.png"><br><small><i>IBM Machine Learning<br>Specialist - Advanced</i></small></td>
-      <td align="center"><img width="93" height="90" src="ai-in-the-cloud.png"><br><small><i>Intel AI in the Cloud<br>Technical Pro - Advanced</i></small></td>
+      <td align="center"><img width="93" height="90" src="ai-in-the-cloud.png"><br><small><i>Intel AI Technical Pro - Advanced</i></small></td>
     </tr>
   </table>
 </div>
