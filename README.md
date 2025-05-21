@@ -12,7 +12,9 @@
 
 Ramon Mayor Martins holds a Ph.D. in Computer Science from the [Universidade Federal de Santa Catarina](https://ufsc.br) (2024). He earned a Master's degree in Telecommunications from the [Instituto Nacional de Telecomunicações](https://www.inatel.br) (2014). Additionally, he also holds postgraduate certificates in Systems Engineering, Computer Networks, and Telecommunications Systems, as well as a Professional MBA in Systems Analysis and Telecommunications. He also completed a Bachelor's degree in Electrical Engineering with an emphasis on Telematics and Telecommunications Engineering from the [Universidade do Sul de Santa Catarina](https://www.unisul.br) (2010). 
 
-Since 2016, he has been an Associate Professor in the field of Telecommunications at [Instituto Federal de Santa Catarina](https://www.ifsc.edu.br/), Campus São José.
+Since 2016, he has been an Professor in the field of Telecommunications at [Instituto Federal de Santa Catarina](https://www.ifsc.edu.br/), Campus São José.
+
+He is currently Research and Innovation Coordinator at the São José Campus
 
 ---
 #### Honors and Qualification
