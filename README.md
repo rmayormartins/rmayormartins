@@ -47,7 +47,8 @@ He is currently Research and Innovation Coordinator at the São José Campus
 ---
 #### On-the-fly spaces
 ```
-💻🤗|| Hugging Face Spaces: https://huggingface.co/rmayormartins
+💻🤗|| Hugging Face Spaces: Espaços de IA https://huggingface.co/rmayormartins
+💻🐱|| Github.io: Ferramentas didáticas de IA https://rmayormartins.github.io/ia-projects/
 💻 K|| Kaggle Projects: https://www.kaggle.com/rmayormartins
 💻 ℝ|| Shiny R Apps: https://rmayormartins.shinyapps.io/DiagnosticDataset/
 ```
