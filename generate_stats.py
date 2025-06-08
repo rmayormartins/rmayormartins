@@ -105,3 +105,17 @@ markdown_output += f"\n\n**📜 Primeiro repo:** `{oldest_repo['name']}` (criado
 markdown_output += f"\n**🆕 Mais recente:** `{newest_repo['name']}` (criado em {newest_repo['created_at'].date()})"
 
 markdown_output
+
+# === Gravar no README.md ===
+with open("README.md", "r", encoding="utf-8") as f:
+    readme_content = f.read()
+
+start_marker = "#### My Stats Action"
+end_marker = "---"  # marcador depois da seção de stats
+
+before = readme_content.split(start_marker)[0]
+after = readme_content.split(end_marker, 1)[1]
+
+with open("README.md", "w", encoding="utf-8") as f:
+    f.write(before + markdown_output + "\n\n" + end_marker + after)
+
