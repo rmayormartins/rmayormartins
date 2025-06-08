@@ -1,64 +1,107 @@
 import requests
 from datetime import datetime
 
+# === Configurações ===
 username = "rmayormartins"
-output_file = "stats.md"
-repos = requests.get(f"https://api.github.com/users/{username}/repos").json()
+api_user_url = f"https://api.github.com/users/{username}"
+api_repos_url = f"https://api.github.com/users/{username}/repos?per_page=100"
 
+# === Requisições ===
+user_data = requests.get(api_user_url).json()
+repos_data = requests.get(api_repos_url).json()
+
+# === Dados gerais do usuário ===
+created_at = datetime.strptime(user_data["created_at"], "%Y-%m-%dT%H:%M:%SZ")
+days_on_github = (datetime.now() - created_at).days
+created_at_str = created_at.strftime("%Y-%m-%d")
+
+# === Estatísticas de repositórios ===
+total_repos = len(repos_data)
 total_stars = 0
 total_forks = 0
 language_count = {}
 update_days = []
+issue_counts = []
 repo_stats = []
 
-for repo in repos:
+oldest_repo = {"name": None, "created_at": datetime.max}
+newest_repo = {"name": None, "created_at": datetime.min}
+
+for repo in repos_data:
     stars = repo["stargazers_count"]
     forks = repo["forks_count"]
     issues = repo["open_issues_count"]
     lang = repo["language"]
-    updated = datetime.strptime(repo["updated_at"], "%Y-%m-%dT%H:%M:%SZ")
-    days_ago = (datetime.now() - updated).days
+    updated_at = datetime.strptime(repo["updated_at"], "%Y-%m-%dT%H:%M:%SZ")
+    created_repo_at = datetime.strptime(repo["created_at"], "%Y-%m-%dT%H:%M:%SZ")
+    days_since_update = (datetime.now() - updated_at).days
 
     total_stars += stars
     total_forks += forks
     if lang:
         language_count[lang] = language_count.get(lang, 0) + 1
-    update_days.append(days_ago)
-    repo_stats.append((repo["name"], issues, stars, forks, days_ago))
 
-top_lang = max(language_count, key=language_count.get)
-repo_count = len(repos)
-avg_stars = total_stars / repo_count
-avg_days = sum(update_days) / repo_count
-stars_list = [r[2] for r in repo_stats]
-forks_list = [r[3] for r in repo_stats]
-top_issues = sorted(repo_stats, key=lambda x: x[1], reverse=True)[:3]
+    update_days.append(days_since_update)
+    issue_counts.append(issues)
+    repo_stats.append({
+        "name": repo["name"],
+        "stars": stars,
+        "forks": forks,
+        "issues": issues,
+        "updated_days": days_since_update,
+        "created_at": created_repo_at
+    })
 
-# Lê README original
-with open("README.md", "r", encoding="utf-8") as f:
-    content = f.read()
+    if created_repo_at < oldest_repo["created_at"]:
+        oldest_repo = {"name": repo["name"], "created_at": created_repo_at}
+    if created_repo_at > newest_repo["created_at"]:
+        newest_repo = {"name": repo["name"], "created_at": created_repo_at}
 
-# Atualiza o trecho entre "#### My Stats Action" e "---"
-prefix = "#### My Stats Action"
-suffix = "\n---"
+# === Cálculos estatísticos ===
+avg_stars = total_stars / total_repos if total_repos else 0
+avg_forks = total_forks / total_repos if total_repos else 0
+avg_update_days = sum(update_days) / total_repos if total_repos else 0
+avg_issues = sum(issue_counts) / total_repos if total_repos else 0
+top_language = max(language_count.items(), key=lambda x: x[1])[0] if language_count else "N/A"
 
-start = content.find(prefix)
-end = content.find(suffix, start)
+# === Top issues e estrelas ===
+top_issues = sorted(repo_stats, key=lambda x: x["issues"], reverse=True)[:3]
+top_starred = sorted(repo_stats, key=lambda x: x["stars"], reverse=True)[:3]
 
-new_section = f"""{prefix}
+# === Badges simbólicas ===
+badges = []
+if total_repos >= 30:
+    badges.append("🥇 Repositórios 30+")
+if total_forks >= 50:
+    badges.append("🍴 Forks 50+")
+if total_stars >= 20:
+    badges.append("🌟 Estrelas 20+")
+if days_on_github >= 365 * 5:
+    badges.append("🕰️ Conta 5+ anos")
+if avg_update_days < 90:
+    badges.append("⚡ Manutenção ativa (< 90 dias)")
 
-- 🔢 Repositórios públicos: **{repo_count}**
+# === Formatar saída final ===
+markdown_output = f"""#### My Stats Action
+
+- 🔢 Repositórios públicos: **{total_repos}**
 - ⭐ Total de estrelas: **{total_stars}** (média: {avg_stars:.2f})
-- 🍴 Total de forks: **{total_forks}** (média: {sum(forks_list)/repo_count:.2f})
-- 🏷️ Linguagem mais comum: **{top_lang}**
-- ⌛ Média de dias sem atualização: **{avg_days:.1f}**
+- 🍴 Total de forks: **{total_forks}** (média: {avg_forks:.2f})
+- 🏷️ Linguagem mais comum: **{top_language}**
+- 📆 Dias no GitHub: **{days_on_github} dias** (desde {created_at_str})
+- ⌛ Média de dias sem atualização: **{avg_update_days:.1f}**
+- 🐞 Média de issues por repo: **{avg_issues:.2f}**
+- 🏅 Conquistas: {' | '.join(badges) if badges else 'Nenhuma ainda'}
 
-**Repositórios com mais issues abertas:**\n"""
+**Top repositórios por issues abertas:**"""
 for r in top_issues:
-    new_section += f"- `{r[0]}`: {r[1]} issues, {r[2]} ⭐, {r[3]} 🍴, atualizado há {r[4]} dias\n"
+    markdown_output += f"\n- `{r['name']}`: {r['issues']} issues, {r['stars']} ⭐, {r['forks']} 🍴, atualizado há {r['updated_days']} dias"
 
-# Atualiza o conteúdo
-new_content = content[:start] + new_section + "\n" + content[end:]
+markdown_output += "\n\n**Top repositórios por estrelas:**"
+for r in top_starred:
+    markdown_output += f"\n- `{r['name']}`: {r['stars']} ⭐, {r['forks']} 🍴, atualizado há {r['updated_days']} dias"
 
-with open("README.md", "w", encoding="utf-8") as f:
-    f.write(new_content)
+markdown_output += f"\n\n**📜 Primeiro repo:** `{oldest_repo['name']}` (criado em {oldest_repo['created_at'].date()})"
+markdown_output += f"\n**🆕 Mais recente:** `{newest_repo['name']}` (criado em {newest_repo['created_at'].date()})"
+
+markdown_output
