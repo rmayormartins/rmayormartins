@@ -141,17 +141,7 @@ He is currently Research and Innovation Coordinator at the São José Campus
 
 #### My Stats Action
 
-- 🔢 Repositórios públicos: **30**
-- ⭐ Total de estrelas: **21** (média: 0.70)
-- 🍴 Total de forks: **83** (média: 2.77)
-- 🏷️ Linguagem mais comum: **Python**
-- ⌛ Média de dias sem atualização: **241.5**
-
-**Repositórios com mais issues abertas:**
-- `awesome-deep-learning`: 1 issues, 0 ⭐, 0 🍴, atualizado há 280 dias
-- `REPL-PY-pygames-dragster`: 1 issues, 0 ⭐, 0 🍴, atualizado há 289 dias
-- `AI-DL-PY-Fastai-classificadorcompleto_visual`: 0 issues, 0 ⭐, 0 🍴, atualizado há 289 dias
-
+---
 
 ---
 
