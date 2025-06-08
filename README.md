@@ -141,6 +141,8 @@ He is currently Research and Innovation Coordinator at the São José Campus
 
 #### My Stats Action
 
+(esta seção será atualizada automaticamente)
+
 ---
 
 ---
