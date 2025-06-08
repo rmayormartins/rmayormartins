@@ -170,7 +170,7 @@ He is currently Research and Innovation Coordinator at the São José Campus
 
 #### My Memorial (1988-1998)🗿💻
 <p align="center">
-  <img width="140" height="80" src="https://www.msx.org/sites/default/files/news/2014/08/batman.png">
+  <img width="140" height="80" src="https://jiggeh.com/wp-content/uploads/2020/04/cpc.jpg">
   <img width="140" height="80" src="https://user-images.githubusercontent.com/13935213/139339938-19f6d05b-2d75-41b4-ab8c-f984f442e4fd.png">
   <img width="140" height="80" src="https://user-images.githubusercontent.com/13935213/139340075-d18e1c3e-556f-400a-ab61-dad7a92460b9.png">
   <img width="140" height="80" src="https://miro.medium.com/max/532/0*FSSHa9aaGDvf1n-H.gif">
