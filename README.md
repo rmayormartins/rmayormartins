@@ -139,6 +139,13 @@ He is currently Research and Innovation Coordinator at the São José Campus
 
 ---
 
+#### My Stats Action  
+<div align="center">
+  ......
+</div>
+
+---
+
 #### My GitHub City (click) 🌆 
 <div align="center">
   <a href="https://honzaap.github.io/GithubCity/?name=rmayormartins&year=2025">
