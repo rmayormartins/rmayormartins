@@ -138,32 +138,10 @@ He is currently Research and Innovation Coordinator at the São José Campus
 <sub>![Visitor](https://visitor-badge.laobi.icu/badge?page_id=username.rmayormartins)</sub>
 
 ---
-
+<!--START_STATS-->
 #### My Stats Action
-
-- 📂 Repositórios públicos: **52**
-- ⭐ Total de estrelas: **23** (média: 0.44)
-- 🍴 Total de forks: **83** (média: 1.60)
-- 🏷️ Linguagem mais comum: **Python**
-- 🗖️ Dias no GitHub: **3577 dias** (desde 2015-08-23)
-- ⌛ Média de dias sem atualização: **211.5**
-- 🐞 Média de issues por repo: **0.04**
-- 🏅 Conquistas: 🏇 Repositórios 30+ | 🍴 Forks 50+ | 🌟 Estrelas 20+ | 🕰️ Conta 5+ anos
-
-**Top repositórios por issues abertas:**
-- `awesome-deep-learning`: 1 issues, 0 ⭐, 0 🍴, atualizado há 280 dias
-- `REPL-PY-pygames-dragster`: 1 issues, 0 ⭐, 0 🍴, atualizado há 290 dias
-- `AI-DL-PY-Fastai-classificadorcompleto_visual`: 0 issues, 0 ⭐, 0 🍴, atualizado há 290 dias
-
-**Top repositórios por estrelas:**
-- `IFSC-Codespace-ENG-ADS-JAVA-POO`: 18 ⭐, 76 🍴, atualizado há 6 dias
-- `AI-DL-PY-fastai-cnn-treeclassificator`: 1 ⭐, 0 🍴, atualizado há 211 dias
-- `AI-ML-R-ANN-RandomForest-SpeakerRecognition`: 1 ⭐, 0 🍴, atualizado há 290 dias
-
-**📜 Primeiro repo:** `rmayormartins.github.io` (criado em 2021-05-07)
-**🆕 Mais recente:** `SPACE-PY-java-air-combat` (criado em 2025-05-25)
-
----
+(esta seção será atualizada automaticamente)
+<!--END_STATS-->
 
 ---
 
