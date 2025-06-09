@@ -71,7 +71,7 @@ top_starred = sorted(repo_stats, key=lambda x: x["stars"], reverse=True)[:3]
 # === Badges simbólicas ===
 badges = []
 if total_repos >= 30:
-    badges.append("🥇 Repositórios 30+")
+    badges.append("🏇 Repositórios 30+")
 if total_forks >= 50:
     badges.append("🍴 Forks 50+")
 if total_stars >= 20:
@@ -84,11 +84,11 @@ if avg_update_days < 90:
 # === Formatar saída final ===
 markdown_output = f"""#### My Stats Action
 
-- 🔢 Repositórios públicos: **{total_repos}**
+- 📂 Repositórios públicos: **{total_repos}**
 - ⭐ Total de estrelas: **{total_stars}** (média: {avg_stars:.2f})
 - 🍴 Total de forks: **{total_forks}** (média: {avg_forks:.2f})
 - 🏷️ Linguagem mais comum: **{top_language}**
-- 📆 Dias no GitHub: **{days_on_github} dias** (desde {created_at_str})
+- 🗖️ Dias no GitHub: **{days_on_github} dias** (desde {created_at_str})
 - ⌛ Média de dias sem atualização: **{avg_update_days:.1f}**
 - 🐞 Média de issues por repo: **{avg_issues:.2f}**
 - 🏅 Conquistas: {' | '.join(badges) if badges else 'Nenhuma ainda'}
@@ -104,18 +104,24 @@ for r in top_starred:
 markdown_output += f"\n\n**📜 Primeiro repo:** `{oldest_repo['name']}` (criado em {oldest_repo['created_at'].date()})"
 markdown_output += f"\n**🆕 Mais recente:** `{newest_repo['name']}` (criado em {newest_repo['created_at'].date()})"
 
-markdown_output
-
 # === Gravar no README.md ===
 with open("README.md", "r", encoding="utf-8") as f:
     readme_content = f.read()
 
 start_marker = "#### My Stats Action"
-end_marker = "---"  # marcador depois da seção de stats
+end_marker = "---"
 
 before = readme_content.split(start_marker)[0]
-after = readme_content.split(end_marker, 1)[1]
+after = ""
+
+# Captura tudo após a próxima ocorrência de --- (duas vezes para preservar estrutura do README)
+split_parts = readme_content.split(start_marker)
+if len(split_parts) > 1:
+    after_parts = split_parts[1].split(end_marker, 1)
+    if len(after_parts) > 1:
+        after = end_marker + after_parts[1]
 
 with open("README.md", "w", encoding="utf-8") as f:
-    f.write(before + markdown_output + "\n\n" + end_marker + after)
+    f.write(before + markdown_output + "\n\n" + after)
 
+print("README.md atualizado com sucesso!")
