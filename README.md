@@ -146,7 +146,7 @@ He is currently the Research and Innovation Coordinator at the São José Campus
 - 🍴 Total de forks: **83** (média: 1.60)
 - 🏷️ Linguagem mais comum: **Python**
 - 📆 Dias no GitHub: **3577 dias** (desde 2015-08-23)
-- ⌛ Média de dias sem atualização: **211.5**
+- ⌛ Média de dias sem atualização: **211.6**
 - 🐞 Média de issues por repo: **0.04**
 - 📚 Linguagens distintas: **8**
 - 🔝 Top linguagens: Python (27), Jupyter Notebook (9), R (4)
@@ -157,7 +157,7 @@ He is currently the Research and Innovation Coordinator at the São José Campus
 - 🏅 Conquistas: 🥇 Repositórios 30+ | 🍴 Forks 50+ | 🌟 Estrelas 20+ | 🕰️ Conta 5+ anos
 
 **Top repositórios por issues abertas:**
-- `awesome-deep-learning`: 1 issues, 0 ⭐, 0 🍴, atualizado há 280 dias
+- `awesome-deep-learning`: 1 issues, 0 ⭐, 0 🍴, atualizado há 281 dias
 - `REPL-PY-pygames-dragster`: 1 issues, 0 ⭐, 0 🍴, atualizado há 290 dias
 - `AI-DL-PY-Fastai-classificadorcompleto_visual`: 0 issues, 0 ⭐, 0 🍴, atualizado há 290 dias
 
@@ -170,6 +170,7 @@ He is currently the Research and Innovation Coordinator at the São José Campus
 
 **🆕 Mais recente:** `SPACE-PY-java-air-combat` (criado em 2025-05-25)
 <!--END_STATS-->
+
 
 
 
