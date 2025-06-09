@@ -14,7 +14,7 @@ Ramon Mayor Martins holds a Ph.D. in Computer Science from the [Universidade Fed
 
 Since 2016, he has been an Professor in the field of Telecommunications at [Instituto Federal de Santa Catarina](https://www.ifsc.edu.br/), Campus São José.
 
-He is currently Research and Innovation Coordinator at the São José Campus
+He is currently the Research and Innovation Coordinator at the São José Campus
 
 ---
 #### Honors and Qualification
