@@ -125,7 +125,7 @@ markdown_output += "\n\n**Top repositórios por estrelas:**"
 for r in top_starred:
     markdown_output += f"\n- `{r['name']}`: {r['stars']} ⭐, {r['forks']} 🍴, atualizado há {r['updated_days']} dias"
 
-markdown_output += f"\n\n**📜 Primeiro repo:** `{oldest_repo['name']}` (criado em {oldest_repo['created_at'].date()})"
+markdown_output += f"\n\n**📜 Primeiro repo:** `{oldest_repo['name']}` (criado em {oldest_repo['created_at'].date()})\n"
 markdown_output += f"\n**🆕 Mais recente:** `{newest_repo['name']}` (criado em {newest_repo['created_at'].date()})"
 markdown_output += "\n<!--END_STATS-->\n"
 
