@@ -167,8 +167,10 @@ He is currently Research and Innovation Coordinator at the São José Campus
 - `AI-ML-R-ANN-RandomForest-SpeakerRecognition`: 1 ⭐, 0 🍴, atualizado há 290 dias
 
 **📜 Primeiro repo:** `rmayormartins.github.io` (criado em 2021-05-07)
+
 **🆕 Mais recente:** `SPACE-PY-java-air-combat` (criado em 2025-05-25)
 <!--END_STATS-->
+
 
 
 ---
