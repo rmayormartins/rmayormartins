@@ -141,35 +141,38 @@ He is currently the Research and Innovation Coordinator at the São José Campus
 <!--START_STATS-->
 #### My Stats Action
 
-- 🔢 Repositórios públicos: **52**
-- ⭐ Total de estrelas: **23** (média: 0.44)
-- 🍴 Total de forks: **86** (média: 1.65)
+- 🔢 Repositórios públicos: **53**
+- ⭐ Total de estrelas: **23** (média: 0.43)
+- 🍴 Total de forks: **86** (média: 1.62)
+- 📦 Tamanho médio dos repositórios: **1271.3 KB**
+- 📆 Dias no GitHub: **3579 dias** (desde 2015-08-23)
 - 🏷️ Linguagem mais comum: **Python**
-- 📆 Dias no GitHub: **3578 dias** (desde 2015-08-23)
-- ⌛ Média de dias sem atualização: **212.6**
-- 🐞 Média de issues por repo: **0.04**
 - 📚 Linguagens distintas: **8**
 - 🔝 Top linguagens: Python (27), Jupyter Notebook (9), R (4)
-- 💫 Repositórios com 5+ estrelas: **1**
+- 📊 % atualizados nos últimos 90 dias: **15.1%**
 - 🔁 Repo mais bifurcado: `IFSC-Codespace-ENG-ADS-JAVA-POO` (79 forks)
-- ⏱️ Repo mais tempo sem update: `Probability-MATLAB-Distributions` (1493 dias)
-- 🔄 Atualização mais recente: `rmayormartins` (há 0 dias)
+- ⏱️ Repo mais tempo sem update: `Probability-MATLAB-Distributions` (1494 dias)
+- 🔄 Atualização mais recente: `IFSC-Codespace-ENG-ADS-JAVA-POO` (há 0 dias)
+- 🐞 Média de issues por repo: **0.04**
+- 💫 Repositórios com 5+ estrelas: **1**
+- 🌐 Repositórios com GitHub Pages: **2**
 - 🏅 Conquistas: 🥇 Repositórios 30+ | 🍴 Forks 50+ | 🌟 Estrelas 20+ | 🕰️ Conta 5+ anos
 
 **Top repositórios por issues abertas:**
 - `awesome-deep-learning`: 1 issues, 0 ⭐, 0 🍴, atualizado há 282 dias
-- `REPL-PY-pygames-dragster`: 1 issues, 0 ⭐, 0 🍴, atualizado há 291 dias
-- `AI-DL-PY-Fastai-classificadorcompleto_visual`: 0 issues, 0 ⭐, 0 🍴, atualizado há 291 dias
+- `REPL-PY-pygames-dragster`: 1 issues, 0 ⭐, 0 🍴, atualizado há 292 dias
+- `AI-DL-PY-Fastai-classificadorcompleto_visual`: 0 issues, 0 ⭐, 0 🍴, atualizado há 292 dias
 
 **Top repositórios por estrelas:**
-- `IFSC-Codespace-ENG-ADS-JAVA-POO`: 18 ⭐, 79 🍴, atualizado há 7 dias
-- `AI-DL-PY-fastai-cnn-treeclassificator`: 1 ⭐, 0 🍴, atualizado há 212 dias
-- `AI-ML-R-ANN-RandomForest-SpeakerRecognition`: 1 ⭐, 0 🍴, atualizado há 291 dias
+- `IFSC-Codespace-ENG-ADS-JAVA-POO`: 18 ⭐, 79 🍴, atualizado há 0 dias
+- `AI-DL-PY-fastai-cnn-treeclassificator`: 1 ⭐, 0 🍴, atualizado há 213 dias
+- `AI-ML-R-ANN-RandomForest-SpeakerRecognition`: 1 ⭐, 0 🍴, atualizado há 292 dias
 
 **📜 Primeiro repo:** `rmayormartins.github.io` (criado em 2021-05-07)
 
-**🆕 Mais recente:** `SPACE-PY-java-air-combat` (criado em 2025-05-25)
+**🆕 Mais recente:** `IFSC-Codespace-ENG-ADS-JAVA-POO-BACKUP` (criado em 2025-06-10)
 <!--END_STATS-->
+
 
 
 
