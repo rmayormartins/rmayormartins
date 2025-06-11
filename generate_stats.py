@@ -1,5 +1,6 @@
 import requests
 from datetime import datetime
+from statistics import stdev
 
 # === Configurações ===
 username = "rmayormartins"
@@ -22,6 +23,8 @@ total_forks = 0
 language_count = {}
 update_days = []
 issue_counts = []
+stars_list = []
+forks_list = []
 size_total = 0
 updated_last_90 = 0
 pages_enabled = 0
@@ -47,6 +50,8 @@ for repo in repos_data:
     total_stars += stars
     total_forks += forks
     size_total += size
+    stars_list.append(stars)
+    forks_list.append(forks)
 
     if lang:
         language_count[lang] = language_count.get(lang, 0) + 1
@@ -77,7 +82,7 @@ for repo in repos_data:
     if days_since_update < recently_updated_repo["updated_days"]:
         recently_updated_repo = {"name": repo["name"], "updated_days": days_since_update}
 
-# === Cálculos finais ===
+# === Cálculos adicionais ===
 avg_stars = total_stars / total_repos if total_repos else 0
 avg_forks = total_forks / total_repos if total_repos else 0
 avg_update_days = sum(update_days) / total_repos if total_repos else 0
@@ -87,8 +92,13 @@ top_language = max(language_count.items(), key=lambda x: x[1])[0] if language_co
 top_languages = sorted(language_count.items(), key=lambda x: x[1], reverse=True)[:3]
 repos_with_5plus_stars = len([r for r in repo_stats if r["stars"] >= 5])
 unique_languages = len(language_count)
-
 percent_updated_90 = (updated_last_90 / total_repos * 100) if total_repos else 0
+
+repos_with_issues = len([r for r in repo_stats if r["issues"] > 0])
+zero_star_repos = len([r for r in repo_stats if r["stars"] == 0])
+forks_greater_than_stars = len([r for r in repo_stats if r["forks"] > r["stars"]])
+std_stars = stdev(stars_list) if total_repos > 1 else 0
+std_forks = stdev(forks_list) if total_repos > 1 else 0
 
 top_issues = sorted(repo_stats, key=lambda x: x["issues"], reverse=True)[:3]
 top_starred = sorted(repo_stats, key=lambda x: x["stars"], reverse=True)[:3]
@@ -125,12 +135,16 @@ markdown_output = """<!--START_STATS-->
 - 🐞 Média de issues por repo: **{:.2f}**
 - 💫 Repositórios com 5+ estrelas: **{}**
 - 🌐 Repositórios com GitHub Pages: **{}**
+- 🧵 Repositórios com issues abertas: **{}**
+- 🪙 Repositórios com 0 estrelas: **{}**
+- ⚖️ Forks > Estrelas: **{}**
+- 📈 Desvio padrão das estrelas: **{:.2f}**
+- 📉 Desvio padrão dos forks: **{:.2f}**
 - 🏅 Conquistas: {}
 
 **Top repositórios por issues abertas:**""".format(
     total_repos, total_stars, avg_stars,
-    total_forks, avg_forks,
-    avg_size_kb,
+    total_forks, avg_forks, avg_size_kb,
     days_on_github, created_at_str,
     top_language, unique_languages,
     ", ".join([f"{lang} ({count})" for lang, count in top_languages]),
@@ -139,6 +153,8 @@ markdown_output = """<!--START_STATS-->
     most_updated_repo["name"], most_updated_repo["updated_days"],
     recently_updated_repo["name"], recently_updated_repo["updated_days"],
     avg_issues, repos_with_5plus_stars, pages_enabled,
+    repos_with_issues, zero_star_repos, forks_greater_than_stars,
+    std_stars, std_forks,
     ' | '.join(badges) if badges else 'Nenhuma ainda'
 )
 
