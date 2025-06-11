@@ -156,6 +156,11 @@ He is currently the Research and Innovation Coordinator at the São José Campus
 - 🐞 Média de issues por repo: **0.04**
 - 💫 Repositórios com 5+ estrelas: **1**
 - 🌐 Repositórios com GitHub Pages: **2**
+- 🧵 Repositórios com issues abertas: **2**
+- 🪙 Repositórios com 0 estrelas: **47**
+- ⚖️ Forks > Estrelas: **2**
+- 📈 Desvio padrão das estrelas: **2.48**
+- 📉 Desvio padrão dos forks: **10.88**
 - 🏅 Conquistas: 🥇 Repositórios 30+ | 🍴 Forks 50+ | 🌟 Estrelas 20+ | 🕰️ Conta 5+ anos
 
 **Top repositórios por issues abertas:**
@@ -172,6 +177,7 @@ He is currently the Research and Innovation Coordinator at the São José Campus
 
 **🆕 Mais recente:** `IFSC-Codespace-ENG-ADS-JAVA-POO-BACKUP` (criado em 2025-06-10)
 <!--END_STATS-->
+
 
 
 
