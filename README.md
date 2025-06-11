@@ -141,42 +141,43 @@ He is currently the Research and Innovation Coordinator at the São José Campus
 <!--START_STATS-->
 #### My Stats Action
 
-- 🔢 Repositórios públicos: **53**
-- ⭐ Total de estrelas: **23** (média: 0.43)
-- 🍴 Total de forks: **86** (média: 1.62)
-- 📦 Tamanho médio dos repositórios: **1271.3 KB**
-- 📆 Dias no GitHub: **3579 dias** (desde 2015-08-23)
-- 🏷️ Linguagem mais comum: **Python**
-- 📚 Linguagens distintas: **8**
-- 🔝 Top linguagens: Python (27), Jupyter Notebook (9), R (4)
-- 📊 % atualizados nos últimos 90 dias: **15.1%**
-- 🔁 Repo mais bifurcado: `IFSC-Codespace-ENG-ADS-JAVA-POO` (79 forks)
-- ⏱️ Repo mais tempo sem update: `Probability-MATLAB-Distributions` (1494 dias)
-- 🔄 Atualização mais recente: `IFSC-Codespace-ENG-ADS-JAVA-POO` (há 0 dias)
-- 🐞 Média de issues por repo: **0.04**
-- 💫 Repositórios com 5+ estrelas: **1**
-- 🌐 Repositórios com GitHub Pages: **2**
-- 🧵 Repositórios com issues abertas: **2**
-- 🪙 Repositórios com 0 estrelas: **47**
-- ⚖️ Forks > Estrelas: **2**
-- 📈 Desvio padrão das estrelas: **2.48**
-- 📉 Desvio padrão dos forks: **10.88**
-- 🏅 Conquistas: 🥇 Repositórios 30+ | 🍴 Forks 50+ | 🌟 Estrelas 20+ | 🕰️ Conta 5+ anos
+- 🔢 Public repositories: **53**
+- ⭐ Total stars: **23** (avg: 0.43)
+- 🍴 Total forks: **86** (avg: 1.62)
+- 📦 Avg repo size: **1271.3 KB**
+- 📆 Days on GitHub: **3579 days** (since 2015-08-23)
+- 🏷️ Most common language: **Python**
+- 📚 Unique languages: **8**
+- 🔝 Top languages: Python (27), Jupyter Notebook (9), R (4)
+- 📊 % updated in last 90 days: **15.1%**
+- 🔁 Most forked repo: `IFSC-Codespace-ENG-ADS-JAVA-POO` (79 forks)
+- ⏱️ Longest inactive repo: `Probability-MATLAB-Distributions` (1494 days)
+- 🔄 Most recently updated repo: `IFSC-Codespace-ENG-ADS-JAVA-POO` (0 days ago)
+- 🐞 Avg issues per repo: **0.04**
+- 💫 Repositories with 5+ stars: **1**
+- 🌐 GitHub Pages repos: **2**
+- 🧵 Repos with open issues: **2**
+- 🪙 Repos with 0 stars: **47**
+- ⚖️ Forks > Stars: **2**
+- 📈 Star standard deviation: **2.48**
+- 📉 Forks standard deviation: **10.88**
+- 🏅 Achievements: 🥇 30+ Repositories | 🍴 50+ Forks | 🌟 20+ Stars | 🕰️ 5+ Years Account
 
-**Top repositórios por issues abertas:**
-- `awesome-deep-learning`: 1 issues, 0 ⭐, 0 🍴, atualizado há 282 dias
-- `REPL-PY-pygames-dragster`: 1 issues, 0 ⭐, 0 🍴, atualizado há 292 dias
-- `AI-DL-PY-Fastai-classificadorcompleto_visual`: 0 issues, 0 ⭐, 0 🍴, atualizado há 292 dias
+**Top repositories by open issues:**
+- `awesome-deep-learning`: 1 issues, 0 ⭐, 0 🍴, updated 282 days ago
+- `REPL-PY-pygames-dragster`: 1 issues, 0 ⭐, 0 🍴, updated 292 days ago
+- `AI-DL-PY-Fastai-classificadorcompleto_visual`: 0 issues, 0 ⭐, 0 🍴, updated 292 days ago
 
-**Top repositórios por estrelas:**
-- `IFSC-Codespace-ENG-ADS-JAVA-POO`: 18 ⭐, 79 🍴, atualizado há 0 dias
-- `AI-DL-PY-fastai-cnn-treeclassificator`: 1 ⭐, 0 🍴, atualizado há 213 dias
-- `AI-ML-R-ANN-RandomForest-SpeakerRecognition`: 1 ⭐, 0 🍴, atualizado há 292 dias
+**Top repositories by stars:**
+- `IFSC-Codespace-ENG-ADS-JAVA-POO`: 18 ⭐, 79 🍴, updated 0 days ago
+- `AI-DL-PY-fastai-cnn-treeclassificator`: 1 ⭐, 0 🍴, updated 213 days ago
+- `AI-ML-R-ANN-RandomForest-SpeakerRecognition`: 1 ⭐, 0 🍴, updated 292 days ago
 
-**📜 Primeiro repo:** `rmayormartins.github.io` (criado em 2021-05-07)
+**📜 First repository:** `rmayormartins.github.io` (created on 2021-05-07)
 
-**🆕 Mais recente:** `IFSC-Codespace-ENG-ADS-JAVA-POO-BACKUP` (criado em 2025-06-10)
+**🆕 Newest repository:** `IFSC-Codespace-ENG-ADS-JAVA-POO-BACKUP` (created on 2025-06-10)
 <!--END_STATS-->
+
 
 
 
