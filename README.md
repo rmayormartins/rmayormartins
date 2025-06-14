@@ -144,15 +144,15 @@ He is currently the Research and Innovation Coordinator at the São José Campus
 - 🔢 Public repositories: **53**
 - ⭐ Total stars: **23** (avg: 0.43)
 - 🍴 Total forks: **86** (avg: 1.62)
-- 📦 Avg repo size: **1272.1 KB**
-- 📆 Days on GitHub: **3581 days** (since 2015-08-23)
+- 📦 Avg repo size: **1272.2 KB**
+- 📆 Days on GitHub: **3582 days** (since 2015-08-23)
 - 🏷️ Most common language: **Python**
 - 📚 Unique languages: **8**
 - 🔝 Top languages: Python (27), Jupyter Notebook (9), R (4)
-- 📊 % updated in last 90 days: **15.1%**
+- 📊 % updated in last 90 days: **13.2%**
 - 🔁 Most forked repo: `IFSC-Codespace-ENG-ADS-JAVA-POO` (78 forks)
-- ⏱️ Longest inactive repo: `Probability-MATLAB-Distributions` (1496 days)
-- 🔄 Most recently updated repo: `IFSC-Codespace-ENG-ADS-JAVA-POO` (0 days ago)
+- ⏱️ Longest inactive repo: `Probability-MATLAB-Distributions` (1497 days)
+- 🔄 Most recently updated repo: `rmayormartins` (0 days ago)
 - 🐞 Avg issues per repo: **0.04**
 - 💫 Repositories with 5+ stars: **1**
 - 🌐 GitHub Pages repos: **2**
@@ -164,19 +164,20 @@ He is currently the Research and Innovation Coordinator at the São José Campus
 - 🏅 Achievements: 🥇 30+ Repositories | 🍴 50+ Forks | 🌟 20+ Stars | 🕰️ 5+ Years Account
 
 **Top repositories by open issues:**
-- `awesome-deep-learning`: 1 issues, 0 ⭐, 0 🍴, updated 285 days ago
-- `REPL-PY-pygames-dragster`: 1 issues, 0 ⭐, 0 🍴, updated 294 days ago
-- `AI-DL-PY-Fastai-classificadorcompleto_visual`: 0 issues, 0 ⭐, 0 🍴, updated 294 days ago
+- `awesome-deep-learning`: 1 issues, 0 ⭐, 0 🍴, updated 286 days ago
+- `REPL-PY-pygames-dragster`: 1 issues, 0 ⭐, 0 🍴, updated 295 days ago
+- `AI-DL-PY-Fastai-classificadorcompleto_visual`: 0 issues, 0 ⭐, 0 🍴, updated 295 days ago
 
 **Top repositories by stars:**
-- `IFSC-Codespace-ENG-ADS-JAVA-POO`: 18 ⭐, 78 🍴, updated 0 days ago
-- `AI-DL-PY-fastai-cnn-treeclassificator`: 1 ⭐, 0 🍴, updated 215 days ago
-- `AI-ML-R-ANN-RandomForest-SpeakerRecognition`: 1 ⭐, 0 🍴, updated 294 days ago
+- `IFSC-Codespace-ENG-ADS-JAVA-POO`: 18 ⭐, 78 🍴, updated 1 days ago
+- `AI-DL-PY-fastai-cnn-treeclassificator`: 1 ⭐, 0 🍴, updated 216 days ago
+- `AI-ML-R-ANN-RandomForest-SpeakerRecognition`: 1 ⭐, 0 🍴, updated 295 days ago
 
 **📜 First repository:** `rmayormartins.github.io` (created on 2021-05-07)
 
 **🆕 Newest repository:** `IFSC-Codespace-ENG-ADS-JAVA-POO-BACKUP` (created on 2025-06-10)
 <!--END_STATS-->
+
 
 
 
