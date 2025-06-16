@@ -141,42 +141,43 @@ He is currently the Research and Innovation Coordinator at the São José Campus
 <!--START_STATS-->
 #### My Stats Action
 
-- 🔢 Public repositories: **53**
+- 🔢 Public repositories: **54**
 - ⭐ Total stars: **23** (avg: 0.43)
-- 🍴 Total forks: **86** (avg: 1.62)
-- 📦 Avg repo size: **1272.2 KB**
-- 📆 Days on GitHub: **3583 days** (since 2015-08-23)
+- 🍴 Total forks: **86** (avg: 1.59)
+- 📦 Avg repo size: **1249.6 KB**
+- 📆 Days on GitHub: **3584 days** (since 2015-08-23)
 - 🏷️ Most common language: **Python**
 - 📚 Unique languages: **8**
 - 🔝 Top languages: Python (27), Jupyter Notebook (9), R (4)
-- 📊 % updated in last 90 days: **13.2%**
+- 📊 % updated in last 90 days: **14.8%**
 - 🔁 Most forked repo: `IFSC-Codespace-ENG-ADS-JAVA-POO` (78 forks)
-- ⏱️ Longest inactive repo: `Probability-MATLAB-Distributions` (1498 days)
-- 🔄 Most recently updated repo: `rmayormartins` (1 days ago)
+- ⏱️ Longest inactive repo: `Probability-MATLAB-Distributions` (1499 days)
+- 🔄 Most recently updated repo: `VERCEL-red-alert-map` (0 days ago)
 - 🐞 Avg issues per repo: **0.04**
 - 💫 Repositories with 5+ stars: **1**
 - 🌐 GitHub Pages repos: **2**
 - 🧵 Repos with open issues: **2**
-- 🪙 Repos with 0 stars: **47**
+- 🪙 Repos with 0 stars: **48**
 - ⚖️ Forks > Stars: **3**
-- 📈 Star standard deviation: **2.48**
-- 📉 Forks standard deviation: **10.74**
+- 📈 Star standard deviation: **2.45**
+- 📉 Forks standard deviation: **10.64**
 - 🏅 Achievements: 🥇 30+ Repositories | 🍴 50+ Forks | 🌟 20+ Stars | 🕰️ 5+ Years Account
 
 **Top repositories by open issues:**
-- `awesome-deep-learning`: 1 issues, 0 ⭐, 0 🍴, updated 287 days ago
-- `REPL-PY-pygames-dragster`: 1 issues, 0 ⭐, 0 🍴, updated 296 days ago
-- `AI-DL-PY-Fastai-classificadorcompleto_visual`: 0 issues, 0 ⭐, 0 🍴, updated 296 days ago
+- `awesome-deep-learning`: 1 issues, 0 ⭐, 0 🍴, updated 288 days ago
+- `REPL-PY-pygames-dragster`: 1 issues, 0 ⭐, 0 🍴, updated 297 days ago
+- `AI-DL-PY-Fastai-classificadorcompleto_visual`: 0 issues, 0 ⭐, 0 🍴, updated 297 days ago
 
 **Top repositories by stars:**
-- `IFSC-Codespace-ENG-ADS-JAVA-POO`: 18 ⭐, 78 🍴, updated 2 days ago
-- `AI-DL-PY-fastai-cnn-treeclassificator`: 1 ⭐, 0 🍴, updated 217 days ago
-- `AI-ML-R-ANN-RandomForest-SpeakerRecognition`: 1 ⭐, 0 🍴, updated 296 days ago
+- `IFSC-Codespace-ENG-ADS-JAVA-POO`: 18 ⭐, 78 🍴, updated 3 days ago
+- `AI-DL-PY-fastai-cnn-treeclassificator`: 1 ⭐, 0 🍴, updated 218 days ago
+- `AI-ML-R-ANN-RandomForest-SpeakerRecognition`: 1 ⭐, 0 🍴, updated 297 days ago
 
 **📜 First repository:** `rmayormartins.github.io` (created on 2021-05-07)
 
-**🆕 Newest repository:** `IFSC-Codespace-ENG-ADS-JAVA-POO-BACKUP` (created on 2025-06-10)
+**🆕 Newest repository:** `VERCEL-red-alert-map` (created on 2025-06-15)
 <!--END_STATS-->
+
 
 
 
