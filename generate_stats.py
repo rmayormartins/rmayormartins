@@ -1,8 +1,6 @@
 import requests
 from datetime import datetime
 from statistics import stdev
-from collections import Counter
-print("✅ Running updated version of generate_stats.py")
 
 # === Configuration ===
 username = "rmayormartins"
@@ -30,14 +28,6 @@ forks_list = []
 size_total = 0
 updated_last_90 = 0
 pages_enabled = 0
-readme_filled = 0
-desc_lengths = []
-undefined_langs = 0
-above_avg_size_repos = []
-longest_name = ("", 0)
-most_words_name = ("", 0)
-word_counter = Counter()
-name_word_counter = Counter()
 
 repo_stats = []
 
@@ -46,7 +36,6 @@ newest_repo = {"name": None, "created_at": datetime.min}
 most_forked_repo = {"name": None, "forks": -1}
 most_outdated_repo = {"name": None, "updated_days": -1}
 most_recently_updated_repo = {"name": None, "updated_days": 9999}
-shortest_desc_repo = {"name": None, "length": float("inf")}
 
 for repo in repos_data:
     stars = repo["stargazers_count"]
@@ -57,8 +46,6 @@ for repo in repos_data:
     updated_at = datetime.strptime(repo["updated_at"], "%Y-%m-%dT%H:%M:%SZ")
     created_repo_at = datetime.strptime(repo["created_at"], "%Y-%m-%dT%H:%M:%SZ")
     days_since_update = (datetime.now() - updated_at).days
-    name = repo["name"]
-    desc = repo.get("description") or ""
 
     total_stars += stars
     total_forks += forks
@@ -68,9 +55,6 @@ for repo in repos_data:
 
     if lang:
         language_count[lang] = language_count.get(lang, 0) + 1
-    else:
-        undefined_langs += 1
-
     if days_since_update <= 90:
         updated_last_90 += 1
     if repo.get("has_pages"):
@@ -79,43 +63,24 @@ for repo in repos_data:
     update_days.append(days_since_update)
     issue_counts.append(issues)
     repo_stats.append({
-        "name": name,
+        "name": repo["name"],
         "stars": stars,
         "forks": forks,
         "issues": issues,
         "updated_days": days_since_update,
-        "created_at": created_repo_at,
-        "size": size
+        "created_at": created_repo_at
     })
 
     if created_repo_at < oldest_repo["created_at"]:
-        oldest_repo = {"name": name, "created_at": created_repo_at}
+        oldest_repo = {"name": repo["name"], "created_at": created_repo_at}
     if created_repo_at > newest_repo["created_at"]:
-        newest_repo = {"name": name, "created_at": created_repo_at}
+        newest_repo = {"name": repo["name"], "created_at": created_repo_at}
     if forks > most_forked_repo["forks"]:
-        most_forked_repo = {"name": name, "forks": forks}
+        most_forked_repo = {"name": repo["name"], "forks": forks}
     if days_since_update > most_outdated_repo["updated_days"]:
-        most_outdated_repo = {"name": name, "updated_days": days_since_update}
+        most_outdated_repo = {"name": repo["name"], "updated_days": days_since_update}
     if days_since_update < most_recently_updated_repo["updated_days"]:
-        most_recently_updated_repo = {"name": name, "updated_days": days_since_update}
-
-    if desc:
-        readme_filled += 1
-        desc_lengths.append(len(desc))
-        if len(desc) < shortest_desc_repo["length"]:
-            shortest_desc_repo = {"name": name, "length": len(desc)}
-        for word in desc.lower().split():
-            word_counter[word.strip(".,:;()[]{}")[:30]] += 1
-
-    if len(name) > longest_name[1]:
-        longest_name = (name, len(name))
-
-    name_word_count = len(name.split("-"))
-    if name_word_count > most_words_name[1]:
-        most_words_name = (name, name_word_count)
-
-    for word in name.lower().split("-"):
-        name_word_counter[word.strip(".,:;()[]{}")[:30]] += 1
+        most_recently_updated_repo = {"name": repo["name"], "updated_days": days_since_update}
 
 # === Final Calculations ===
 avg_stars = total_stars / total_repos if total_repos else 0
@@ -128,54 +93,92 @@ top_languages = sorted(language_count.items(), key=lambda x: x[1], reverse=True)
 repos_with_5plus_stars = len([r for r in repo_stats if r["stars"] >= 5])
 unique_languages = len(language_count)
 percent_updated_90 = (updated_last_90 / total_repos * 100) if total_repos else 0
-percent_with_desc = (readme_filled / total_repos * 100) if total_repos else 0
-percent_undefined_lang = (undefined_langs / total_repos * 100) if total_repos else 0
-avg_desc_len = sum(desc_lengths) / len(desc_lengths) if desc_lengths else 0
-above_avg_size_repos = [r["name"] for r in repo_stats if r["size"] > avg_size_kb]
-top_keywords_readme = word_counter.most_common(3)
-top_keywords_name = name_word_counter.most_common(3)
 
-# === Markdown Output for Extra Stats ===
-extra_stats_md = """<!--START_EXTRA_STATS-->
-### 📊 Additional GitHub Repository Statistics
+repos_with_issues = len([r for r in repo_stats if r["issues"] > 0])
+zero_star_repos = len([r for r in repo_stats if r["stars"] == 0])
+forks_greater_than_stars = len([r for r in repo_stats if r["forks"] > r["stars"]])
+std_stars = stdev(stars_list) if total_repos > 1 else 0
+std_forks = stdev(forks_list) if total_repos > 1 else 0
 
-- 📝 Repositories with README or description: **{}**
-- 🧾 % with README or description: **{:.1f}%**
-- 🕳️ % without defined language: **{:.1f}%**
-- ✏️ Average characters in descriptions: **{:.1f}**
-- 📉 Repo with shortest description: `{}` ({} characters)
-- 💤 Longest inactive repo: `{}` ({} days)
-- 💾 Repositories above average size: {}
-- 🔠 Longest repo name: `{}` ({} characters)
-- 🗣️ Repo name with most words: `{}` ({} words)
-- 🧩 Most common words in repo names: {}
-- 🔤 Most common words in README/description: {}
+top_issues = sorted(repo_stats, key=lambda x: x["issues"], reverse=True)[:3]
+top_starred = sorted(repo_stats, key=lambda x: x["stars"], reverse=True)[:3]
 
-<!--END_EXTRA_STATS-->
-""".format(
-    readme_filled,
-    percent_with_desc,
-    percent_undefined_lang,
-    avg_desc_len,
-    shortest_desc_repo["name"], shortest_desc_repo["length"],
+# === Symbolic Badges ===
+badges = []
+if total_repos >= 30:
+    badges.append("🥇 30+ Repositories")
+if total_forks >= 50:
+    badges.append("🍴 50+ Forks")
+if total_stars >= 20:
+    badges.append("🌟 20+ Stars")
+if days_on_github >= 365 * 5:
+    badges.append("🕰️ 5+ Years Account")
+if avg_update_days < 90:
+    badges.append("⚡ Active Maintenance (< 90 days)")
+
+# === Markdown Output ===
+markdown_output = """<!--START_STATS-->
+#### My Stats Action
+
+- 🔢 Public repositories: **{}**
+- ⭐ Total stars: **{}** (avg: {:.2f})
+- 🍴 Total forks: **{}** (avg: {:.2f})
+- 📦 Avg repo size: **{:.1f} KB**
+- 📆 Days on GitHub: **{} days** (since {})
+- 🏷️ Most common language: **{}**
+- 📚 Unique languages: **{}**
+- 🔝 Top languages: {}
+- 📊 % updated in last 90 days: **{:.1f}%**
+- 🔁 Most forked repo: {} ({} forks)
+- ⏱️ Longest inactive repo: {} ({} days)
+- 🔄 Most recently updated repo: {} ({} days ago)
+- 🐞 Avg issues per repo: **{:.2f}**
+- 💫 Repositories with 5+ stars: **{}**
+- 🌐 GitHub Pages repos: **{}**
+- 🧵 Repos with open issues: **{}**
+- 🪙 Repos with 0 stars: **{}**
+- ⚖️ Forks > Stars: **{}**
+- 📈 Star standard deviation: **{:.2f}**
+- 📉 Forks standard deviation: **{:.2f}**
+- 🏅 Achievements: {}
+
+**Top repositories by open issues:**""".format(
+    total_repos, total_stars, avg_stars,
+    total_forks, avg_forks, avg_size_kb,
+    days_on_github, created_at_str,
+    top_language, unique_languages,
+    ", ".join([f"{lang} ({count})" for lang, count in top_languages]),
+    percent_updated_90,
+    most_forked_repo["name"], most_forked_repo["forks"],
     most_outdated_repo["name"], most_outdated_repo["updated_days"],
-    ", ".join(above_avg_size_repos[:5]) if above_avg_size_repos else "None",
-    longest_name[0], longest_name[1],
-    most_words_name[0], most_words_name[1],
-    ", ".join([f"{k} ({v})" for k, v in top_keywords_name]),
-    ", ".join([f"{k} ({v})" for k, v in top_keywords_readme])
+    most_recently_updated_repo["name"], most_recently_updated_repo["updated_days"],
+    avg_issues, repos_with_5plus_stars, pages_enabled,
+    repos_with_issues, zero_star_repos, forks_greater_than_stars,
+    std_stars, std_forks,
+    ' | '.join(badges) if badges else 'None yet'
 )
+
+for r in top_issues:
+    markdown_output += f"\n- {r['name']}: {r['issues']} issues, {r['stars']} ⭐, {r['forks']} 🍴, updated {r['updated_days']} days ago"
+
+markdown_output += "\n\n**Top repositories by stars:**"
+for r in top_starred:
+    markdown_output += f"\n- {r['name']}: {r['stars']} ⭐, {r['forks']} 🍴, updated {r['updated_days']} days ago"
+
+markdown_output += f"\n\n**📜 First repository:** {oldest_repo['name']} (created on {oldest_repo['created_at'].date()})"
+markdown_output += f"\n\n**🆕 Newest repository:** {newest_repo['name']} (created on {newest_repo['created_at'].date()})"
+markdown_output += "\n<!--END_STATS-->\n"
 
 # === Update README.md ===
 with open("README.md", "r", encoding="utf-8") as f:
     readme = f.read()
 
-start = readme.find("<!--START_EXTRA_STATS-->")
-end = readme.find("<!--END_EXTRA_STATS-->") + len("<!--END_EXTRA_STATS-->")
+start = readme.find("<!--START_STATS-->")
+end = readme.find("<!--END_STATS-->") + len("<!--END_STATS-->")
 
 if start != -1 and end != -1:
-    updated_readme = readme[:start] + extra_stats_md + readme[end:]
+    updated_readme = readme[:start] + markdown_output + readme[end:]
     with open("README.md", "w", encoding="utf-8") as f:
         f.write(updated_readme)
 else:
-    print("❌ Markers <!--START_EXTRA_STATS--> or <!--END_EXTRA_STATS--> not found in README.md")
+    print("❌ Markers <!--START_STATS--> or <!--END_STATS--> not found in README.md"
