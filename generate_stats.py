@@ -2,6 +2,7 @@ import requests
 from datetime import datetime
 from statistics import stdev
 from collections import Counter
+print("✅ Running updated version of generate_stats.py")
 
 # === Configuration ===
 username = "rmayormartins"
