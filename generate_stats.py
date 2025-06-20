@@ -181,4 +181,4 @@ if start != -1 and end != -1:
     with open("README.md", "w", encoding="utf-8") as f:
         f.write(updated_readme)
 else:
-    print("❌ Markers <!--START_STATS--> or <!--END_STATS--> not found in README.md"
+    print("❌ Markers <!--START_STATS--> or <!--END_STATS--> not found in README.md")
