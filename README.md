@@ -197,6 +197,7 @@ He is currently the Research and Innovation Coordinator at the São José Campus
 
 
 
+
 ---
 
 #### GitHub City (click) 🌆 
