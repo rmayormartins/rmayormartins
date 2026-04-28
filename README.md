@@ -179,26 +179,6 @@ Also is pursuing a Postdoctoral research in Educational Games (UFSC).
 **🆕 Newest repository:** VERCEL-red-alert-map (created on 2025-06-15)
 <!--END_STATS-->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ---
 
 #### GitHub City (click) 🌆 
@@ -212,45 +192,63 @@ Also is pursuing a Postdoctoral research in Educational Games (UFSC).
 
 #### Topic Pursuit 🎯💻
 
-<p align="center">
-  <img width="140" height="80" src="https://miro.medium.com/v2/resize:fit:624/1*vnt4DlXUo_oYYYbtQu9qXw.png">
-  <img width="140" height="80" src="https://theaisummer.com/static/385447122c9c6ce73e449fe3a7ecf46a/ee604/hugging-face-vit.png">
-  <img width="140" height="80" src="https://miro.medium.com/v2/resize:fit:1000/1*63sGPbvLLpvlD16hG1bvmA.gif">
-  <img width="140" height="80" src="https://farm6.staticflickr.com/5520/9300199921_4c0ce4e4a4_z.jpg">
-  <img width="140" height="80" src="https://miro.medium.com/max/840/1*tQ9PotwEr93jwFte56U8aA.gif">
-</p>
+<table align="center">
+  <tr>
+    <td><img width="140" height="80" src="https://miro.medium.com/v2/resize:fit:624/1*vnt4DlXUo_oYYYbtQu9qXw.png"></td>
+    <td><img width="140" height="80" src="https://theaisummer.com/static/385447122c9c6ce73e449fe3a7ecf46a/ee604/hugging-face-vit.png"></td>
+    <td><img width="140" height="80" src="https://miro.medium.com/v2/resize:fit:1000/1*63sGPbvLLpvlD16hG1bvmA.gif"></td>
+    <td><img width="140" height="80" src="https://farm6.staticflickr.com/5520/9300199921_4c0ce4e4a4_z.jpg"></td>
+    <td><img width="140" height="80" src="https://miro.medium.com/max/840/1*tQ9PotwEr93jwFte56U8aA.gif"></td>
+    <td></td>
+  </tr>
+</table>
 
 ---
 
-#### My Memorial (1988-1998)🗿💻
-<p align="center">
-  <img width="140" height="80" src="https://jiggeh.com/wp-content/uploads/2020/04/cpc.jpg">
-  <img width="140" height="80" src="https://user-images.githubusercontent.com/13935213/139339938-19f6d05b-2d75-41b4-ab8c-f984f442e4fd.png">
-  <img width="140" height="80" src="https://user-images.githubusercontent.com/13935213/139340075-d18e1c3e-556f-400a-ab61-dad7a92460b9.png">
-  <img width="140" height="80" src="https://miro.medium.com/max/532/0*FSSHa9aaGDvf1n-H.gif">
-  <img width="140" height="80" src="https://miro.medium.com/max/640/0*KkRlZBfC27Kq3raL.gif">
-  <img width="140" height="80" src="https://miro.medium.com/max/532/0*u2Y2NXPZsNHHqKnM.jpg">
-  <img width="140" height="80" src="https://miro.medium.com/max/480/0*xxEGUZ4AEACmaQpN.gif">
-<img width="140" height="80" src="https://miro.medium.com/max/640/0*6vMLIqNR6-RImE0b.gif">
- <img width="140" height="80" src="https://user-images.githubusercontent.com/13935213/145850530-5f758af9-a870-4bcf-ac47-53c450eb3876.png">
-  <img width="140" height="80" src="https://i.ytimg.com/vi/fKU-NMrK4qw/hqdefault.jpg">
-  <img width="140" height="80" src="https://upload.wikimedia.org/wikipedia/commons/7/71/Msxbasic.png">
-  <img width="140" height="80" src="https://winworldpc.com/res/img/screenshots/2x-adf890821833e9f6e089b94ddd35b36b-Turbo%20C%202.0%20-%20Splash.png">
-  <img width="140" height="80" src="https://i.pinimg.com/originals/35/ad/3e/35ad3e02c2a21a6164f6e9fa525e9bc0.gif">
-  <img width="140" height="80" src="https://bdjogos.com.br/fotos/13102017021515-super-soccer-snes-004.png">
-  <img width="140" height="80" src="https://user-images.githubusercontent.com/13935213/139536119-e2450078-5f14-4377-813a-07975e44c30e.png">
-  <img width="140" height="80" src="https://4.bp.blogspot.com/-zn4Ob_G4XIU/WHV2h6WWgpI/AAAAAAAAWw8/K2HoOgo7xfsh8jfNtDvXsLz0RvnAd9logCLcB/s1600/Lamborghini-American-Challenge-Titus-Super-Nintendo-SNES-Amiga-PC-Xtreme-Retro-8.png">
-   <img width="140" height="80" src="https://www.myabandonware.com/media/screenshots/n/nigel-mansells-world-championship-racing-1m5/nigel-mansells-world-championship-racing_4.png">
-  <img width="140" height="80" src="https://s2.glbimg.com/0A4q4bt82qmQSbfbTKQiooZ263g=/0x0:1258x720/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/n/B/EPqiaiRyO4sdPjQPyCOg/allejo-international-superstar-soccer.jpg">
-  <img width="140" height="80" src="https://r.mprd.se/media/images/35386-Sonic_Wings_(Japan)-1491088625.jpg">
-  <img width="140" height="80" src="https://68.media.tumblr.com/2753924837b584ac2fcc7cb4f34ab8e1/tumblr_mzi7i6DjEA1qd4q8ao1_500.gif">
-  <img width="140" height="80" src="https://static.wikia.nocookie.net/fanfiction/images/0/07/Rick_%28Ultimate_Fighter%29_Doing_a_Back_Spin_Kick.gif/revision/latest?cb=20220222121952">
-  <img width="140" height="80" src="https://www.fightersgeneration.com/nf8/char/jago-vs-cinder-ki-snes.gif">
-  <img width="140" height="80" src="https://user-images.githubusercontent.com/13935213/145812197-4d42e96b-f0e2-41cc-81f6-fb3c5ea32359.png">
-  <img width="140" height="80" src="https://user-images.githubusercontent.com/13935213/145812328-efa4624b-3b8b-46cc-9d05-dcf57dfcc6f3.png">
-  <img width="140" height="80" src="https://user-images.githubusercontent.com/13935213/146217554-7173f7c6-cac8-4837-bb49-cf81dfcce54b.png">
-  <img width="140" height="80" src="https://www.chartwellyorke.com/derive/images/in_action/550/simultaneousequations.gif">
-</p>
+#### My Memorial (1988-1998) 🗿💻
+
+<table align="center">
+  <tr>
+    <td><img width="140" height="80" src="https://jiggeh.com/wp-content/uploads/2020/04/cpc.jpg"></td>
+    <td><img width="140" height="80" src="https://user-images.githubusercontent.com/13935213/139339938-19f6d05b-2d75-41b4-ab8c-f984f442e4fd.png"></td>
+    <td><img width="140" height="80" src="https://user-images.githubusercontent.com/13935213/139340075-d18e1c3e-556f-400a-ab61-dad7a92460b9.png"></td>
+    <td><img width="140" height="80" src="https://miro.medium.com/max/532/0*FSSHa9aaGDvf1n-H.gif"></td>
+    <td><img width="140" height="80" src="https://miro.medium.com/max/640/0*KkRlZBfC27Kq3raL.gif"></td>
+    <td><img width="140" height="80" src="https://miro.medium.com/max/532/0*u2Y2NXPZsNHHqKnM.jpg"></td>
+  </tr>
+  <tr>
+    <td><img width="140" height="80" src="https://miro.medium.com/max/480/0*xxEGUZ4AEACmaQpN.gif"></td>
+    <td><img width="140" height="80" src="https://miro.medium.com/max/640/0*6vMLIqNR6-RImE0b.gif"></td>
+    <td><img width="140" height="80" src="https://user-images.githubusercontent.com/13935213/145850530-5f758af9-a870-4bcf-ac47-53c450eb3876.png"></td>
+    <td><img width="140" height="80" src="https://i.ytimg.com/vi/fKU-NMrK4qw/hqdefault.jpg"></td>
+    <td><img width="140" height="80" src="https://upload.wikimedia.org/wikipedia/commons/7/71/Msxbasic.png"></td>
+    <td><img width="140" height="80" src="https://winworldpc.com/res/img/screenshots/2x-adf890821833e9f6e089b94ddd35b36b-Turbo%20C%202.0%20-%20Splash.png"></td>
+  </tr>
+  <tr>
+    <td><img width="140" height="80" src="https://i.pinimg.com/originals/35/ad/3e/35ad3e02c2a21a6164f6e9fa525e9bc0.gif"></td>
+    <td><img width="140" height="80" src="https://bdjogos.com.br/fotos/13102017021515-super-soccer-snes-004.png"></td>
+    <td><img width="140" height="80" src="https://user-images.githubusercontent.com/13935213/139536119-e2450078-5f14-4377-813a-07975e44c30e.png"></td>
+    <td><img width="140" height="80" src="https://4.bp.blogspot.com/-zn4Ob_G4XIU/WHV2h6WWgpI/AAAAAAAAWw8/K2HoOgo7xfsh8jfNtDvXsLz0RvnAd9logCLcB/s1600/Lamborghini-American-Challenge-Titus-Super-Nintendo-SNES-Amiga-PC-Xtreme-Retro-8.png"></td>
+    <td><img width="140" height="80" src="https://www.myabandonware.com/media/screenshots/n/nigel-mansells-world-championship-racing-1m5/nigel-mansells-world-championship-racing_4.png"></td>
+    <td><img width="140" height="80" src="https://s2.glbimg.com/0A4q4bt82qmQSbfbTKQiooZ263g=/0x0:1258x720/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/n/B/EPqiaiRyO4sdPjQPyCOg/allejo-international-superstar-soccer.jpg"></td>
+  </tr>
+  <tr>
+    <td><img width="140" height="80" src="https://r.mprd.se/media/images/35386-Sonic_Wings_(Japan)-1491088625.jpg"></td>
+    <td><img width="140" height="80" src="https://68.media.tumblr.com/2753924837b584ac2fcc7cb4f34ab8e1/tumblr_mzi7i6DjEA1qd4q8ao1_500.gif"></td>
+    <td><img width="140" height="80" src="https://static.wikia.nocookie.net/fanfiction/images/0/07/Rick_%28Ultimate_Fighter%29_Doing_a_Back_Spin_Kick.gif/revision/latest?cb=20220222121952"></td>
+    <td><img width="140" height="80" src="https://www.fightersgeneration.com/nf8/char/jago-vs-cinder-ki-snes.gif"></td>
+    <td><img width="140" height="80" src="https://user-images.githubusercontent.com/13935213/145812197-4d42e96b-f0e2-41cc-81f6-fb3c5ea32359.png"></td>
+    <td><img width="140" height="80" src="https://user-images.githubusercontent.com/13935213/145812328-efa4624b-3b8b-46cc-9d05-dcf57dfcc6f3.png"></td>
+  </tr>
+  <tr>
+    <td><img width="140" height="80" src="https://user-images.githubusercontent.com/13935213/146217554-7173f7c6-cac8-4837-bb49-cf81dfcce54b.png"></td>
+    <td><img width="140" height="80" src="https://www.chartwellyorke.com/derive/images/in_action/550/simultaneousequations.gif"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
 ---
 #### My statements
