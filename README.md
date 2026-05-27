@@ -142,32 +142,32 @@ Also is pursuing a Postdoctoral research in Educational Games (UFSC).
 <!--START_STATS-->
 #### My Stats Action
 
-- 🔢 Public repositories: **69**
-- ⭐ Total stars: **24** (avg: 0.35)
-- 🍴 Total forks: **79** (avg: 1.14)
-- 📦 Avg repo size: **1027.8 KB**
-- 📆 Days on GitHub: **3928 days** (since 2015-08-23)
+- 🔢 Public repositories: **70**
+- ⭐ Total stars: **24** (avg: 0.34)
+- 🍴 Total forks: **79** (avg: 1.13)
+- 📦 Avg repo size: **1014.4 KB**
+- 📆 Days on GitHub: **3929 days** (since 2015-08-23)
 - 🏷️ Most common language: **Python**
 - 📚 Unique languages: **10**
-- 🔝 Top languages: Python (26), HTML (15), Jupyter Notebook (9)
-- 📊 % updated in last 90 days: **17.4%**
+- 🔝 Top languages: Python (26), HTML (16), Jupyter Notebook (9)
+- 📊 % updated in last 90 days: **18.6%**
 - 🔁 Most forked repo: IFSC-Codespace-ENG-ADS-JAVA-POO (69 forks)
 - ⏱️ Longest inactive repo: Probability-MATLAB-Distributions (1844 days)
-- 🔄 Most recently updated repo: rmayormartins (0 days ago)
+- 🔄 Most recently updated repo: starlink-commander (0 days ago)
 - 🐞 Avg issues per repo: **0.01**
 - 💫 Repositories with 5+ stars: **1**
-- 🌐 GitHub Pages repos: **16**
+- 🌐 GitHub Pages repos: **17**
 - 🧵 Repos with open issues: **1**
-- 🪙 Repos with 0 stars: **62**
+- 🪙 Repos with 0 stars: **63**
 - ⚖️ Forks > Stars: **3**
-- 📈 Star standard deviation: **2.17**
-- 📉 Forks standard deviation: **8.36**
+- 📈 Star standard deviation: **2.16**
+- 📉 Forks standard deviation: **8.30**
 - 🏅 Achievements: 🥇 30+ Repositories | 🍴 50+ Forks | 🌟 20+ Stars | 🕰️ 5+ Years Account
 
 **Top repositories by open issues:**
 - REPL-PY-pygames-dragster: 1 issues, 0 ⭐, 0 🍴, updated 642 days ago
-- rmayormartins: 0 issues, 0 ⭐, 0 🍴, updated 0 days ago
 - starlink-commander: 0 issues, 0 ⭐, 0 🍴, updated 0 days ago
+- aiesthetic: 0 issues, 0 ⭐, 0 🍴, updated 0 days ago
 
 **Top repositories by stars:**
 - IFSC-Codespace-ENG-ADS-JAVA-POO: 18 ⭐, 69 🍴, updated 84 days ago
@@ -176,7 +176,7 @@ Also is pursuing a Postdoctoral research in Educational Games (UFSC).
 
 **📜 First repository:** rmayormartins.github.io (created on 2021-05-07)
 
-**🆕 Newest repository:** trilha-emocional (created on 2026-05-06)
+**🆕 Newest repository:** aiesthetic (created on 2026-05-26)
 <!--END_STATS-->
 
 ---
