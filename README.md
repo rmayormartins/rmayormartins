@@ -48,10 +48,12 @@ Also is pursuing a Postdoctoral research in Educational Games (UFSC).
 ---
 #### On-the-fly spaces
 ```
+
+💻📡|| Telecom Tools: https://rmayormartins.github.io/telecom-tools/
+💻🤖|| IA Tools: https://rmayormartins.github.io/ia-tools/
 💻🤗|| Hugging Face Spaces: Espaços de IA https://huggingface.co/rmayormartins
-💻🐱|| Github.io: Ferramentas didáticas de IA https://rmayormartins.github.io/ia-projects/
 💻 K|| Kaggle Projects: https://www.kaggle.com/rmayormartins
-💻 ℝ|| Shiny R Apps: https://rmayormartins.shinyapps.io/DiagnosticDataset/
+
 ```
 ---
 #### Contact me
