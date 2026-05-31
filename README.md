@@ -144,41 +144,41 @@ Also is pursuing a Postdoctoral research in Educational Games (UFSC).
 <!--START_STATS-->
 #### My Stats Action
 
-- 🔢 Public repositories: **71**
-- ⭐ Total stars: **24** (avg: 0.34)
-- 🍴 Total forks: **79** (avg: 1.11)
-- 📦 Avg repo size: **999.1 KB**
-- 📆 Days on GitHub: **3932 days** (since 2015-08-23)
+- 🔢 Public repositories: **72**
+- ⭐ Total stars: **24** (avg: 0.33)
+- 🍴 Total forks: **79** (avg: 1.10)
+- 📦 Avg repo size: **986.6 KB**
+- 📆 Days on GitHub: **3933 days** (since 2015-08-23)
 - 🏷️ Most common language: **Python**
 - 📚 Unique languages: **10**
-- 🔝 Top languages: Python (26), HTML (16), Jupyter Notebook (9)
-- 📊 % updated in last 90 days: **19.7%**
+- 🔝 Top languages: Python (26), HTML (17), Jupyter Notebook (9)
+- 📊 % updated in last 90 days: **20.8%**
 - 🔁 Most forked repo: IFSC-Codespace-ENG-ADS-JAVA-POO (69 forks)
-- ⏱️ Longest inactive repo: Probability-MATLAB-Distributions (1847 days)
+- ⏱️ Longest inactive repo: Probability-MATLAB-Distributions (1848 days)
 - 🔄 Most recently updated repo: starlink-commander (0 days ago)
 - 🐞 Avg issues per repo: **0.01**
 - 💫 Repositories with 5+ stars: **1**
-- 🌐 GitHub Pages repos: **18**
+- 🌐 GitHub Pages repos: **19**
 - 🧵 Repos with open issues: **1**
-- 🪙 Repos with 0 stars: **64**
+- 🪙 Repos with 0 stars: **65**
 - ⚖️ Forks > Stars: **3**
-- 📈 Star standard deviation: **2.14**
-- 📉 Forks standard deviation: **8.24**
+- 📈 Star standard deviation: **2.13**
+- 📉 Forks standard deviation: **8.18**
 - 🏅 Achievements: 🥇 30+ Repositories | 🍴 50+ Forks | 🌟 20+ Stars | 🕰️ 5+ Years Account
 
 **Top repositories by open issues:**
-- REPL-PY-pygames-dragster: 1 issues, 0 ⭐, 0 🍴, updated 645 days ago
+- REPL-PY-pygames-dragster: 1 issues, 0 ⭐, 0 🍴, updated 646 days ago
 - starlink-commander: 0 issues, 0 ⭐, 0 🍴, updated 0 days ago
-- rmayormartins: 0 issues, 0 ⭐, 0 🍴, updated 0 days ago
+- funcube1-commander: 0 issues, 0 ⭐, 0 🍴, updated 0 days ago
 
 **Top repositories by stars:**
-- IFSC-Codespace-ENG-ADS-JAVA-POO: 18 ⭐, 69 🍴, updated 87 days ago
-- SPACE-AI-PY-yolov5-sunspot-hunter: 1 ⭐, 0 🍴, updated 17 days ago
-- iss-commander: 1 ⭐, 0 🍴, updated 45 days ago
+- IFSC-Codespace-ENG-ADS-JAVA-POO: 18 ⭐, 69 🍴, updated 88 days ago
+- SPACE-AI-PY-yolov5-sunspot-hunter: 1 ⭐, 0 🍴, updated 18 days ago
+- iss-commander: 1 ⭐, 0 🍴, updated 46 days ago
 
 **📜 First repository:** rmayormartins.github.io (created on 2021-05-07)
 
-**🆕 Newest repository:** sistema-pei (created on 2026-05-28)
+**🆕 Newest repository:** funcube1-commander (created on 2026-05-31)
 <!--END_STATS-->
 
 ---
