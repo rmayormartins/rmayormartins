@@ -146,15 +146,15 @@ Also is pursuing a Postdoctoral research in Educational Games (UFSC).
 
 - 🔢 Public repositories: **72**
 - ⭐ Total stars: **24** (avg: 0.33)
-- 🍴 Total forks: **79** (avg: 1.10)
-- 📦 Avg repo size: **986.6 KB**
-- 📆 Days on GitHub: **3933 days** (since 2015-08-23)
+- 🍴 Total forks: **80** (avg: 1.11)
+- 📦 Avg repo size: **988.9 KB**
+- 📆 Days on GitHub: **3934 days** (since 2015-08-23)
 - 🏷️ Most common language: **Python**
 - 📚 Unique languages: **10**
 - 🔝 Top languages: Python (26), HTML (17), Jupyter Notebook (9)
 - 📊 % updated in last 90 days: **20.8%**
 - 🔁 Most forked repo: IFSC-Codespace-ENG-ADS-JAVA-POO (69 forks)
-- ⏱️ Longest inactive repo: Probability-MATLAB-Distributions (1848 days)
+- ⏱️ Longest inactive repo: Probability-MATLAB-Distributions (1849 days)
 - 🔄 Most recently updated repo: starlink-commander (0 days ago)
 - 🐞 Avg issues per repo: **0.01**
 - 💫 Repositories with 5+ stars: **1**
@@ -167,14 +167,14 @@ Also is pursuing a Postdoctoral research in Educational Games (UFSC).
 - 🏅 Achievements: 🥇 30+ Repositories | 🍴 50+ Forks | 🌟 20+ Stars | 🕰️ 5+ Years Account
 
 **Top repositories by open issues:**
-- REPL-PY-pygames-dragster: 1 issues, 0 ⭐, 0 🍴, updated 646 days ago
+- REPL-PY-pygames-dragster: 1 issues, 0 ⭐, 0 🍴, updated 647 days ago
 - starlink-commander: 0 issues, 0 ⭐, 0 🍴, updated 0 days ago
 - funcube1-commander: 0 issues, 0 ⭐, 0 🍴, updated 0 days ago
 
 **Top repositories by stars:**
-- IFSC-Codespace-ENG-ADS-JAVA-POO: 18 ⭐, 69 🍴, updated 88 days ago
-- SPACE-AI-PY-yolov5-sunspot-hunter: 1 ⭐, 0 🍴, updated 18 days ago
-- iss-commander: 1 ⭐, 0 🍴, updated 46 days ago
+- IFSC-Codespace-ENG-ADS-JAVA-POO: 18 ⭐, 69 🍴, updated 89 days ago
+- SPACE-AI-PY-yolov5-sunspot-hunter: 1 ⭐, 0 🍴, updated 19 days ago
+- iss-commander: 1 ⭐, 0 🍴, updated 47 days ago
 
 **📜 First repository:** rmayormartins.github.io (created on 2021-05-07)
 
