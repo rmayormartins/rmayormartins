@@ -146,15 +146,15 @@ Also is pursuing a Postdoctoral research in Educational Games (UFSC).
 
 - 🔢 Public repositories: **72**
 - ⭐ Total stars: **23** (avg: 0.32)
-- 🍴 Total forks: **80** (avg: 1.11)
-- 📦 Avg repo size: **994.5 KB**
-- 📆 Days on GitHub: **3940 days** (since 2015-08-23)
+- 🍴 Total forks: **79** (avg: 1.10)
+- 📦 Avg repo size: **995.9 KB**
+- 📆 Days on GitHub: **3941 days** (since 2015-08-23)
 - 🏷️ Most common language: **Python**
 - 📚 Unique languages: **10**
 - 🔝 Top languages: Python (26), HTML (17), Jupyter Notebook (9)
 - 📊 % updated in last 90 days: **20.8%**
-- 🔁 Most forked repo: IFSC-Codespace-ENG-ADS-JAVA-POO (69 forks)
-- ⏱️ Longest inactive repo: Probability-MATLAB-Distributions (1855 days)
+- 🔁 Most forked repo: IFSC-Codespace-ENG-ADS-JAVA-POO (68 forks)
+- ⏱️ Longest inactive repo: Probability-MATLAB-Distributions (1856 days)
 - 🔄 Most recently updated repo: telecom-tools (0 days ago)
 - 🐞 Avg issues per repo: **0.01**
 - 💫 Repositories with 5+ stars: **1**
@@ -163,18 +163,18 @@ Also is pursuing a Postdoctoral research in Educational Games (UFSC).
 - 🪙 Repos with 0 stars: **65**
 - ⚖️ Forks > Stars: **3**
 - 📈 Star standard deviation: **2.01**
-- 📉 Forks standard deviation: **8.18**
+- 📉 Forks standard deviation: **8.07**
 - 🏅 Achievements: 🥇 30+ Repositories | 🍴 50+ Forks | 🌟 20+ Stars | 🕰️ 5+ Years Account
 
 **Top repositories by open issues:**
-- REPL-PY-pygames-dragster: 1 issues, 0 ⭐, 0 🍴, updated 653 days ago
+- REPL-PY-pygames-dragster: 1 issues, 0 ⭐, 0 🍴, updated 654 days ago
 - telecom-tools: 0 issues, 0 ⭐, 0 🍴, updated 0 days ago
-- starlink-commander: 0 issues, 0 ⭐, 0 🍴, updated 0 days ago
+- rmayormartins: 0 issues, 0 ⭐, 0 🍴, updated 1 day ago
 
 **Top repositories by stars:**
-- IFSC-Codespace-ENG-ADS-JAVA-POO: 17 ⭐, 69 🍴, updated 5 days ago
-- SPACE-AI-PY-yolov5-sunspot-hunter: 1 ⭐, 0 🍴, updated 25 days ago
-- iss-commander: 1 ⭐, 0 🍴, updated 53 days ago
+- IFSC-Codespace-ENG-ADS-JAVA-POO: 17 ⭐, 68 🍴, updated 6 days ago
+- SPACE-AI-PY-yolov5-sunspot-hunter: 1 ⭐, 0 🍴, updated 26 days ago
+- iss-commander: 1 ⭐, 0 🍴, updated 54 days ago
 
 **📜 First repository:** rmayormartins.github.io (created on 2021-05-07)
 
