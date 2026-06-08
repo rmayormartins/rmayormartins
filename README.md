@@ -188,6 +188,9 @@ Also is pursuing a Postdoctoral research in Educational Games (UFSC).
   <a href="https://honzaap.github.io/GithubCity/?name=rmayormartins&year=2025">
     <img src="githubcity.png" alt="GitHub City" width="200">
   </a>
+  <a href="https://honzaap.github.io/GithubCity/?name=rmayormartins&year=2026">
+    <img src="githubcity.png" alt="GitHub City" width="200">
+  </a>
 </div>
 
 ---
