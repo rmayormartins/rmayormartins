@@ -147,18 +147,18 @@ Also is pursuing a Postdoctoral research in Educational Games (UFSC).
 - 🔢 Public repositories: **75**
 - ⭐ Total stars: **24** (avg: 0.32)
 - 🍴 Total forks: **78** (avg: 1.04)
-- 📦 Avg repo size: **1195.3 KB**
-- 📆 Days on GitHub: **3956 days** (since 2015-08-23)
+- 📦 Avg repo size: **1206.9 KB**
+- 📆 Days on GitHub: **3957 days** (since 2015-08-23)
 - 🏷️ Most common language: **Python**
 - 📚 Unique languages: **10**
-- 🔝 Top languages: Python (26), HTML (19), Jupyter Notebook (9)
+- 🔝 Top languages: Python (26), HTML (20), Jupyter Notebook (9)
 - 📊 % updated in last 90 days: **25.3%**
 - 🔁 Most forked repo: IFSC-Codespace-ENG-ADS-JAVA-POO (67 forks)
-- ⏱️ Longest inactive repo: Probability-MATLAB-Distributions (1871 days)
+- ⏱️ Longest inactive repo: Probability-MATLAB-Distributions (1872 days)
 - 🔄 Most recently updated repo: starlink-commander (0 days ago)
 - 🐞 Avg issues per repo: **0.01**
 - 💫 Repositories with 5+ stars: **1**
-- 🌐 GitHub Pages repos: **21**
+- 🌐 GitHub Pages repos: **22**
 - 🧵 Repos with open issues: **1**
 - 🪙 Repos with 0 stars: **67**
 - ⚖️ Forks > Stars: **3**
@@ -167,14 +167,14 @@ Also is pursuing a Postdoctoral research in Educational Games (UFSC).
 - 🏅 Achievements: 🥇 30+ Repositories | 🍴 50+ Forks | 🌟 20+ Stars | 🕰️ 5+ Years Account
 
 **Top repositories by open issues:**
-- REPL-PY-pygames-dragster: 1 issues, 0 ⭐, 0 🍴, updated 669 days ago
+- REPL-PY-pygames-dragster: 1 issues, 0 ⭐, 0 🍴, updated 670 days ago
 - starlink-commander: 0 issues, 0 ⭐, 0 🍴, updated 0 days ago
-- telecom-news-radar: 0 issues, 0 ⭐, 0 🍴, updated 0 days ago
+- sat-commander: 0 issues, 0 ⭐, 0 🍴, updated 0 days ago
 
 **Top repositories by stars:**
-- IFSC-Codespace-ENG-ADS-JAVA-POO: 17 ⭐, 67 🍴, updated 21 days ago
-- iss-commander: 1 ⭐, 0 🍴, updated 4 days ago
-- iptv-cmd: 1 ⭐, 0 🍴, updated 11 days ago
+- IFSC-Codespace-ENG-ADS-JAVA-POO: 17 ⭐, 67 🍴, updated 22 days ago
+- iss-commander: 1 ⭐, 0 🍴, updated 5 days ago
+- iptv-cmd: 1 ⭐, 0 🍴, updated 12 days ago
 
 **📜 First repository:** rmayormartins.github.io (created on 2021-05-07)
 
