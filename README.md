@@ -144,41 +144,41 @@ Also is pursuing a Postdoctoral research in Educational Games (UFSC).
 <!--START_STATS-->
 #### My Stats Action
 
-- 🔢 Public repositories: **75**
+- 🔢 Public repositories: **76**
 - ⭐ Total stars: **24** (avg: 0.32)
-- 🍴 Total forks: **78** (avg: 1.04)
-- 📦 Avg repo size: **1456.2 KB**
-- 📆 Days on GitHub: **3961 days** (since 2015-08-23)
+- 🍴 Total forks: **78** (avg: 1.03)
+- 📦 Avg repo size: **1464.3 KB**
+- 📆 Days on GitHub: **3962 days** (since 2015-08-23)
 - 🏷️ Most common language: **Python**
 - 📚 Unique languages: **10**
-- 🔝 Top languages: Python (26), HTML (20), Jupyter Notebook (9)
-- 📊 % updated in last 90 days: **25.3%**
+- 🔝 Top languages: Python (26), HTML (21), Jupyter Notebook (9)
+- 📊 % updated in last 90 days: **26.3%**
 - 🔁 Most forked repo: IFSC-Codespace-ENG-ADS-JAVA-POO (67 forks)
-- ⏱️ Longest inactive repo: Probability-MATLAB-Distributions (1876 days)
-- 🔄 Most recently updated repo: starlink-commander (0 days ago)
+- ⏱️ Longest inactive repo: Probability-MATLAB-Distributions (1877 days)
+- 🔄 Most recently updated repo: telecom-news-radar (0 days ago)
 - 🐞 Avg issues per repo: **0.01**
 - 💫 Repositories with 5+ stars: **1**
-- 🌐 GitHub Pages repos: **22**
+- 🌐 GitHub Pages repos: **23**
 - 🧵 Repos with open issues: **1**
-- 🪙 Repos with 0 stars: **67**
+- 🪙 Repos with 0 stars: **68**
 - ⚖️ Forks > Stars: **3**
-- 📈 Star standard deviation: **1.97**
-- 📉 Forks standard deviation: **7.79**
+- 📈 Star standard deviation: **1.96**
+- 📉 Forks standard deviation: **7.74**
 - 🏅 Achievements: 🥇 30+ Repositories | 🍴 50+ Forks | 🌟 20+ Stars | 🕰️ 5+ Years Account
 
 **Top repositories by open issues:**
-- REPL-PY-pygames-dragster: 1 issues, 0 ⭐, 0 🍴, updated 674 days ago
+- REPL-PY-pygames-dragster: 1 issues, 0 ⭐, 0 🍴, updated 675 days ago
+- telecom-news-radar: 0 issues, 0 ⭐, 0 🍴, updated 0 days ago
 - starlink-commander: 0 issues, 0 ⭐, 0 🍴, updated 0 days ago
-- ai-news-radar: 0 issues, 0 ⭐, 0 🍴, updated 0 days ago
 
 **Top repositories by stars:**
-- IFSC-Codespace-ENG-ADS-JAVA-POO: 17 ⭐, 67 🍴, updated 26 days ago
-- iss-commander: 1 ⭐, 0 🍴, updated 9 days ago
-- iptv-cmd: 1 ⭐, 0 🍴, updated 16 days ago
+- IFSC-Codespace-ENG-ADS-JAVA-POO: 17 ⭐, 67 🍴, updated 27 days ago
+- iss-commander: 1 ⭐, 0 🍴, updated 10 days ago
+- iptv-cmd: 1 ⭐, 0 🍴, updated 17 days ago
 
 **📜 First repository:** rmayormartins.github.io (created on 2021-05-07)
 
-**🆕 Newest repository:** telecom-news-radar (created on 2026-06-23)
+**🆕 Newest repository:** IFSC-eng-pfc (created on 2026-06-28)
 <!--END_STATS-->
 
 ---
