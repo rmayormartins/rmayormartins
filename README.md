@@ -147,15 +147,15 @@ Also is pursuing a Postdoctoral research in Educational Games (UFSC).
 - 🔢 Public repositories: **76**
 - ⭐ Total stars: **24** (avg: 0.32)
 - 🍴 Total forks: **78** (avg: 1.03)
-- 📦 Avg repo size: **1696.5 KB**
-- 📆 Days on GitHub: **3966 days** (since 2015-08-23)
+- 📦 Avg repo size: **1718.3 KB**
+- 📆 Days on GitHub: **3967 days** (since 2015-08-23)
 - 🏷️ Most common language: **Python**
 - 📚 Unique languages: **10**
 - 🔝 Top languages: Python (26), HTML (21), Jupyter Notebook (9)
 - 📊 % updated in last 90 days: **26.3%**
 - 🔁 Most forked repo: IFSC-Codespace-ENG-ADS-JAVA-POO (67 forks)
-- ⏱️ Longest inactive repo: Probability-MATLAB-Distributions (1881 days)
-- 🔄 Most recently updated repo: telecom-news-radar (0 days ago)
+- ⏱️ Longest inactive repo: Probability-MATLAB-Distributions (1882 days)
+- 🔄 Most recently updated repo: starlink-commander (0 days ago)
 - 🐞 Avg issues per repo: **0.01**
 - 💫 Repositories with 5+ stars: **1**
 - 🌐 GitHub Pages repos: **23**
@@ -167,14 +167,14 @@ Also is pursuing a Postdoctoral research in Educational Games (UFSC).
 - 🏅 Achievements: 🥇 30+ Repositories | 🍴 50+ Forks | 🌟 20+ Stars | 🕰️ 5+ Years Account
 
 **Top repositories by open issues:**
-- REPL-PY-pygames-dragster: 1 issues, 0 ⭐, 0 🍴, updated 679 days ago
-- telecom-news-radar: 0 issues, 0 ⭐, 0 🍴, updated 0 days ago
+- REPL-PY-pygames-dragster: 1 issues, 0 ⭐, 0 🍴, updated 680 days ago
 - starlink-commander: 0 issues, 0 ⭐, 0 🍴, updated 0 days ago
+- ai-news-radar: 0 issues, 0 ⭐, 0 🍴, updated 0 days ago
 
 **Top repositories by stars:**
-- IFSC-Codespace-ENG-ADS-JAVA-POO: 17 ⭐, 67 🍴, updated 31 days ago
-- iss-commander: 1 ⭐, 0 🍴, updated 14 days ago
-- iptv-cmd: 1 ⭐, 0 🍴, updated 21 days ago
+- IFSC-Codespace-ENG-ADS-JAVA-POO: 17 ⭐, 67 🍴, updated 32 days ago
+- iss-commander: 1 ⭐, 0 🍴, updated 15 days ago
+- iptv-cmd: 1 ⭐, 0 🍴, updated 22 days ago
 
 **📜 First repository:** rmayormartins.github.io (created on 2021-05-07)
 
