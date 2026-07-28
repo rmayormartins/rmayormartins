@@ -144,41 +144,41 @@ Also is pursuing a Postdoctoral research in Educational Games (UFSC).
 <!--START_STATS-->
 #### My Stats Action
 
-- 🔢 Public repositories: **78**
-- ⭐ Total stars: **24** (avg: 0.31)
-- 🍴 Total forks: **76** (avg: 0.97)
-- 📦 Avg repo size: **2642.1 KB**
-- 📆 Days on GitHub: **3990 days** (since 2015-08-23)
+- 🔢 Public repositories: **79**
+- ⭐ Total stars: **24** (avg: 0.30)
+- 🍴 Total forks: **76** (avg: 0.96)
+- 📦 Avg repo size: **2708.4 KB**
+- 📆 Days on GitHub: **3991 days** (since 2015-08-23)
 - 🏷️ Most common language: **Python**
 - 📚 Unique languages: **10**
-- 🔝 Top languages: Python (26), HTML (23), Jupyter Notebook (9)
-- 📊 % updated in last 90 days: **26.9%**
+- 🔝 Top languages: Python (26), HTML (24), Jupyter Notebook (9)
+- 📊 % updated in last 90 days: **27.8%**
 - 🔁 Most forked repo: IFSC-Codespace-ENG-ADS-JAVA-POO (65 forks)
-- ⏱️ Longest inactive repo: Probability-MATLAB-Distributions (1905 days)
+- ⏱️ Longest inactive repo: Probability-MATLAB-Distributions (1906 days)
 - 🔄 Most recently updated repo: starlink-commander (0 days ago)
 - 🐞 Avg issues per repo: **0.01**
 - 💫 Repositories with 5+ stars: **1**
-- 🌐 GitHub Pages repos: **25**
+- 🌐 GitHub Pages repos: **26**
 - 🧵 Repos with open issues: **1**
-- 🪙 Repos with 0 stars: **70**
+- 🪙 Repos with 0 stars: **71**
 - ⚖️ Forks > Stars: **3**
-- 📈 Star standard deviation: **1.94**
-- 📉 Forks standard deviation: **7.42**
+- 📈 Star standard deviation: **1.92**
+- 📉 Forks standard deviation: **7.37**
 - 🏅 Achievements: 🥇 30+ Repositories | 🍴 50+ Forks | 🌟 20+ Stars | 🕰️ 5+ Years Account
 
 **Top repositories by open issues:**
-- REPL-PY-pygames-dragster: 1 issues, 0 ⭐, 0 🍴, updated 703 days ago
+- REPL-PY-pygames-dragster: 1 issues, 0 ⭐, 0 🍴, updated 704 days ago
 - starlink-commander: 0 issues, 0 ⭐, 0 🍴, updated 0 days ago
 - ai-news-radar: 0 issues, 0 ⭐, 0 🍴, updated 0 days ago
 
 **Top repositories by stars:**
-- IFSC-Codespace-ENG-ADS-JAVA-POO: 17 ⭐, 65 🍴, updated 55 days ago
-- iss-commander: 1 ⭐, 0 🍴, updated 38 days ago
-- iptv-cmd: 1 ⭐, 0 🍴, updated 45 days ago
+- IFSC-Codespace-ENG-ADS-JAVA-POO: 17 ⭐, 65 🍴, updated 56 days ago
+- iss-commander: 1 ⭐, 0 🍴, updated 39 days ago
+- iptv-cmd: 1 ⭐, 0 🍴, updated 46 days ago
 
 **📜 First repository:** rmayormartins.github.io (created on 2021-05-07)
 
-**🆕 Newest repository:** rmpagestudio (created on 2026-07-18)
+**🆕 Newest repository:** ifsc-python (created on 2026-07-27)
 <!--END_STATS-->
 
 ---
