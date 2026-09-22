@@ -145,7 +145,7 @@ Also is pursuing a Postdoctoral research in Educational Games (UFSC).
 #### My Stats Action 🛰️📊
 
 <p align="center">
-  <img src="assets/telemetry.svg" width="100%" alt="GitHub telemetry dashboard for rmayormartins: 79 repositories, 24 stars, 76 forks, 26 GitHub Pages sites, top language Python, 577 contributions in the last 12 months">
+  <img src="assets/telemetry.svg" width="100%" alt="GitHub telemetry dashboard for rmayormartins: 79 repositories, 24 stars, 76 forks, 26 GitHub Pages sites, top language Python, 578 contributions in the last 12 months">
 </p>
 
 **📡 Latest activity**
@@ -190,7 +190,7 @@ Also is pursuing a Postdoctoral research in Educational Games (UFSC).
 | Latest push | **ai-news-radar (today)** | Longest dormant | **TELE-RF-Arduino-nRF24L01 (1,963 d)** |
 | First repository | **rmayormartins.github.io (2021-05-07)** | Newest repository | **ifsc-python (2026-07-27)** |
 | Repos with open issues | **1 (REPL-PY-pygames-dragster)** | Followers | **58** |
-| Contributions (12 mo) | **577** | Commits (12 mo) | **546** |
+| Contributions (12 mo) | **578** | Commits (12 mo) | **547** |
 | Longest streak | **9 days** | Current streak | **1 days** |
 | Best day | **25 (2026-04-22)** | Active days (12 mo) | **78** |
 
