@@ -55,15 +55,15 @@ Also is pursuing a Postdoctoral research in Educational Games (UFSC).
 <!--START_STATS-->
 
 <p align="center">
-  <img src="assets/telemetry.svg" width="100%" alt="GitHub telemetry dashboard for rmayormartins: 79 repositories, 24 stars, 76 forks, 26 GitHub Pages sites, top language Python, 585 contributions in the last 12 months">
+  <img src="assets/telemetry.svg" width="100%" alt="GitHub telemetry dashboard for rmayormartins: 79 repositories, 24 stars, 76 forks, 26 GitHub Pages sites, top language Python, 586 contributions in the last 12 months">
 </p>
 
 <img src="assets/lbl-act.svg" width="100%" alt="LATEST ACTIVITY: last 6 repositories pushed">
 
 <p align="center">
-  <a href="https://github.com/rmayormartins/ai-news-radar"><img src="assets/act-1.svg" width="49%" alt="ai-news-radar: HTML · pushed today. Last push today. Link: https://github.com/rmayormartins/ai-news-radar"></a>
-  <a href="https://github.com/rmayormartins/telecom-news-radar"><img src="assets/act-2.svg" width="49%" alt="telecom-news-radar: HTML · pushed today. Last push today. Link: https://github.com/rmayormartins/telecom-news-radar"></a>
-  <a href="https://github.com/rmayormartins/starlink-commander"><img src="assets/act-3.svg" width="49%" alt="starlink-commander: JavaScript · pushed today. Last push today. Link: https://github.com/rmayormartins/starlink-commander"></a>
+  <a href="https://github.com/rmayormartins/starlink-commander"><img src="assets/act-1.svg" width="49%" alt="starlink-commander: JavaScript · pushed today. Last push today. Link: https://github.com/rmayormartins/starlink-commander"></a>
+  <a href="https://github.com/rmayormartins/ai-news-radar"><img src="assets/act-2.svg" width="49%" alt="ai-news-radar: HTML · pushed today. Last push today. Link: https://github.com/rmayormartins/ai-news-radar"></a>
+  <a href="https://github.com/rmayormartins/telecom-news-radar"><img src="assets/act-3.svg" width="49%" alt="telecom-news-radar: HTML · pushed today. Last push today. Link: https://github.com/rmayormartins/telecom-news-radar"></a>
   <a href="https://github.com/rmayormartins/rmayormartins.github.io"><img src="assets/act-4.svg" width="49%" alt="rmayormartins.github.io: HTML · pushed 1 mo ago. Last push 1 mo ago. Link: https://github.com/rmayormartins/rmayormartins.github.io"></a>
   <a href="https://github.com/rmayormartins/ia-tools"><img src="assets/act-5.svg" width="49%" alt="ia-tools: HTML · pushed 1 mo ago. Last push 1 mo ago. Link: https://github.com/rmayormartins/ia-tools"></a>
   <a href="https://github.com/rmayormartins/ifsc-python"><img src="assets/act-6.svg" width="49%" alt="ifsc-python: HTML · pushed 1 mo ago. Last push 1 mo ago. Link: https://github.com/rmayormartins/ifsc-python"></a>
@@ -88,15 +88,15 @@ Also is pursuing a Postdoctoral research in Educational Games (UFSC).
 | Star std deviation | **1.92** | Fork std deviation | **7.37** |
 | Repos with 5+ stars | **1** | Repos with 0 stars | **71** |
 | Forks > stars | **3 repos** | Avg repo size | **4.9 MB** |
-| Largest repo | **starlink-commander (301.0 MB)** | Total size | **389.1 MB** |
+| Largest repo | **starlink-commander (301.0 MB)** | Total size | **389.2 MB** |
 | Most common language | **Python** | Unique languages | **10** |
 | Top languages | **Python (27), HTML (23), Jupyter Notebook (9)** | GitHub Pages sites | **26** |
 | Pushed in last 90 days | **12 (15.2%)** | Avg open issues per repo | **0.01** |
 | Most starred | **IFSC-Codespace-ENG-ADS-JAVA-POO (17)** | Most forked | **IFSC-Codespace-ENG-ADS-JAVA-POO (65)** |
-| Latest push | **ai-news-radar (today)** | Longest dormant | **TELE-RF-Arduino-nRF24L01 (1,963 d)** |
+| Latest push | **starlink-commander (today)** | Longest dormant | **TELE-RF-Arduino-nRF24L01 (1,963 d)** |
 | First repository | **rmayormartins.github.io (2021-05-07)** | Newest repository | **ifsc-python (2026-07-27)** |
 | Repos with open issues | **1 (REPL-PY-pygames-dragster)** | Followers | **58** |
-| Contributions (12 mo) | **585** | Commits (12 mo) | **554** |
+| Contributions (12 mo) | **586** | Commits (12 mo) | **555** |
 | Longest streak | **9 days** | Current streak | **1 days** |
 | Best day | **25 (2026-04-22)** | Active days (12 mo) | **78** |
 
@@ -109,9 +109,9 @@ Also is pursuing a Postdoctoral research in Educational Games (UFSC).
 
 | | Live site | Source | Language | Last deploy |
 |:-:|:--|:--|:--|--:|
+| 🛰️ | [starlink-commander](https://rmayormartins.github.io/starlink-commander/) | [code](https://github.com/rmayormartins/starlink-commander) | JavaScript | today |
 | 📡 | [ai-news-radar](https://rmayormartins.github.io/ai-news-radar/) | [code](https://github.com/rmayormartins/ai-news-radar) | HTML | today |
 | 📡 | [telecom-news-radar](https://rmayormartins.github.io/telecom-news-radar/) | [code](https://github.com/rmayormartins/telecom-news-radar) | HTML | today |
-| 🛰️ | [starlink-commander](https://rmayormartins.github.io/starlink-commander/) | [code](https://github.com/rmayormartins/starlink-commander) | JavaScript | today |
 | 🏠 | [rmayormartins.github.io](https://rmayormartins.github.io/) | [code](https://github.com/rmayormartins/rmayormartins.github.io) | HTML | 1 mo ago |
 | 🤖 | [ia-tools](https://rmayormartins.github.io/ia-tools/) | [code](https://github.com/rmayormartins/ia-tools) | HTML | 1 mo ago |
 | 🐍 | [ifsc-python](https://rmayormartins.github.io/ifsc-python/) | [code](https://github.com/rmayormartins/ifsc-python) | HTML | 1 mo ago |
@@ -124,7 +124,7 @@ Also is pursuing a Postdoctoral research in Educational Games (UFSC).
 | 🛰️ | [iss-commander](https://rmayormartins.github.io/iss-commander/) | [code](https://github.com/rmayormartins/iss-commander) | HTML | 3 mo ago |
 | 🛰️ | [funcube1-commander](https://rmayormartins.github.io/funcube1-commander/) | [code](https://github.com/rmayormartins/funcube1-commander) | HTML | 3 mo ago |
 | 🌐 | [aiesthetic](https://rmayormartins.github.io/aiesthetic/) | [code](https://github.com/rmayormartins/aiesthetic) | HTML | 3 mo ago |
-| 🎓 | [IFSC-corretor-enem](https://rmayormartins.github.io/IFSC-corretor-enem/) | [code](https://github.com/rmayormartins/IFSC-corretor-enem) | JavaScript | 3 mo ago |
+| 🎓 | [IFSC-corretor-enem](https://rmayormartins.github.io/IFSC-corretor-enem/) | [code](https://github.com/rmayormartins/IFSC-corretor-enem) | JavaScript | 4 mo ago |
 | 🌐 | [trilha-emocional](https://rmayormartins.github.io/trilha-emocional/) | [code](https://github.com/rmayormartins/trilha-emocional) | HTML | 4 mo ago |
 | 🌐 | [iptv-cmd](https://rmayormartins.github.io/iptv-cmd/) | [code](https://github.com/rmayormartins/iptv-cmd) | HTML | 4 mo ago |
 | 🎓 | [IFSC-eng-pji3](https://rmayormartins.github.io/IFSC-eng-pji3/) | [code](https://github.com/rmayormartins/IFSC-eng-pji3) | HTML | 7 mo ago |
@@ -144,9 +144,9 @@ Also is pursuing a Postdoctoral research in Educational Games (UFSC).
 | Repository | Language | ⭐ | 🍴 | Created | Last push | Signal |
 |:--|:--|--:|--:|:--|--:|:-:|
 | [rmayormartins](https://github.com/rmayormartins/rmayormartins) | Python | 0 | 0 | May 2021 | today | <img src="assets/signal-5.svg" height="14" alt="signal 5/5"> |
+| [starlink-commander](https://github.com/rmayormartins/starlink-commander) [🌐](https://rmayormartins.github.io/starlink-commander/) | JavaScript | 0 | 0 | Aug 2025 | today | <img src="assets/signal-5.svg" height="14" alt="signal 5/5"> |
 | [ai-news-radar](https://github.com/rmayormartins/ai-news-radar) [🌐](https://rmayormartins.github.io/ai-news-radar/) | HTML | 0 | 0 | Jun 2026 | today | <img src="assets/signal-5.svg" height="14" alt="signal 5/5"> |
 | [telecom-news-radar](https://github.com/rmayormartins/telecom-news-radar) [🌐](https://rmayormartins.github.io/telecom-news-radar/) | HTML | 0 | 0 | Jun 2026 | today | <img src="assets/signal-5.svg" height="14" alt="signal 5/5"> |
-| [starlink-commander](https://github.com/rmayormartins/starlink-commander) [🌐](https://rmayormartins.github.io/starlink-commander/) | JavaScript | 0 | 0 | Aug 2025 | today | <img src="assets/signal-5.svg" height="14" alt="signal 5/5"> |
 | [rmayormartins.github.io](https://github.com/rmayormartins/rmayormartins.github.io) [🌐](https://rmayormartins.github.io/) | HTML | 0 | 0 | May 2021 | 1 mo ago | <img src="assets/signal-3.svg" height="14" alt="signal 3/5"> |
 | [ia-tools](https://github.com/rmayormartins/ia-tools) [🌐](https://rmayormartins.github.io/ia-tools/) | HTML | 0 | 0 | May 2025 | 1 mo ago | <img src="assets/signal-3.svg" height="14" alt="signal 3/5"> |
 | [ifsc-python](https://github.com/rmayormartins/ifsc-python) [🌐](https://rmayormartins.github.io/ifsc-python/) | HTML | 0 | 0 | Jul 2026 | 1 mo ago | <img src="assets/signal-3.svg" height="14" alt="signal 3/5"> |
@@ -160,7 +160,7 @@ Also is pursuing a Postdoctoral research in Educational Games (UFSC).
 | [funcube1-commander](https://github.com/rmayormartins/funcube1-commander) [🌐](https://rmayormartins.github.io/funcube1-commander/) | HTML | 0 | 0 | May 2026 | 3 mo ago | <img src="assets/signal-2.svg" height="14" alt="signal 2/5"> |
 | [IFSC-TCC-TYPST](https://github.com/rmayormartins/IFSC-TCC-TYPST) | Typst | 0 | 0 | Jun 2025 | 3 mo ago | <img src="assets/signal-2.svg" height="14" alt="signal 2/5"> |
 | [aiesthetic](https://github.com/rmayormartins/aiesthetic) [🌐](https://rmayormartins.github.io/aiesthetic/) | HTML | 0 | 0 | May 2026 | 3 mo ago | <img src="assets/signal-2.svg" height="14" alt="signal 2/5"> |
-| [IFSC-corretor-enem](https://github.com/rmayormartins/IFSC-corretor-enem) [🌐](https://rmayormartins.github.io/IFSC-corretor-enem/) | JavaScript | 0 | 0 | Apr 2026 | 3 mo ago | <img src="assets/signal-2.svg" height="14" alt="signal 2/5"> |
+| [IFSC-corretor-enem](https://github.com/rmayormartins/IFSC-corretor-enem) [🌐](https://rmayormartins.github.io/IFSC-corretor-enem/) | JavaScript | 0 | 0 | Apr 2026 | 4 mo ago | <img src="assets/signal-2.svg" height="14" alt="signal 2/5"> |
 | [trilha-emocional](https://github.com/rmayormartins/trilha-emocional) [🌐](https://rmayormartins.github.io/trilha-emocional/) | HTML | 0 | 0 | May 2026 | 4 mo ago | <img src="assets/signal-2.svg" height="14" alt="signal 2/5"> |
 | [iptv-cmd](https://github.com/rmayormartins/iptv-cmd) [🌐](https://rmayormartins.github.io/iptv-cmd/) | HTML | 1 | 0 | Apr 2026 | 4 mo ago | <img src="assets/signal-2.svg" height="14" alt="signal 2/5"> |
 | [IFSC-eng-pji3](https://github.com/rmayormartins/IFSC-eng-pji3) [🌐](https://rmayormartins.github.io/IFSC-eng-pji3/) | HTML | 0 | 0 | Feb 2026 | 7 mo ago | <img src="assets/signal-2.svg" height="14" alt="signal 2/5"> |
@@ -225,7 +225,7 @@ Also is pursuing a Postdoctoral research in Educational Games (UFSC).
 
 </details>
 
-<p align="right"><sub>🤖 Auto-updated daily by <a href="generate_stats.py">generate_stats.py</a> (GitHub Actions) · last sync 2026-09-22 23:14 UTC</sub></p>
+<p align="right"><sub>🤖 Auto-updated daily by <a href="generate_stats.py">generate_stats.py</a> (GitHub Actions) · last sync 2026-09-22 23:44 UTC</sub></p>
 <!--END_STATS-->
 
 #### <img src="assets/sec-stack.svg" width="100%" alt="Section 07: TECH STACK. languages, libraries and rigs.">
