@@ -8,6 +8,7 @@ on:
     branches: [main]
     paths:
       - generate_stats.py
+      - generate_theme.py
       - .github/workflows/update_stats.yml
 
 permissions:
@@ -30,9 +31,14 @@ jobs:
         with:
           python-version: "3.12"
 
-      # O script usa so a biblioteca padrao (sem pip install).
+      # Os scripts usam so a biblioteca padrao (sem pip install).
+      # Identidade visual do README: hero, faixas de secao, paineis e cartoes.
+      - name: Gerar identidade visual (assets estaticos)
+        run: python generate_theme.py
+
+      # Painel de telemetria, cartoes de repositorio e bloco do README.
       # O GITHUB_TOKEN tambem habilita a API GraphQL (mapa de contribuicoes).
-      - name: Gerar painel (assets/*.svg) e tabelas do README
+      - name: Gerar painel e bloco de estatisticas
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python generate_stats.py
