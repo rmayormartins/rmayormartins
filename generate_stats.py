@@ -47,8 +47,10 @@ SIGNAL_PATH = "assets/signal-{}.svg" # ícones de "sinal" (recência) usados nas
 START_MARK = "<!--START_STATS-->"
 END_MARK = "<!--END_STATS-->"
 INCLUDE_FORKS = False                # estatísticas focam nos repositórios próprios
-RECENT_ROWS = 8                      # linhas da tabela "Latest activity"
-TOP_ROWS = 6                         # linhas da tabela "Most starred & forked"
+RECENT_ROWS = 6                      # cartões de "Latest activity"
+TOP_ROWS = 4                         # cartões de "Most starred & forked"
+CARD_PATH = "assets/{}-{}.svg"       # assets/act-1.svg, assets/top-1.svg
+BLOCK_HEADING = ""                   # título markdown antes do painel ("" = nenhum)
 LANG_BARS = 6                        # linguagens no gráfico (o resto vira "Other")
 
 API = "https://api.github.com"
@@ -447,6 +449,14 @@ def vbar(x, base, w, h, r=4):
             f"h{w - 2 * r:.1f}a{r:.1f},{r:.1f} 0 0 1 {r:.1f},{r:.1f}v{h - r:.1f}z")
 
 
+def bracket_d(x, y, w, h, t=9):
+    """Cantoneiras estilo HUD nos quatro cantos de um retângulo."""
+    return (f"M{x:.1f},{y + t:.1f}V{y:.1f}H{x + t:.1f}"
+            f"M{x + w - t:.1f},{y:.1f}H{x + w:.1f}V{y + t:.1f}"
+            f"M{x + w:.1f},{y + h - t:.1f}V{y + h:.1f}H{x + w - t:.1f}"
+            f"M{x + t:.1f},{y + h:.1f}H{x:.1f}V{y + h - t:.1f}")
+
+
 class Svg:
     def __init__(self):
         self.parts = []
@@ -461,13 +471,8 @@ class Svg:
     def panel(self, x, y, w, h, title=None, note=None):
         self.add(f'<rect x="{x:.1f}" y="{y:.1f}" width="{w:.1f}" height="{h:.1f}" rx="3" '
                  f'fill="{C["panel"]}" stroke="{C["stroke"]}"/>')
-        t = 9  # cantoneiras estilo HUD
-        d = (f"M{x:.1f},{y + t:.1f}V{y:.1f}H{x + t:.1f}"
-             f"M{x + w - t:.1f},{y:.1f}H{x + w:.1f}V{y + t:.1f}"
-             f"M{x + w:.1f},{y + h - t:.1f}V{y + h:.1f}H{x + w - t:.1f}"
-             f"M{x + t:.1f},{y + h:.1f}H{x:.1f}V{y + h - t:.1f}")
-        self.add(f'<path d="{d}" fill="none" stroke="{C["bracket"]}" stroke-width="1.5" '
-                 f'stroke-opacity=".7"/>')
+        self.add(f'<path d="{bracket_d(x, y, w, h)}" fill="none" stroke="{C["bracket"]}" '
+                 f'stroke-width="1.5" stroke-opacity=".7"/>')
         if title:
             self.text(x + 16, y + 26, esc(title), "pt")
             if note:
@@ -506,6 +511,123 @@ text{{font-family:{MONO};}}
 @keyframes sw{{from{{opacity:0}}to{{opacity:1}}}}
 @media (prefers-reduced-motion:reduce){{.led,.gx,.gy,.sw{{animation:none}}}}
 </style>"""
+
+
+def svg_defs():
+    return ('<defs><pattern id="dots" width="14" height="14" patternUnits="userSpaceOnUse">'
+            '<circle cx="1" cy="1" r=".8" fill="#ffffff" fill-opacity=".05"/></pattern>'
+            f'<linearGradient id="fade" x1="0" x2="1"><stop offset="0" stop-color="{C["accent"]}" '
+            f'stop-opacity=".55"/><stop offset="1" stop-color="{C["accent"]}" stop-opacity="0"/>'
+            '</linearGradient></defs>')
+
+
+def svg_doc(w, h, title, desc, body, extra_css=""):
+    """Moldura comum de todos os SVGs: estilo, defs, título e descrição acessível."""
+    style = svg_style()
+    if extra_css:
+        style = style.replace("</style>", extra_css + "</style>")
+    return (f'<svg xmlns="http://www.w3.org/2000/svg" width="{w:.0f}" height="{h:.0f}" '
+            f'viewBox="0 0 {w:.0f} {h:.0f}" role="img" aria-labelledby="t d">'
+            f'<title id="t">{esc(title)}</title><desc id="d">{esc(desc)}</desc>'
+            f'{style}{svg_defs()}{body}</svg>\n')
+
+
+def signal_bars(x, y, level, scale=1.0):
+    """Barras de sinal desenhadas (mesmo desenho dos ícones das tabelas)."""
+    out = []
+    for i in range(5):
+        h = (4 + i * 2.5) * scale
+        on = i < level
+        alpha = "" if on else ' fill-opacity=".4"'
+        out.append(f'<rect x="{x + i * 5 * scale:.1f}" y="{y - h:.1f}" '
+                   f'width="{3.4 * scale:.1f}" height="{h:.1f}" rx="1" '
+                   f'fill="{C["accent"] if on else "#8b949e"}"{alpha}/>')
+    return "".join(out)
+
+
+CARD_W, CARD_H = 430, 92
+
+
+def repo_card(name, line2, line3, level, live=False):
+    """Cartão de repositório usado nas grades clicáveis do README."""
+    s = Svg()
+    s.add(f'<rect x=".5" y=".5" width="{CARD_W - 1}" height="{CARD_H - 1}" rx="8" '
+          f'fill="{C["panel"]}" stroke="{C["stroke"]}"/>')
+    s.add(f'<rect x=".5" y=".5" width="{CARD_W - 1}" height="{CARD_H - 1}" rx="8" fill="url(#dots)"/>')
+    s.add(f'<rect x="1" y="1" width="4" height="{CARD_H - 2}" rx="2" fill="{C["accent"]}"/>')
+    s.add(f'<path d="{bracket_d(12, 10, CARD_W - 24, CARD_H - 20, 8)}" fill="none" '
+          f'stroke="{C["bracket"]}" stroke-width="1.5" stroke-opacity=".45"/>')
+    limit = 30  # nome longo demais some atrás das barras de sinal
+    shown = name if len(name) <= limit else name[:limit - 1] + "…"
+    s.text(24, 38, esc(shown), "ct")
+    s.text(24, 59, esc(line2), "cs")
+    s.text(24, 79, esc(line3), "cu")
+    s.add(signal_bars(CARD_W - 52, 40, level, 1.15))
+    if live:
+        s.add(f'<rect x="{CARD_W - 74:.1f}" y="58" width="52" height="19" rx="9.5" fill="none" '
+              f'stroke="{C["chip"]}"/>')
+        s.text(CARD_W - 48, 71, "LIVE", "pillc", "middle")
+    return s.parts
+
+
+CARD_CSS = f"""
+.ct{{font-size:14.5px;font-weight:700;letter-spacing:.6px;fill:{C["ink"]};}}
+.cs{{font-size:11.5px;fill:{C["ink2"]};}}
+.cu{{font-size:11.5px;fill:{C["accent"]};}}
+.pillc{{font-size:10.5px;font-weight:600;letter-spacing:1px;fill:{C["ink2"]};}}
+"""
+
+
+LABEL_PATH = "assets/lbl-{}.svg"
+
+
+def label_bar(key, text, note=""):
+    """Faixa fina de rótulo, versão reduzida das faixas de seção."""
+    h, w = 30, W
+    s = Svg()
+    s.add(f'<rect x="0" y="6" width="4" height="{h - 12}" rx="2" fill="{C["accent"]}"/>')
+    s.text(16, 20, esc(text), "lbt")
+    x0 = 16 + len(text) * (12 * 0.62 + 2) + 16
+    if note:
+        s.text(w, 20, esc(note), "pn", "end")
+        x1 = w - len(note) * (12 * 0.62) - 16
+    else:
+        x1 = w
+    if x1 > x0 + 20:
+        s.add(f'<path d="M{x0:.1f},15.5H{x1:.1f}" stroke="{C["stroke"]}"/>')
+    css = f'.lbt{{font-size:12px;font-weight:700;letter-spacing:2px;fill:{C["ink2"]};}}'
+    path = LABEL_PATH.format(key)
+    with open(path, "w", encoding="utf-8") as f:
+        f.write(svg_doc(w, h, text, f"{text}{': ' + note if note else ''}",
+                        "".join(s.parts), css))
+    return path
+
+
+def write_repo_cards(m):
+    """Escreve assets/act-N.svg e assets/top-N.svg e devolve os dados para o markdown."""
+    cards = []
+    groups = [("act", m["recent"], "activity"), ("top", m["top"], "top")]
+    for prefix, repos, kind in groups:
+        for i, r in enumerate(repos, 1):
+            lang = r.get("language") or "no language"
+            if kind == "activity":
+                line2 = f'{lang} · pushed {ago(r["_push"]).replace(NB, " ")}'
+            else:
+                st, fk = r["stargazers_count"], r["forks_count"]
+                line2 = (f'{lang} · {st} star{"" if st == 1 else "s"} '
+                         f'· {fk} fork{"" if fk == 1 else "s"}')
+            line3 = f'github.com/{USERNAME}/{r["name"]}'
+            if len(line3) > 44:
+                line3 = line3[:43] + "…"
+            level = signal_level(r["_push"])
+            body = repo_card(r["name"], line2, line3, level, bool(r.get("has_pages")))
+            desc = (f'{r["name"]}: {line2}. Last push {ago(r["_push"]).replace(NB, " ")}. '
+                    f'Link: {repo_url(r)}')
+            path = CARD_PATH.format(prefix, i)
+            with open(path, "w", encoding="utf-8") as f:
+                f.write(svg_doc(CARD_W, CARD_H, r["name"], desc, "".join(body), CARD_CSS))
+            cards.append((prefix, path, r, desc))
+    return cards
 
 
 def render_svg(m):
@@ -700,16 +822,11 @@ def render_svg(m):
         cx += cw + 8
     height = y + 25 + PAD
 
-    head = (f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{height:.0f}" '
-            f'viewBox="0 0 {W} {height:.0f}" role="img" aria-labelledby="t d">'
-            f'<title id="t">GitHub telemetry for {esc(USERNAME)}</title>'
-            f'<desc id="d">{esc(alt_text(m))}</desc>{svg_style()}'
-            f'<defs><pattern id="dots" width="14" height="14" patternUnits="userSpaceOnUse">'
-            f'<circle cx="1" cy="1" r=".8" fill="#ffffff" fill-opacity=".05"/></pattern></defs>'
-            f'<rect x=".5" y=".5" width="{W - 1}" height="{height - 1:.0f}" rx="12" '
-            f'fill="{C["card"]}" stroke="{C["stroke"]}"/>'
-            f'<rect x=".5" y=".5" width="{W - 1}" height="{height - 1:.0f}" rx="12" fill="url(#dots)"/>')
-    return head + "\n".join(s.parts) + "</svg>\n"
+    bg = (f'<rect x=".5" y=".5" width="{W - 1}" height="{height - 1:.0f}" rx="12" '
+          f'fill="{C["card"]}" stroke="{C["stroke"]}"/>'
+          f'<rect x=".5" y=".5" width="{W - 1}" height="{height - 1:.0f}" rx="12" fill="url(#dots)"/>')
+    return svg_doc(W, height, f"GitHub telemetry for {USERNAME}", alt_text(m),
+                   bg + "\n".join(s.parts))
 
 
 def alt_text(m):
@@ -727,26 +844,28 @@ def alt_text(m):
 # =============================================================================
 def render_markdown(m):
     now = m["now"]
-    L = [START_MARK, "#### My Stats Action \U0001F6F0️\U0001F4CA", ""]
+    L = [START_MARK, ""]
+    if BLOCK_HEADING:  # o README novo já traz a faixa da seção acima do bloco
+        L += [BLOCK_HEADING, ""]
     L += ['<p align="center">',
           f'  <img src="{SVG_PATH}" width="100%" alt="{esc(alt_text(m))}">',
           "</p>", ""]
 
-    # Tabelas principais (empilhadas: lado a lado estouram a largura do GitHub)
-    L += ["**\U0001F4E1 Latest activity**", "",
-          "| Repository | Language | Last push | Signal | Site |",
-          "|:--|:--|--:|:-:|:-:|"]
-    for r in m["recent"]:
-        site = f'[\U0001F310]({pages_url(r)})' if r.get("has_pages") else ""
-        L.append(f'| [{md_cell(r["name"])}]({repo_url(r)}) | {md_cell(r.get("language") or "-")} '
-                 f'| {ago(r["_push"])} | {signal_img(r["_push"])} | {site} |')
-    L += ["", "**\U0001F3C6 Most starred & forked**", "",
-          "| Repository | ⭐ Stars | \U0001F374 Forks | Language | Last push |",
-          "|:--|--:|--:|:--|--:|"]
-    for r in m["top"]:
-        L.append(f'| [{md_cell(r["name"])}]({repo_url(r)}) | {r["stargazers_count"]} '
-                 f'| {r["forks_count"]} | {md_cell(r.get("language") or "-")} | {ago(r["_push"])} |')
-    L.append("")
+    # Grades de cartões clicáveis (mesmo visual do painel; tabela do GitHub não aceita CSS)
+    cards = m["cards"]
+    for prefix, heading, note in (
+            ("act", "LATEST ACTIVITY", f'last {len(m["recent"])} repositories pushed'),
+            ("top", "MOST STARRED & FORKED", "all time")):
+        group = [c for c in cards if c[0] == prefix]
+        if not group:
+            continue
+        bar = label_bar(prefix, heading, note)
+        L += [f'<img src="{bar}" width="100%" alt="{esc(heading)}: {esc(note)}">', "",
+              '<p align="center">']
+        for _, path, r, desc in group:
+            L.append(f'  <a href="{repo_url(r)}"><img src="{path}" width="49%" '
+                     f'alt="{esc(desc)}"></a>')
+        L += ["</p>", ""]
 
     # Telemetria completa (métricas clássicas do My Stats Action)
     c = m["contrib"]
@@ -866,6 +985,7 @@ def main():
     for level in range(1, 6):
         with open(SIGNAL_PATH.format(level), "w", encoding="utf-8") as f:
             f.write(signal_svg(level))
+    m["cards"] = write_repo_cards(m)
 
     with open(README_PATH, encoding="utf-8") as f:
         readme = f.read()
