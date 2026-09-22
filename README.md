@@ -55,7 +55,7 @@ Also is pursuing a Postdoctoral research in Educational Games (UFSC).
 <!--START_STATS-->
 
 <p align="center">
-  <img src="assets/telemetry.svg" width="100%" alt="GitHub telemetry dashboard for rmayormartins: 79 repositories, 24 stars, 76 forks, 26 GitHub Pages sites, top language Python, 584 contributions in the last 12 months">
+  <img src="assets/telemetry.svg" width="100%" alt="GitHub telemetry dashboard for rmayormartins: 79 repositories, 24 stars, 76 forks, 26 GitHub Pages sites, top language Python, 585 contributions in the last 12 months">
 </p>
 
 <img src="assets/lbl-act.svg" width="100%" alt="LATEST ACTIVITY: last 6 repositories pushed">
@@ -83,7 +83,7 @@ Also is pursuing a Postdoctoral research in Educational Games (UFSC).
 
 | Metric | Value | Metric | Value |
 |:--|:--|:--|:--|
-| Public repositories | **79 (80 incl. forks)** | Days on GitHub | **4,047 (since 2015-08-23)** |
+| Public repositories | **79 (80 incl. forks)** | Days on GitHub | **4,048 (since 2015-08-23)** |
 | Total stars | **24 (avg 0.30)** | Total forks | **76 (avg 0.96)** |
 | Star std deviation | **1.92** | Fork std deviation | **7.37** |
 | Repos with 5+ stars | **1** | Repos with 0 stars | **71** |
@@ -96,7 +96,7 @@ Also is pursuing a Postdoctoral research in Educational Games (UFSC).
 | Latest push | **ai-news-radar (today)** | Longest dormant | **TELE-RF-Arduino-nRF24L01 (1,963 d)** |
 | First repository | **rmayormartins.github.io (2021-05-07)** | Newest repository | **ifsc-python (2026-07-27)** |
 | Repos with open issues | **1 (REPL-PY-pygames-dragster)** | Followers | **58** |
-| Contributions (12 mo) | **584** | Commits (12 mo) | **553** |
+| Contributions (12 mo) | **585** | Commits (12 mo) | **554** |
 | Longest streak | **9 days** | Current streak | **1 days** |
 | Best day | **25 (2026-04-22)** | Active days (12 mo) | **78** |
 
@@ -225,7 +225,7 @@ Also is pursuing a Postdoctoral research in Educational Games (UFSC).
 
 </details>
 
-<p align="right"><sub>🤖 Auto-updated daily by <a href="generate_stats.py">generate_stats.py</a> (GitHub Actions) · last sync 2026-09-22 23:06 UTC</sub></p>
+<p align="right"><sub>🤖 Auto-updated daily by <a href="generate_stats.py">generate_stats.py</a> (GitHub Actions) · last sync 2026-09-22 23:14 UTC</sub></p>
 <!--END_STATS-->
 
 #### <img src="assets/sec-stack.svg" width="100%" alt="Section 07: TECH STACK. languages, libraries and rigs.">

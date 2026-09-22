@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="256" viewBox="0 0 900 256" role="img" aria-labelledby="t d"><title id="t">RAMON MAYOR MARTINS profile banner</title><desc id="d">RAMON MAYOR MARTINS, Ph.D. Associate Professor · Telecommunications Engineering · IFSC São José. Research &amp; Innovation Coordinator · Postdoc in Educational Games (UFSC). Callsign PU4MAY.</desc><style>
+text{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace;}
+.h1{font-size:15px;font-weight:700;letter-spacing:2.4px;fill:#e6edf3;}
+.h1d{font-size:15px;font-weight:400;letter-spacing:.5px;fill:#7d8da0;}
+.hs{font-size:12px;letter-spacing:.8px;fill:#7d8da0;}
+.hb{font-size:12px;font-weight:700;letter-spacing:1.2px;fill:#a8b6c5;}
+.kl{font-size:11.5px;font-weight:600;letter-spacing:1px;fill:#7d8da0;}
+.kv{font-family:system-ui,-apple-system,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:30px;font-weight:600;fill:#e6edf3;}
+.ku{font-family:system-ui,-apple-system,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:15px;font-weight:500;fill:#a8b6c5;}
+.ks{font-size:12px;fill:#a8b6c5;}
+.pt{font-size:12.5px;font-weight:700;letter-spacing:1.8px;fill:#e6edf3;}
+.pn{font-size:12px;fill:#7d8da0;}
+.lb{font-size:12.5px;fill:#a8b6c5;}
+.vl{font-size:12.5px;font-weight:700;fill:#e6edf3;}
+.ax{font-size:12px;fill:#7d8da0;}
+.st{font-size:12px;fill:#7d8da0;}
+.sv{font-size:12px;font-weight:700;fill:#e6edf3;}
+.ch{font-size:11.5px;font-weight:600;letter-spacing:1px;fill:#a8b6c5;}
+.ft{font-size:11.5px;letter-spacing:.5px;fill:#7d8da0;}
+.led{animation:pulse 2.4s ease-in-out infinite;}
+.gx{transform-box:fill-box;transform-origin:left center;animation:gx .9s cubic-bezier(.2,.7,.2,1) both;}
+.gy{transform-box:fill-box;transform-origin:center bottom;animation:gy .9s cubic-bezier(.2,.7,.2,1) both;}
+.sw{animation:sw .5s ease-out both;}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.3}}
+@keyframes gx{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+@keyframes gy{from{transform:scaleY(0)}to{transform:scaleY(1)}}
+@keyframes sw{from{opacity:0}to{opacity:1}}
+@media (prefers-reduced-motion:reduce){.led,.gx,.gy,.sw{animation:none}}
+
+.name{font-family:system-ui,-apple-system,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:40px;font-weight:700;letter-spacing:.5px;fill:#e6edf3;}
+.deg{font-family:system-ui,-apple-system,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:18px;font-weight:500;fill:#3987e5;}
+.role{font-size:13px;fill:#a8b6c5;}
+.tiny{font-size:11px;letter-spacing:1px;fill:#7d8da0;}
+.sec{font-size:15px;font-weight:700;letter-spacing:3px;fill:#e6edf3;}
+.secn{font-size:15px;font-weight:700;letter-spacing:1px;fill:#3987e5;}
+.secs{font-size:11.5px;letter-spacing:.5px;fill:#7d8da0;}
+.ct{font-size:14.5px;font-weight:700;letter-spacing:.6px;fill:#e6edf3;}
+.cs{font-size:11.5px;fill:#a8b6c5;}
+.cu{font-size:11.5px;fill:#3987e5;}
+.it{font-size:12.5px;fill:#a8b6c5;}
+.ib{font-size:12.5px;font-weight:700;fill:#e6edf3;}
+.kt{font-size:11.5px;font-weight:600;letter-spacing:1px;fill:#7d8da0;}
+.kv2{font-size:12.5px;font-weight:700;fill:#e6edf3;}
+.pill{font-size:11.5px;letter-spacing:.8px;fill:#a8b6c5;}
+.pilld{font-size:11.5px;letter-spacing:.8px;fill:#7d8da0;}
+.orbiter{fill:#3987e5;}
+@media (prefers-reduced-motion:reduce){.orbiter{display:none}}
+</style><defs><pattern id="dots" width="14" height="14" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".8" fill="#ffffff" fill-opacity=".05"/></pattern><linearGradient id="fade" x1="0" x2="1"><stop offset="0" stop-color="#3987e5" stop-opacity=".55"/><stop offset="1" stop-color="#3987e5" stop-opacity="0"/></linearGradient></defs><rect x=".5" y=".5" width="899" height="255" rx="12" fill="#0a0f16" stroke="#1c2836"/><rect x=".5" y=".5" width="899" height="255" rx="12" fill="url(#dots)"/><text x="22.0" y="26.0" class="tiny">PROFILE.README<tspan dx="8">//</tspan><tspan dx="8">GITHUB.COM/RMAYORMARTINS</tspan></text><text x="862.0" y="26.0" class="tiny" text-anchor="end">STATION ONLINE</text><circle cx="873" cy="22" r="7.5" fill="#0ca30c" fill-opacity=".18" class="led"/><circle cx="873" cy="22" r="3.6" fill="#0ca30c" class="led"/><path d="M22,40.5H878" stroke="#1c2836"/><g opacity=".55"><ellipse cx="430" cy="150" rx="430" ry="86" fill="none" stroke="#1c2836" stroke-width="1.2"/><ellipse cx="430" cy="150" rx="300" ry="54" fill="none" stroke="#1c2836" stroke-width="1.2"/></g><path id="orbit" d="M0,150a430,86 0 1,0 860,0a430,86 0 1,0 -860,0" fill="none" stroke="none"/><circle r="3.4" class="orbiter"><animateMotion dur="18s" repeatCount="indefinite"><mpath href="#orbit"/></animateMotion></circle><rect x="620" y="56" width="258" height="148" rx="3" fill="#0f1722" stroke="#1c2836"/><path d="M620.0,65.0V56.0H629.0M869.0,56.0H878.0V65.0M878.0,195.0V204.0H869.0M629.0,204.0H620.0V195.0" fill="none" stroke="#3987e5" stroke-width="1.5" stroke-opacity=".7"/><text x="636.0" y="82.0" class="pt">STATION ID</text><path d="M636,94.5H862" stroke="#1c2836"/><text x="636.0" y="118.0" class="kt">CALLSIGN</text><text x="862.0" y="118.0" class="kv2" text-anchor="end">PU4MAY</text><text x="636.0" y="141.0" class="kt">GROUND STN</text><text x="862.0" y="141.0" class="kv2" text-anchor="end">SatNOGS IFSC-389</text><text x="636.0" y="164.0" class="kt">LOCATION</text><text x="862.0" y="164.0" class="kv2" text-anchor="end">São José / SC / BR</text><text x="636.0" y="187.0" class="kt">ON AIR</text><text x="862.0" y="187.0" class="kv2" text-anchor="end">since 1996</text><text x="22" y="102" class="name" style="font-size:34.3px">RAMON MAYOR MARTINS<tspan class="deg" dx="12">Ph.D.</tspan></text><path d="M22,118.5H272" stroke="url(#fade)" stroke-width="2"/><text x="22.0" y="144.0" class="role">Associate Professor · Telecommunications Engineering · IFSC São José</text><text x="22.0" y="165.0" class="role">Research &amp; Innovation Coordinator · Postdoc in Educational Games (UFSC)</text><rect x="22.0" y="214" width="152.9" height="24" rx="12" fill="none" stroke="#243548"/><text x="35.0" y="230.0" class="pill">MACHINE LEARNING</text><rect x="182.9" y="214" width="144.9" height="24" rx="12" fill="none" stroke="#243548"/><text x="195.9" y="230.0" class="pill">SATELLITE COMMS</text><rect x="335.8" y="214" width="121.2" height="24" rx="12" fill="none" stroke="#243548"/><text x="348.8" y="230.0" class="pill">RF &amp; TELECOM</text><rect x="465.0" y="214" width="121.2" height="24" rx="12" fill="none" stroke="#243548"/><text x="478.0" y="230.0" class="pill">CS EDUCATION</text></svg>

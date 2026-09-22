@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="430" height="92" viewBox="0 0 430 92" role="img" aria-labelledby="t d"><title id="t">Kaggle</title><desc id="d">Kaggle: Notebooks and datasets. Link: kaggle.com/rmayormartins</desc><style>
+text{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace;}
+.h1{font-size:15px;font-weight:700;letter-spacing:2.4px;fill:#e6edf3;}
+.h1d{font-size:15px;font-weight:400;letter-spacing:.5px;fill:#7d8da0;}
+.hs{font-size:12px;letter-spacing:.8px;fill:#7d8da0;}
+.hb{font-size:12px;font-weight:700;letter-spacing:1.2px;fill:#a8b6c5;}
+.kl{font-size:11.5px;font-weight:600;letter-spacing:1px;fill:#7d8da0;}
+.kv{font-family:system-ui,-apple-system,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:30px;font-weight:600;fill:#e6edf3;}
+.ku{font-family:system-ui,-apple-system,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:15px;font-weight:500;fill:#a8b6c5;}
+.ks{font-size:12px;fill:#a8b6c5;}
+.pt{font-size:12.5px;font-weight:700;letter-spacing:1.8px;fill:#e6edf3;}
+.pn{font-size:12px;fill:#7d8da0;}
+.lb{font-size:12.5px;fill:#a8b6c5;}
+.vl{font-size:12.5px;font-weight:700;fill:#e6edf3;}
+.ax{font-size:12px;fill:#7d8da0;}
+.st{font-size:12px;fill:#7d8da0;}
+.sv{font-size:12px;font-weight:700;fill:#e6edf3;}
+.ch{font-size:11.5px;font-weight:600;letter-spacing:1px;fill:#a8b6c5;}
+.ft{font-size:11.5px;letter-spacing:.5px;fill:#7d8da0;}
+.led{animation:pulse 2.4s ease-in-out infinite;}
+.gx{transform-box:fill-box;transform-origin:left center;animation:gx .9s cubic-bezier(.2,.7,.2,1) both;}
+.gy{transform-box:fill-box;transform-origin:center bottom;animation:gy .9s cubic-bezier(.2,.7,.2,1) both;}
+.sw{animation:sw .5s ease-out both;}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.3}}
+@keyframes gx{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+@keyframes gy{from{transform:scaleY(0)}to{transform:scaleY(1)}}
+@keyframes sw{from{opacity:0}to{opacity:1}}
+@media (prefers-reduced-motion:reduce){.led,.gx,.gy,.sw{animation:none}}
+
+.name{font-family:system-ui,-apple-system,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:40px;font-weight:700;letter-spacing:.5px;fill:#e6edf3;}
+.deg{font-family:system-ui,-apple-system,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:18px;font-weight:500;fill:#3987e5;}
+.role{font-size:13px;fill:#a8b6c5;}
+.tiny{font-size:11px;letter-spacing:1px;fill:#7d8da0;}
+.sec{font-size:15px;font-weight:700;letter-spacing:3px;fill:#e6edf3;}
+.secn{font-size:15px;font-weight:700;letter-spacing:1px;fill:#3987e5;}
+.secs{font-size:11.5px;letter-spacing:.5px;fill:#7d8da0;}
+.ct{font-size:14.5px;font-weight:700;letter-spacing:.6px;fill:#e6edf3;}
+.cs{font-size:11.5px;fill:#a8b6c5;}
+.cu{font-size:11.5px;fill:#3987e5;}
+.it{font-size:12.5px;fill:#a8b6c5;}
+.ib{font-size:12.5px;font-weight:700;fill:#e6edf3;}
+.kt{font-size:11.5px;font-weight:600;letter-spacing:1px;fill:#7d8da0;}
+.kv2{font-size:12.5px;font-weight:700;fill:#e6edf3;}
+.pill{font-size:11.5px;letter-spacing:.8px;fill:#a8b6c5;}
+.pilld{font-size:11.5px;letter-spacing:.8px;fill:#7d8da0;}
+.orbiter{fill:#3987e5;}
+@media (prefers-reduced-motion:reduce){.orbiter{display:none}}
+</style><defs><pattern id="dots" width="14" height="14" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".8" fill="#ffffff" fill-opacity=".05"/></pattern><linearGradient id="fade" x1="0" x2="1"><stop offset="0" stop-color="#3987e5" stop-opacity=".55"/><stop offset="1" stop-color="#3987e5" stop-opacity="0"/></linearGradient></defs><rect x=".5" y=".5" width="429" height="91" rx="8" fill="#0f1722" stroke="#1c2836"/><rect x=".5" y=".5" width="429" height="91" rx="8" fill="url(#dots)"/><rect x="1" y="1" width="4" height="90" rx="2" fill="#3987e5"/><path d="M12.0,18.0V10.0H20.0M410.0,10.0H418.0V18.0M418.0,74.0V82.0H410.0M20.0,82.0H12.0V74.0" fill="none" stroke="#3987e5" stroke-width="1.5" stroke-opacity=".45"/><g transform="translate(24.0,22.0) scale(1.05)" fill="none" stroke="#3987e5" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M3 16.5h14"/><path d="M6 16.5V9M10 16.5V4.5M14 16.5V12"/></g><text x="56.0" y="38.0" class="ct">Kaggle</text><text x="56.0" y="58.0" class="cs">Notebooks and datasets</text><text x="56.0" y="78.0" class="cu">kaggle.com/rmayormartins</text><path d="M396,40.0 l7,6 l-7,6" fill="none" stroke="#3987e5" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>

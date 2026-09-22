@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="281" viewBox="0 0 900 281" role="img" aria-labelledby="t d"><title id="t">Mission profile</title><desc id="d">Research interests: Strategies for Teaching Machine Learning; Radiofrequency and satellite communication systems; Artificial Intelligence and Machine/Deep Learning projects; Computational and Critical Thinking in Computing Education. Operator profile: Programmer since 1998 (Basic, Pascal, C, CBuilder, Visual Basic, C++, Shell, Matlab, R, Python, Java); Ham radio operator since 1996 (callsign PU4MAY, licensed by ANATEL); Satellite radio operator (callsign PU4MAY · ground station IFSC-389).</desc><style>
+text{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace;}
+.h1{font-size:15px;font-weight:700;letter-spacing:2.4px;fill:#e6edf3;}
+.h1d{font-size:15px;font-weight:400;letter-spacing:.5px;fill:#7d8da0;}
+.hs{font-size:12px;letter-spacing:.8px;fill:#7d8da0;}
+.hb{font-size:12px;font-weight:700;letter-spacing:1.2px;fill:#a8b6c5;}
+.kl{font-size:11.5px;font-weight:600;letter-spacing:1px;fill:#7d8da0;}
+.kv{font-family:system-ui,-apple-system,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:30px;font-weight:600;fill:#e6edf3;}
+.ku{font-family:system-ui,-apple-system,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:15px;font-weight:500;fill:#a8b6c5;}
+.ks{font-size:12px;fill:#a8b6c5;}
+.pt{font-size:12.5px;font-weight:700;letter-spacing:1.8px;fill:#e6edf3;}
+.pn{font-size:12px;fill:#7d8da0;}
+.lb{font-size:12.5px;fill:#a8b6c5;}
+.vl{font-size:12.5px;font-weight:700;fill:#e6edf3;}
+.ax{font-size:12px;fill:#7d8da0;}
+.st{font-size:12px;fill:#7d8da0;}
+.sv{font-size:12px;font-weight:700;fill:#e6edf3;}
+.ch{font-size:11.5px;font-weight:600;letter-spacing:1px;fill:#a8b6c5;}
+.ft{font-size:11.5px;letter-spacing:.5px;fill:#7d8da0;}
+.led{animation:pulse 2.4s ease-in-out infinite;}
+.gx{transform-box:fill-box;transform-origin:left center;animation:gx .9s cubic-bezier(.2,.7,.2,1) both;}
+.gy{transform-box:fill-box;transform-origin:center bottom;animation:gy .9s cubic-bezier(.2,.7,.2,1) both;}
+.sw{animation:sw .5s ease-out both;}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.3}}
+@keyframes gx{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+@keyframes gy{from{transform:scaleY(0)}to{transform:scaleY(1)}}
+@keyframes sw{from{opacity:0}to{opacity:1}}
+@media (prefers-reduced-motion:reduce){.led,.gx,.gy,.sw{animation:none}}
+
+.name{font-family:system-ui,-apple-system,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:40px;font-weight:700;letter-spacing:.5px;fill:#e6edf3;}
+.deg{font-family:system-ui,-apple-system,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:18px;font-weight:500;fill:#3987e5;}
+.role{font-size:13px;fill:#a8b6c5;}
+.tiny{font-size:11px;letter-spacing:1px;fill:#7d8da0;}
+.sec{font-size:15px;font-weight:700;letter-spacing:3px;fill:#e6edf3;}
+.secn{font-size:15px;font-weight:700;letter-spacing:1px;fill:#3987e5;}
+.secs{font-size:11.5px;letter-spacing:.5px;fill:#7d8da0;}
+.ct{font-size:14.5px;font-weight:700;letter-spacing:.6px;fill:#e6edf3;}
+.cs{font-size:11.5px;fill:#a8b6c5;}
+.cu{font-size:11.5px;fill:#3987e5;}
+.it{font-size:12.5px;fill:#a8b6c5;}
+.ib{font-size:12.5px;font-weight:700;fill:#e6edf3;}
+.kt{font-size:11.5px;font-weight:600;letter-spacing:1px;fill:#7d8da0;}
+.kv2{font-size:12.5px;font-weight:700;fill:#e6edf3;}
+.pill{font-size:11.5px;letter-spacing:.8px;fill:#a8b6c5;}
+.pilld{font-size:11.5px;letter-spacing:.8px;fill:#7d8da0;}
+.orbiter{fill:#3987e5;}
+@media (prefers-reduced-motion:reduce){.orbiter{display:none}}
+</style><defs><pattern id="dots" width="14" height="14" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".8" fill="#ffffff" fill-opacity=".05"/></pattern><linearGradient id="fade" x1="0" x2="1"><stop offset="0" stop-color="#3987e5" stop-opacity=".55"/><stop offset="1" stop-color="#3987e5" stop-opacity="0"/></linearGradient></defs><rect x=".5" y=".5" width="899" height="280" rx="12" fill="#0a0f16" stroke="#1c2836"/><rect x=".5" y=".5" width="899" height="280" rx="12" fill="url(#dots)"/><rect x="22.0" y="16.0" width="421.0" height="249.0" rx="3" fill="#0f1722" stroke="#1c2836"/><path d="M22.0,25.0V16.0H31.0M434.0,16.0H443.0V25.0M443.0,256.0V265.0H434.0M31.0,265.0H22.0V256.0" fill="none" stroke="#3987e5" stroke-width="1.5" stroke-opacity=".7"/><text x="38.0" y="42.0" class="pt">RESEARCH INTERESTS</text><text x="427.0" y="42.0" class="pn" text-anchor="end">what I work on</text><path d="M38.0,54.5H427.0" stroke="#1c2836"/><g transform="translate(38.0,57.0) scale(0.95)" fill="none" stroke="#3987e5" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><circle cx="4.5" cy="10" r="1.8"/><circle cx="15.5" cy="5.5" r="1.8"/><circle cx="15.5" cy="14.5" r="1.8"/><path d="M6.2 9.2 13.8 6.2"/><path d="M6.2 10.8 13.8 13.8"/></g><text x="68.0" y="70.0" class="it">Strategies for Teaching Machine Learning</text><g transform="translate(38.0,88.0) scale(0.95)" fill="none" stroke="#3987e5" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><rect x="7.5" y="7.5" width="5" height="5" rx="1"/><path d="M2 6.5h4.5v7H2zM13.5 6.5H18v7h-4.5z"/><path d="M10 7.5V4M10 12.5V16"/></g><text x="68.0" y="101.0" class="it">Radiofrequency and satellite communication</text><text x="68.0" y="118.0" class="it">systems</text><g transform="translate(38.0,136.0) scale(0.95)" fill="none" stroke="#3987e5" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><circle cx="4.5" cy="10" r="1.8"/><circle cx="15.5" cy="5.5" r="1.8"/><circle cx="15.5" cy="14.5" r="1.8"/><path d="M6.2 9.2 13.8 6.2"/><path d="M6.2 10.8 13.8 13.8"/></g><text x="68.0" y="149.0" class="it">Artificial Intelligence and Machine/Deep</text><text x="68.0" y="166.0" class="it">Learning projects</text><g transform="translate(38.0,184.0) scale(0.95)" fill="none" stroke="#3987e5" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M3 16.5h14"/><path d="M6 16.5V9M10 16.5V4.5M14 16.5V12"/></g><text x="68.0" y="197.0" class="it">Computational and Critical Thinking in</text><text x="68.0" y="214.0" class="it">Computing Education</text><rect x="457.0" y="16.0" width="421.0" height="249.0" rx="3" fill="#0f1722" stroke="#1c2836"/><path d="M457.0,25.0V16.0H466.0M869.0,16.0H878.0V25.0M878.0,256.0V265.0H869.0M466.0,265.0H457.0V256.0" fill="none" stroke="#3987e5" stroke-width="1.5" stroke-opacity=".7"/><text x="473.0" y="42.0" class="pt">OPERATOR PROFILE</text><text x="862.0" y="42.0" class="pn" text-anchor="end">since the last century</text><path d="M473.0,54.5H862.0" stroke="#1c2836"/><g transform="translate(473.0,57.0) scale(0.95)" fill="none" stroke="#3987e5" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M4 16 10 10"/><path d="M11.5 8.5a3.5 3.5 0 1 0 4-4l-2 2 -1.9-.1-.1-1.9z"/><path d="M3 4h5"/></g><text x="503.0" y="70.0" class="ib">Programmer since 1998</text><text x="503.0" y="88.0" class="cs">Basic, Pascal, C, CBuilder, Visual Basic, C++,</text><text x="503.0" y="104.0" class="cs">Shell, Matlab, R, Python, Java</text><g transform="translate(473.0,123.0) scale(0.95)" fill="none" stroke="#3987e5" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M3 14a7 7 0 0 1 14 0"/><path d="M6.5 14a3.5 3.5 0 0 1 7 0"/><circle cx="10" cy="14" r="1.2" fill="#3987e5" stroke="none"/><path d="M10 14 16 6"/></g><text x="503.0" y="136.0" class="ib">Ham radio operator since 1996</text><text x="503.0" y="154.0" class="cs">callsign PU4MAY, licensed by ANATEL</text><g transform="translate(473.0,173.0) scale(0.95)" fill="none" stroke="#3987e5" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><rect x="7.5" y="7.5" width="5" height="5" rx="1"/><path d="M2 6.5h4.5v7H2zM13.5 6.5H18v7h-4.5z"/><path d="M10 7.5V4M10 12.5V16"/></g><text x="503.0" y="186.0" class="ib">Satellite radio operator</text><text x="503.0" y="204.0" class="cs">callsign PU4MAY · ground station IFSC-389</text></svg>
