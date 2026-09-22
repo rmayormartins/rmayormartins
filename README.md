@@ -1,14 +1,8 @@
-<table align="center" border="1" cellpadding="5" cellspacing="0" style="border-collapse: collapse; border: 1px solid black;">
-  <tr>
-    <td style="border: 1px solid black; padding: 5px;">
-      <p style="text-align: center;">Welcome to my github</p>
-      <p style="text-align: center;"><a href="https://rmayormartins.github.io/" target="_blank">Ramon Mayor Martins</a></p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://rmayormartins.github.io/"><img src="assets/hero.svg" width="100%" alt="RAMON MAYOR MARTINS, Ph.D. Associate Professor · Telecommunications Engineering · IFSC São José. Research &amp; Innovation Coordinator · Postdoc in Educational Games (UFSC). Callsign PU4MAY."></a>
+</p>
 
----
-#### About me
+#### <img src="assets/sec-about.svg" width="100%" alt="Section 01: ABOUT. who is on the other side.">
 
 Ramon Mayor Martins holds a Ph.D. in Computer Science from the [Universidade Federal de Santa Catarina](https://ufsc.br) (2024). He earned a Master's degree in Telecommunications from the [Instituto Nacional de Telecomunicações](https://www.inatel.br) (2014). Additionally, he also holds postgraduate certificates in Systems Engineering, Computer Networks, and Telecommunications Systems, as well as a Professional MBA in Systems Analysis and Telecommunications. He also completed a Bachelor's degree in Electrical Engineering with an emphasis on Telematics and Telecommunications Engineering from the [Universidade do Sul de Santa Catarina](https://www.unisul.br) (2010). 
 
@@ -17,8 +11,8 @@ Since 2015, he has been an Professor of [**Telecommunications Engineering**](htt
 He is currently the Research and Innovation Coordinator at the IFSC São José Campus.<br>
 Also is pursuing a Postdoctoral research in Educational Games (UFSC).
 
----
-#### Honors and Qualification
+#### <img src="assets/sec-honors.svg" width="100%" alt="Section 02: HONORS &amp; QUALIFICATION. badges and certifications.">
+
 <div align="center">
   <table>
     <tr>
@@ -30,147 +24,59 @@ Also is pursuing a Postdoctoral research in Educational Games (UFSC).
   </table>
 </div>
 
----
-#### Interests
-```
-👨‍🏫🤖|| Strategies for Teaching Machine Learning
-📡🛰️|| Radiofrequency and Satellite communications systems projects
-💻🤖|| Artificial Intelligence and Machine/Deep Learning projects
-👨‍🏫💻|| Computational Thinking and Critical Thinking in Computing Education
-```
----
-#### Tech profile
-```
-👨🏻‍💻|| Programmer, since 1998: Basic, Pascal, C, CBuilder, Visual Basic, C++, Shell Script, Matlab, R, Python, Java...
-📡|| Ham Radio Operator, since 1996, callsign PU4MAY licensed by ANATEL
-🛰️|| Satellite Radio Operator, Callsign PU4MAY licensed by ANATEL
-```
----
-#### On-the-fly spaces
-```
+#### <img src="assets/sec-profile.svg" width="100%" alt="Section 03: MISSION PROFILE. research interests · operator profile.">
 
-💻📡|| Telecom Tools: https://rmayormartins.github.io/telecom-tools/
-💻🤖|| IA Tools: https://rmayormartins.github.io/ia-tools/
-💻🤗|| Hugging Face Spaces: Espaços de IA https://huggingface.co/rmayormartins
-💻 K|| Kaggle Projects: https://www.kaggle.com/rmayormartins
+<p align="center">
+  <img src="assets/panel-profile.svg" width="100%" alt="Research interests: Strategies for Teaching Machine Learning; Radiofrequency and satellite communication systems; Artificial Intelligence and Machine/Deep Learning projects; Computational and Critical Thinking in Computing Education. Operator profile: Programmer since 1998 (Basic, Pascal, C, CBuilder, Visual Basic, C++, Shell, Matlab, R, Python, Java); Ham radio operator since 1996 (callsign PU4MAY, licensed by ANATEL); Satellite radio operator (callsign PU4MAY · ground station IFSC-389).">
+</p>
 
-```
----
-#### Contact me
-```
-📬🏫||ramon.mayor at: ifsc.edu.br
-📬🐧||mayor at: linuxmail.org
-```
----
-#### Tech Stack🛠💻
+#### <img src="assets/sec-stations.svg" width="100%" alt="Section 04: LIVE STATIONS. tools running on GitHub Pages.">
 
-<sub>![R](https://img.shields.io/badge/-R-333333?style=flat&logo=r)</sub>
-<sub>![PYTHON](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)</sub>
-<sub>![CPP](https://img.shields.io/badge/C++-Solutions-blue.svg?style=flat&logo=c++)</sub>
-<sub>![MATLAB](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)</sub>
-<sub>![basic](https://img.shields.io/badge/Basic-MSX-blue)</sub>
-<sub>![c](https://img.shields.io/badge/C-ANSI-blue)</sub>
-<sub>![lolcode](https://img.shields.io/badge/LOLCODE-Esoteric%20Prog.%20Lang.-blue)</sub>
-<sub>![fastai](https://img.shields.io/badge/Fast.ai-deep%20learning%20library-blue)</sub>
-<sub>![gnuradio](https://img.shields.io/badge/GNU%20Radio-SDR%20Systems-blue)</sub>
-<sub>![OpenCV](https://img.shields.io/badge/-OpenCV-333333?style=flat&logo=OpenCV)</sub>
-<sub>![latex](https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg)</sub>
-<sub>![bash](https://img.shields.io/badge/Made%20with-Bash-1f425f.svg)</sub>
-<sub>![shell](https://img.shields.io/badge/Shell%20Script-using-blue)</sub>
-<sub>![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)</sub>
-<sub>![HuggingFace Spaces](https://img.shields.io/badge/HuggingFace-Spaces-blue?style=flat)</sub>
-<sub>![HuggingFace Transformer](https://img.shields.io/badge/HuggingFace-Transformers-blue?style=flat)</sub>
-<sub>[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Naereen/badges)</sub>
----
+<p align="center">
+  <a href="https://rmayormartins.github.io/starlink-commander/"><img src="assets/card-starlink.svg" width="49%" alt="Starlink Commander: Constellation tracker with CelesTrak TLE. Link: rmayormartins.github.io/starlink-commander"></a>
+  <a href="https://rmayormartins.github.io/iss-commander/"><img src="assets/card-iss.svg" width="49%" alt="ISS Commander: Live telemetry, space weather and schematics. Link: rmayormartins.github.io/iss-commander"></a>
+  <a href="https://rmayormartins.github.io/sat-commander/"><img src="assets/card-satcmd.svg" width="49%" alt="SAT Commander: 3D globe, SGP4 propagation and passes. Link: rmayormartins.github.io/sat-commander"></a>
+  <a href="https://rmayormartins.github.io/funcube1-commander/"><img src="assets/card-funcube.svg" width="49%" alt="FUNcube-1 Commander: BPSK/CW detection and FEC chain. Link: rmayormartins.github.io/funcube1-commander"></a>
+  <a href="https://rmayormartins.github.io/telecom-news-radar/"><img src="assets/card-telenews.svg" width="49%" alt="Telecom News Radar: RSS aggregation for telecom news. Link: rmayormartins.github.io/telecom-news-radar"></a>
+  <a href="https://rmayormartins.github.io/ai-news-radar/"><img src="assets/card-ainews.svg" width="49%" alt="AI News Radar: RSS aggregation for AI news. Link: rmayormartins.github.io/ai-news-radar"></a>
+</p>
 
-#### Revoltz Tech Stack 🏴‍☠️🛠💻
-<sub>![Java_variable](https://img.shields.io/badge/JAVA-global_variables_rules-blue)</sub>
-<sub>![C GOTO](https://img.shields.io/badge/C-GOTO_rules-blue)</sub>
-<sub>![Pyton ident](https://img.shields.io/badge/Python-against_ident_rules-blue)</sub>
----
+#### <img src="assets/sec-spaces.svg" width="100%" alt="Section 05: TOOLBOXES &amp; SPACES. labs, models and datasets.">
 
-#### Stats Stack 📈📊🛠💻
+<p align="center">
+  <a href="https://rmayormartins.github.io/telecom-tools/"><img src="assets/card-telecomtools.svg" width="49%" alt="Telecom Tools: Interactive labs for telecom teaching. Link: rmayormartins.github.io/telecom-tools"></a>
+  <a href="https://rmayormartins.github.io/ia-tools/"><img src="assets/card-iatools.svg" width="49%" alt="IA Tools: Machine learning tools and cheat sheets. Link: rmayormartins.github.io/ia-tools"></a>
+  <a href="https://huggingface.co/rmayormartins"><img src="assets/card-hf.svg" width="49%" alt="Hugging Face Spaces: Deployed AI demos and models. Link: huggingface.co/rmayormartins"></a>
+  <a href="https://www.kaggle.com/rmayormartins"><img src="assets/card-kaggle.svg" width="49%" alt="Kaggle: Notebooks and datasets. Link: kaggle.com/rmayormartins"></a>
+</p>
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=rmayormartins&show_icons=true&theme=syntwave" alt="GitHub Stats"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmayormartins&layout=compact" alt="Top Languages"/>
-    </td>
-  </tr>
-</table>
+#### <img src="assets/sec-telemetry.svg" width="100%" alt="Section 06: GITHUB TELEMETRY. auto-updated daily by GitHub Actions.">
 
-
-<div align="center">
-
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rmayormartins&theme=transparent" alt="Profile Summary"/>
-
-  <img src="https://streak-stats.demolab.com?user=rmayormartins&theme=transparent&hide_border=true&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" />
-</div>
-
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://ssr-contributions-svg.vercel.app/_/rmayormartins?chart=3dbar&gap=0.6&scale=2&flatten=1&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=15&theme=blue&widget_size=small" alt="GitHub Contribution Graph"/>
-    </td>
-    <td>
-      <img src="https://github-profile-trophy.vercel.app/?username=rmayormartins&row=2&column=3" alt="GitHub Trophies"/>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rmayormartins&theme=transparent" alt="GitHub Stats"/>
-    </td>
-    <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rmayormartins&theme=transparent&utcOffset=8" alt="GitHub Productive Time"/>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rmayormartins&theme=transparent" alt="GitHub Repos per Language"/>
-    </td>
-    <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rmayormartins&theme=transparent" alt="GitHub Most Commit Language"/>
-    </td>
-  </tr>
-</table>
-
-<sub>![Visitor Count](https://profile-counter.glitch.me/rmayormartins/count.svg)</sub><br>
-<sub>![Visitor](https://visitor-badge.laobi.icu/badge?page_id=username.rmayormartins)</sub>
-
----
 <!--START_STATS-->
-#### My Stats Action 🛰️📊
 
 <p align="center">
   <img src="assets/telemetry.svg" width="100%" alt="GitHub telemetry dashboard for rmayormartins: 79 repositories, 24 stars, 76 forks, 26 GitHub Pages sites, top language Python">
 </p>
 
-**📡 Latest activity**
+<img src="assets/lbl-act.svg" width="100%" alt="LATEST ACTIVITY: last 6 repositories pushed">
 
-| Repository | Language | Last push | Signal | Site |
-|:--|:--|--:|:-:|:-:|
-| [ai-news-radar](https://github.com/rmayormartins/ai-news-radar) | HTML | today | <img src="assets/signal-5.svg" height="14" alt="signal 5/5"> | [🌐](https://rmayormartins.github.io/ai-news-radar/) |
-| [starlink-commander](https://github.com/rmayormartins/starlink-commander) | JavaScript | today | <img src="assets/signal-5.svg" height="14" alt="signal 5/5"> | [🌐](https://rmayormartins.github.io/starlink-commander/) |
-| [telecom-news-radar](https://github.com/rmayormartins/telecom-news-radar) | HTML | today | <img src="assets/signal-5.svg" height="14" alt="signal 5/5"> | [🌐](https://rmayormartins.github.io/telecom-news-radar/) |
-| [rmayormartins.github.io](https://github.com/rmayormartins/rmayormartins.github.io) | HTML | 1 mo ago | <img src="assets/signal-3.svg" height="14" alt="signal 3/5"> | [🌐](https://rmayormartins.github.io/) |
-| [ia-tools](https://github.com/rmayormartins/ia-tools) | HTML | 1 mo ago | <img src="assets/signal-3.svg" height="14" alt="signal 3/5"> | [🌐](https://rmayormartins.github.io/ia-tools/) |
-| [ifsc-python](https://github.com/rmayormartins/ifsc-python) | HTML | 1 mo ago | <img src="assets/signal-3.svg" height="14" alt="signal 3/5"> | [🌐](https://rmayormartins.github.io/ifsc-python/) |
-| [leadradar](https://github.com/rmayormartins/leadradar) | HTML | 2 mo ago | <img src="assets/signal-3.svg" height="14" alt="signal 3/5"> | [🌐](https://rmayormartins.github.io/leadradar/) |
-| [rmpagestudio](https://github.com/rmayormartins/rmpagestudio) | HTML | 2 mo ago | <img src="assets/signal-3.svg" height="14" alt="signal 3/5"> | [🌐](https://rmayormartins.github.io/rmpagestudio/) |
+<p align="center">
+  <a href="https://github.com/rmayormartins/ai-news-radar"><img src="assets/act-1.svg" width="49%" alt="ai-news-radar: HTML · pushed today. Last push today. Link: https://github.com/rmayormartins/ai-news-radar"></a>
+  <a href="https://github.com/rmayormartins/starlink-commander"><img src="assets/act-2.svg" width="49%" alt="starlink-commander: JavaScript · pushed today. Last push today. Link: https://github.com/rmayormartins/starlink-commander"></a>
+  <a href="https://github.com/rmayormartins/telecom-news-radar"><img src="assets/act-3.svg" width="49%" alt="telecom-news-radar: HTML · pushed today. Last push today. Link: https://github.com/rmayormartins/telecom-news-radar"></a>
+  <a href="https://github.com/rmayormartins/rmayormartins.github.io"><img src="assets/act-4.svg" width="49%" alt="rmayormartins.github.io: HTML · pushed 1 mo ago. Last push 1 mo ago. Link: https://github.com/rmayormartins/rmayormartins.github.io"></a>
+  <a href="https://github.com/rmayormartins/ia-tools"><img src="assets/act-5.svg" width="49%" alt="ia-tools: HTML · pushed 1 mo ago. Last push 1 mo ago. Link: https://github.com/rmayormartins/ia-tools"></a>
+  <a href="https://github.com/rmayormartins/ifsc-python"><img src="assets/act-6.svg" width="49%" alt="ifsc-python: HTML · pushed 1 mo ago. Last push 1 mo ago. Link: https://github.com/rmayormartins/ifsc-python"></a>
+</p>
 
-**🏆 Most starred & forked**
+<img src="assets/lbl-top.svg" width="100%" alt="MOST STARRED &amp; FORKED: all time">
 
-| Repository | ⭐ Stars | 🍴 Forks | Language | Last push |
-|:--|--:|--:|:--|--:|
-| [IFSC-Codespace-ENG-ADS-JAVA-POO](https://github.com/rmayormartins/IFSC-Codespace-ENG-ADS-JAVA-POO) | 17 | 65 | - | 1.3 y ago |
-| [IFSC-Codespace-ENG-C-PRG1](https://github.com/rmayormartins/IFSC-Codespace-ENG-C-PRG1) | 0 | 9 | C | 1.6 y ago |
-| [SPACE-AI-PY-yolov5-farm-cattle](https://github.com/rmayormartins/SPACE-AI-PY-yolov5-farm-cattle) | 1 | 1 | Python | 1.7 y ago |
-| [iss-commander](https://github.com/rmayormartins/iss-commander) | 1 | 0 | HTML | 3 mo ago |
-| [iptv-cmd](https://github.com/rmayormartins/iptv-cmd) | 1 | 0 | HTML | 4 mo ago |
-| [SPACE-AI-PY-yolov5-sunspot-hunter](https://github.com/rmayormartins/SPACE-AI-PY-yolov5-sunspot-hunter) | 1 | 0 | Python | 1.7 y ago |
+<p align="center">
+  <a href="https://github.com/rmayormartins/IFSC-Codespace-ENG-ADS-JAVA-POO"><img src="assets/top-1.svg" width="49%" alt="IFSC-Codespace-ENG-ADS-JAVA-POO: no language · 17 stars · 65 forks. Last push 1.3 y ago. Link: https://github.com/rmayormartins/IFSC-Codespace-ENG-ADS-JAVA-POO"></a>
+  <a href="https://github.com/rmayormartins/IFSC-Codespace-ENG-C-PRG1"><img src="assets/top-2.svg" width="49%" alt="IFSC-Codespace-ENG-C-PRG1: C · 0 stars · 9 forks. Last push 1.6 y ago. Link: https://github.com/rmayormartins/IFSC-Codespace-ENG-C-PRG1"></a>
+  <a href="https://github.com/rmayormartins/SPACE-AI-PY-yolov5-farm-cattle"><img src="assets/top-3.svg" width="49%" alt="SPACE-AI-PY-yolov5-farm-cattle: Python · 1 star · 1 fork. Last push 1.7 y ago. Link: https://github.com/rmayormartins/SPACE-AI-PY-yolov5-farm-cattle"></a>
+  <a href="https://github.com/rmayormartins/iss-commander"><img src="assets/top-4.svg" width="49%" alt="iss-commander: HTML · 1 star · 0 forks. Last push 3 mo ago. Link: https://github.com/rmayormartins/iss-commander"></a>
+</p>
 
 <details>
 <summary><b>📊 Full telemetry</b></summary>
@@ -185,9 +91,9 @@ Also is pursuing a Postdoctoral research in Educational Games (UFSC).
 | Largest repo | **starlink-commander (300.3 MB)** | Total size | **388.3 MB** |
 | Most common language | **Python** | Unique languages | **10** |
 | Top languages | **Python (26), HTML (24), Jupyter Notebook (9)** | GitHub Pages sites | **26** |
-| Pushed in last 90 days | **13 (16.5%)** | Avg open issues per repo | **0.01** |
+| Pushed in last 90 days | **12 (15.2%)** | Avg open issues per repo | **0.01** |
 | Most starred | **IFSC-Codespace-ENG-ADS-JAVA-POO (17)** | Most forked | **IFSC-Codespace-ENG-ADS-JAVA-POO (65)** |
-| Latest push | **ai-news-radar (today)** | Longest dormant | **TELE-RF-Arduino-nRF24L01 (1,962 d)** |
+| Latest push | **ai-news-radar (today)** | Longest dormant | **TELE-RF-Arduino-nRF24L01 (1,963 d)** |
 | First repository | **rmayormartins.github.io (2021-05-07)** | Newest repository | **ifsc-python (2026-07-27)** |
 | Repos with open issues | **1 (REPL-PY-pygames-dragster)** | Followers | **-** |
 
@@ -246,7 +152,7 @@ Also is pursuing a Postdoctoral research in Educational Games (UFSC).
 | [telecom-tools](https://github.com/rmayormartins/telecom-tools) [🌐](https://rmayormartins.github.io/telecom-tools/) | HTML | 0 | 0 | Apr 2026 | 2 mo ago | <img src="assets/signal-3.svg" height="14" alt="signal 3/5"> |
 | [IFSC-eng-pfc](https://github.com/rmayormartins/IFSC-eng-pfc) [🌐](https://rmayormartins.github.io/IFSC-eng-pfc/) | HTML | 0 | 0 | Jun 2026 | 2 mo ago | <img src="assets/signal-3.svg" height="14" alt="signal 3/5"> |
 | [sat-commander](https://github.com/rmayormartins/sat-commander) [🌐](https://rmayormartins.github.io/sat-commander/) | HTML | 0 | 0 | Jun 2026 | 3 mo ago | <img src="assets/signal-3.svg" height="14" alt="signal 3/5"> |
-| [sistema-pei](https://github.com/rmayormartins/sistema-pei) [🌐](https://rmayormartins.github.io/sistema-pei/) | JavaScript | 0 | 0 | May 2026 | 3 mo ago | <img src="assets/signal-3.svg" height="14" alt="signal 3/5"> |
+| [sistema-pei](https://github.com/rmayormartins/sistema-pei) [🌐](https://rmayormartins.github.io/sistema-pei/) | JavaScript | 0 | 0 | May 2026 | 3 mo ago | <img src="assets/signal-2.svg" height="14" alt="signal 2/5"> |
 | [iss-commander](https://github.com/rmayormartins/iss-commander) [🌐](https://rmayormartins.github.io/iss-commander/) | HTML | 1 | 0 | Apr 2026 | 3 mo ago | <img src="assets/signal-2.svg" height="14" alt="signal 2/5"> |
 | [funcube1-commander](https://github.com/rmayormartins/funcube1-commander) [🌐](https://rmayormartins.github.io/funcube1-commander/) | HTML | 0 | 0 | May 2026 | 3 mo ago | <img src="assets/signal-2.svg" height="14" alt="signal 2/5"> |
 | [IFSC-TCC-TYPST](https://github.com/rmayormartins/IFSC-TCC-TYPST) | Typst | 0 | 0 | Jun 2025 | 3 mo ago | <img src="assets/signal-2.svg" height="14" alt="signal 2/5"> |
@@ -262,7 +168,7 @@ Also is pursuing a Postdoctoral research in Educational Games (UFSC).
 | [mapa-risco](https://github.com/rmayormartins/mapa-risco) [🌐](https://rmayormartins.github.io/mapa-risco/) | HTML | 0 | 0 | Oct 2025 | 11 mo ago | <img src="assets/signal-2.svg" height="14" alt="signal 2/5"> |
 | [sigap-sc-portos](https://github.com/rmayormartins/sigap-sc-portos) [🌐](https://rmayormartins.github.io/sigap-sc-portos/) | JavaScript | 0 | 0 | Oct 2025 | 11 mo ago | <img src="assets/signal-2.svg" height="14" alt="signal 2/5"> |
 | [mapa-alagamentos](https://github.com/rmayormartins/mapa-alagamentos) [🌐](https://rmayormartins.github.io/mapa-alagamentos/) | HTML | 0 | 0 | Sep 2025 | 12 mo ago | <img src="assets/signal-2.svg" height="14" alt="signal 2/5"> |
-| [VERCEL-ai-news-hub](https://github.com/rmayormartins/VERCEL-ai-news-hub) | JavaScript | 0 | 0 | Jun 2025 | 1.2 y ago | <img src="assets/signal-1.svg" height="14" alt="signal 1/5"> |
+| [VERCEL-ai-news-hub](https://github.com/rmayormartins/VERCEL-ai-news-hub) | JavaScript | 0 | 0 | Jun 2025 | 1.3 y ago | <img src="assets/signal-1.svg" height="14" alt="signal 1/5"> |
 | [VERCEL-red-alert-map](https://github.com/rmayormartins/VERCEL-red-alert-map) | HTML | 0 | 0 | Jun 2025 | 1.3 y ago | <img src="assets/signal-1.svg" height="14" alt="signal 1/5"> |
 | [IFSC-Codespace-ENG-ADS-JAVA-POO-BACKUP](https://github.com/rmayormartins/IFSC-Codespace-ENG-ADS-JAVA-POO-BACKUP) | - | 0 | 1 | Jun 2025 | 1.3 y ago | <img src="assets/signal-1.svg" height="14" alt="signal 1/5"> |
 | [IFSC-Codespace-ENG-ADS-JAVA-POO](https://github.com/rmayormartins/IFSC-Codespace-ENG-ADS-JAVA-POO) | - | 17 | 65 | Sep 2024 | 1.3 y ago | <img src="assets/signal-1.svg" height="14" alt="signal 1/5"> |
@@ -316,12 +222,61 @@ Also is pursuing a Postdoctoral research in Educational Games (UFSC).
 
 </details>
 
-<p align="right"><sub>🤖 Auto-updated daily by <a href="generate_stats.py">generate_stats.py</a> (GitHub Actions) · last sync 2026-09-22 14:31 UTC</sub></p>
+<p align="right"><sub>🤖 Auto-updated daily by <a href="generate_stats.py">generate_stats.py</a> (GitHub Actions) · last sync 2026-09-22 23:00 UTC</sub></p>
 <!--END_STATS-->
 
----
+#### <img src="assets/sec-stack.svg" width="100%" alt="Section 07: TECH STACK. languages, libraries and rigs.">
 
-#### GitHub City (click) 🌆 
+<p align="center">
+  <img src="assets/panel-stack.svg" width="100%" alt="Tech stack: R, Python, C++, C (ANSI), MATLAB, Basic (MSX), LOLCODE, Fast.ai, GNU Radio, OpenCV, TensorFlow.js, LaTeX, Bash, Shell Script, Markdown, HF Spaces, HF Transformers, Colab. Revoltz stack: JAVA global variables rules, C GOTO rules, Python against ident rules.">
+</p>
+
+#### <img src="assets/sec-extras.svg" width="100%" alt="Section 08: EXTRA PANELS. third party cards.">
+
+<details>
+<summary><b>Third party cards</b> (served by other people's services, so they can go down)</summary>
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=rmayormartins&show_icons=true&theme=github_dark" alt="GitHub Stats"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmayormartins&layout=compact&theme=github_dark" alt="Top Languages"/>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=rmayormartins&theme=transparent&hide_border=true&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rmayormartins&theme=transparent" alt="Profile Summary"/>
+</div>
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://ssr-contributions-svg.vercel.app/_/rmayormartins?chart=3dbar&gap=0.6&scale=2&flatten=1&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=15&theme=blue&widget_size=small" alt="GitHub Contribution Graph"/>
+    </td>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rmayormartins&theme=transparent&utcOffset=-3" alt="GitHub Productive Time"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rmayormartins&theme=transparent" alt="GitHub Repos per Language"/>
+    </td>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rmayormartins&theme=transparent" alt="GitHub Most Commit Language"/>
+    </td>
+  </tr>
+</table>
+
+<p align="center"><sub><img src="https://visitor-badge.laobi.icu/badge?page_id=rmayormartins.rmayormartins" alt="Visitors"></sub></p>
+
+</details>
+
+#### <img src="assets/sec-city.svg" width="100%" alt="Section 09: GITHUB CITY. commits rendered as a city.">
+
 <div align="center">
   <a href="https://honzaap.github.io/GithubCity/?name=rmayormartins&year=2025">
     <img src="githubcity.png" alt="GitHub City" width="200">
@@ -331,9 +286,7 @@ Also is pursuing a Postdoctoral research in Educational Games (UFSC).
   </a>
 </div>
 
----
-
-#### Topic Pursuit 🎯💻
+#### <img src="assets/sec-topics.svg" width="100%" alt="Section 10: TOPIC PURSUIT. what is on the bench right now.">
 
 <table align="center">
   <tr>
@@ -346,16 +299,15 @@ Also is pursuing a Postdoctoral research in Educational Games (UFSC).
   </tr>
 </table>
 
----
+#### <img src="assets/sec-memorial.svg" width="100%" alt="Section 11: MEMORIAL 1988-1998. the machines that started it.">
 
 <!--
-  My Memorial: versao corrigida.
+  My Memorial : versao corrigida.
   Cada imagem passa por https://images.weserv.nl/ que faz crop+resize no servidor,
   garantindo 140x80 uniformes mesmo que o GitHub Markdown ignore width/height.
   Parametros: w=140, h=80, fit=cover (crop centralizado), a=attention (foco no centro de interesse).
 -->
 
-#### My Memorial (1988-1998) 🗿💻
 
 <table align="center">
   <tr>
@@ -399,11 +351,16 @@ Also is pursuing a Postdoctoral research in Educational Games (UFSC).
     <td></td>
   </tr>
 </table>
----
-#### My statements
+
+#### <img src="assets/sec-statements.svg" width="100%" alt="Section 12: STATEMENTS &amp; CONTACT. for the record.">
+
 <sub>📃💻[In honor of Alan Turing](https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf)</sub><br>
 <sub>📢💻[In defense of the Goto statement](https://koblents.com/Ches/Links/Month-Mar-2013/20-Using-Goto-in-Linux-Kernel-Code/)</sub><br>
 
 <sub>_...And eternal love with: Computer: XT, MSX; Processor: Zilog Z80; instructions: goto, gosub, gotoxy; libraries: graphics.h, conio.h, Allegro; IDEs: QBasic, Turbo C, devc++ and codeblock_</sub><br>
 
----
+<p align="center">
+  <img src="assets/panel-contact.svg" width="100%" alt="Contact: INSTITUTIONAL: ramon.mayor at ifsc.edu.br; PERSONAL: mayor at linuxmail.org; PROFILE: rmayormartins.github.io">
+</p>
+
+<p align="center"><sub>ramon.mayor at ifsc.edu.br  ·  mayor at linuxmail.org  ·  callsign PU4MAY</sub></p>
