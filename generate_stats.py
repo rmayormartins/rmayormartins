@@ -29,6 +29,7 @@ import html
 import json
 import math
 import os
+import re
 import time
 import urllib.error
 import urllib.request
@@ -964,7 +965,19 @@ def main():
     ap.add_argument("--offline", help="gera a partir de um snapshot JSON salvo")
     ap.add_argument("--dump", help="salva o snapshot buscado neste arquivo JSON")
     ap.add_argument("--now", help="data/hora de referência (ISO, UTC), útil em testes")
+    ap.add_argument("--no-theme", action="store_true",
+                    help="não regenerar os assets de estilo (generate_theme.py)")
     args = ap.parse_args()
+
+    # A identidade visual do README (hero, faixas, painéis, cartões) vem do
+    # generate_theme.py. Rodar aqui também evita README com imagem faltando
+    # se o passo correspondente do workflow não existir ou não tiver rodado.
+    if not args.no_theme:
+        try:
+            import generate_theme
+            generate_theme.main()
+        except Exception as exc:
+            print(f"Aviso: identidade visual nao gerada ({exc}).")
 
     if args.offline:
         with open(args.offline, encoding="utf-8") as f:
@@ -997,6 +1010,15 @@ def main():
         with open(README_PATH, "w", encoding="utf-8") as f:
             f.write(updated)
     print(f"OK: {SVG_PATH} e README.md atualizados ({m['n']} repositórios).")
+
+    # Confere se todo arquivo que o README aponta existe mesmo (imagem quebrada
+    # no perfil é silenciosa; aqui ela aparece no log da Action).
+    missing = sorted({p for p in re.findall(r'src="(assets/[^"]+)"', updated)
+                      if not os.path.exists(p)})
+    if missing:
+        print("AVISO: o README aponta para arquivos que nao existem: " + ", ".join(missing))
+    else:
+        print("OK: todos os arquivos referenciados pelo README existem.")
 
 
 if __name__ == "__main__":
