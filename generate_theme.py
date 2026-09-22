@@ -36,8 +36,10 @@ ASSETS = "assets"
 NAME = "RAMON MAYOR MARTINS"
 DEGREE = "Ph.D."
 ROLES = [
-    "Associate Professor · Telecommunications Engineering · IFSC São José",
-    "Research & Innovation Coordinator · Postdoc in Educational Games (UFSC)",
+    "Associate Professor · Telecommunications Area · IFSC São José",
+    "Research & Innovation Coordinator · IFSC São José",
+    "Postdoctoral research in Educational Games · UFSC, 2026",
+    "Ph.D. Computer Science · UFSC, 2026",
 ]
 HERO_CHIPS = ["MACHINE LEARNING", "SATELLITE COMMS", "RF & TELECOM", "CS EDUCATION"]
 STATION = [
