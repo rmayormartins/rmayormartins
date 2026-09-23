@@ -26,6 +26,13 @@ import os
 
 from generate_stats import C, MONO, SANS, Svg, esc, svg_style
 
+# Fonte do site rmayormartins.github.io. Os .b64 são subconjuntos WOFF2 (licença
+# SIL OFL, ver fonts/SourceCodePro-OFL.txt) embutidos no SVG: imagem SVG no
+# GitHub não carrega fonte externa, então ela vai junto, em base64.
+FONT_FAMILY = "Source Code Pro"
+FONT_FILES = {400: "fonts/source-code-pro-400.b64", 700: "fonts/source-code-pro-700.b64"}
+EMBED_FONT_IN = {"hero"}  # peças: hero, section, panel, card (cada uma cresce ~18 KB)
+
 W = 900          # mesma largura do painel de telemetria
 PAD = 22
 ASSETS = "assets"
@@ -36,10 +43,9 @@ ASSETS = "assets"
 NAME = "RAMON MAYOR MARTINS"
 DEGREE = "Ph.D."
 ROLES = [
-    "Associate Professor · Telecommunications Area · IFSC São José",
+    "Associate Professor · Telecommunications Engineering · IFSC São José",
     "Research & Innovation Coordinator · IFSC São José",
-    "Postdoctoral research in Educational Games · UFSC, 2026",
-    "Ph.D. Computer Science · UFSC, 2026",
+    "Postdoctoral research in Educational Games · UFSC, 2025",
 ]
 HERO_CHIPS = ["MACHINE LEARNING", "SATELLITE COMMS", "RF & TELECOM", "CS EDUCATION"]
 STATION = [
@@ -175,8 +181,40 @@ EXTRA_CSS = f"""
 """
 
 
-def head(w, h, title, desc):
-    style = svg_style().replace("</style>", EXTRA_CSS + "</style>")
+_FONT_CACHE = {}
+
+
+def font_css(part):
+    """@font-face com a fonte embutida em base64, para a peça pedida."""
+    if part not in EMBED_FONT_IN:
+        return ""
+    if "css" in _FONT_CACHE:
+        return _FONT_CACHE["css"]
+    faces = []
+    for weight, path in sorted(FONT_FILES.items()):
+        if not os.path.exists(path):
+            continue
+        with open(path, encoding="utf-8") as f:
+            b64 = f.read().strip()
+        faces.append(f"@font-face{{font-family:'{FONT_FAMILY}';font-style:normal;"
+                     f"font-weight:{weight};src:url(data:font/woff2;base64,{b64}) "
+                     "format('woff2');}")
+    if not faces:
+        print(f"Aviso: fonte {FONT_FAMILY} nao encontrada em fonts/, usando a do sistema.")
+        _FONT_CACHE["css"] = ""
+        return ""
+    stack = f"'{FONT_FAMILY}',{MONO}"
+    _FONT_CACHE["css"] = ("".join(faces) + f"text{{font-family:{stack};}}"
+                          f".name{{font-family:{stack};letter-spacing:-0.6px;}}")
+    return _FONT_CACHE["css"]
+
+
+def font_embedded(part):
+    return bool(font_css(part))
+
+
+def head(w, h, title, desc, part=None):
+    style = svg_style().replace("</style>", EXTRA_CSS + font_css(part) + "</style>")
     return (f'<svg xmlns="http://www.w3.org/2000/svg" width="{w}" height="{h:.0f}" '
             f'viewBox="0 0 {w} {h:.0f}" role="img" aria-labelledby="t d">'
             f'<title id="t">{esc(title)}</title><desc id="d">{esc(desc)}</desc>{style}'
@@ -253,8 +291,10 @@ def hero():
         s.text(bx + bw - 16, yy, esc(v), "kv2", "end")
 
     # nome e cargos (corpo ajustado para nunca invadir o bloco da direita)
+    # Source Code Pro é monoespaçada: avanço fixo de 0.6 em por caractere.
+    ratio, cap = (0.6, 42) if font_embedded("hero") else (0.78, 38)
     room = bx - PAD - 90                      # 90 reservados para o "Ph.D."
-    size = min(38, room / max(len(NAME) * 0.78, 1))
+    size = min(cap, room / max(len(NAME) * ratio, 1))
     s.add(f'<text x="{PAD}" y="102" class="name" style="font-size:{size:.1f}px">{esc(NAME)}'
           f'<tspan class="deg" dx="12">{esc(DEGREE)}</tspan></text>')
     s.add(f'<path d="M{PAD},118.5H{PAD + 250}" stroke="url(#fade)" stroke-width="2"/>')
@@ -270,7 +310,7 @@ def hero():
         x += cw + 8
 
     desc = f"{NAME}, {DEGREE} " + ". ".join(ROLES) + ". Callsign PU4MAY."
-    return head(W, h, f"{NAME} profile banner", desc) + "".join(s.parts) + "</svg>\n"
+    return head(W, h, f"{NAME} profile banner", desc, "hero") + "".join(s.parts) + "</svg>\n"
 
 
 def section(index, title, note):
@@ -291,7 +331,8 @@ def section(index, title, note):
     s.add('<g opacity=".65">' + "".join(
         f'<path d="M{hatch_x + i * 6},16 l-7,14" stroke="{C["accent"]}" stroke-width="1.4"/>'
         for i in range(3)) + "</g>")
-    return head(W, h, f"{title} section", f"Section {index}: {title}. {note}.") + "".join(s.parts) + "</svg>\n"
+    return (head(W, h, f"{title} section", f"Section {index}: {title}. {note}.", "section")
+            + "".join(s.parts) + "</svg>\n")
 
 
 def wrap_lines(text, width_px, size):
@@ -342,7 +383,7 @@ def panel_profile():
 
     desc = ("Research interests: " + "; ".join(t for _, t in INTERESTS)
             + ". Operator profile: " + "; ".join(f"{t} ({u})" for _, t, u in OPERATOR) + ".")
-    return head(W, h, "Mission profile", desc) + "".join(s.parts) + "</svg>\n"
+    return head(W, h, "Mission profile", desc, "panel") + "".join(s.parts) + "</svg>\n"
 
 
 def chips_rows(items, x0, width, size=11.5, spacing=0.8, pad=26, gap=8):
@@ -393,7 +434,7 @@ def panel_stack():
             x += cw + 8
         y += 32
     desc = "Tech stack: " + ", ".join(STACK) + ". Revoltz stack: " + ", ".join(REVOLTZ) + "."
-    return head(W, h, "Tech stack", desc) + "".join(s.parts) + "</svg>\n"
+    return head(W, h, "Tech stack", desc, "panel") + "".join(s.parts) + "</svg>\n"
 
 
 def link_card(kind, title, sub, url, w=430, h=92):
@@ -409,7 +450,7 @@ def link_card(kind, title, sub, url, w=430, h=92):
     s.text(56, 78, esc(url), "cu")
     s.add(f'<path d="M{w - 34},{h / 2 - 6} l7,6 l-7,6" fill="none" stroke="{C["accent"]}" '
           f'stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>')
-    return head(w, h, title, f"{title}: {sub}. Link: {url}") + "".join(s.parts) + "</svg>\n"
+    return head(w, h, title, f"{title}: {sub}. Link: {url}", "card") + "".join(s.parts) + "</svg>\n"
 
 
 def panel_contact():
@@ -425,7 +466,7 @@ def panel_contact():
         s.text(x + i * colw + 28, 84, esc(value), "kv2")
     s.text(W / 2, h - 22, esc(FOOTER_NOTE), "tiny", "middle")
     desc = "Contact: " + "; ".join(f"{k}: {v}" for k, v in CONTACT)
-    return head(W, h, "Contact", desc) + "".join(s.parts) + "</svg>\n"
+    return head(W, h, "Contact", desc, "panel") + "".join(s.parts) + "</svg>\n"
 
 
 def main():
