@@ -960,6 +960,24 @@ def render_markdown(m):
 # =============================================================================
 # Execução
 # =============================================================================
+def sync_alt_texts(readme):
+    """Mantém o alt das imagens de assets/ igual ao <desc> do próprio SVG, para
+    o texto alternativo não ficar defasado quando o conteúdo do painel muda."""
+    def fix(match):
+        src, alt = match.group(1), match.group(2)
+        try:
+            with open(src, encoding="utf-8") as f:
+                svg = f.read()
+        except OSError:
+            return match.group(0)
+        found = re.search(r'<desc id="d">(.*?)</desc>', svg, re.S)
+        if not found or found.group(1) == alt:
+            return match.group(0)
+        return match.group(0).replace(f'alt="{alt}"', f'alt="{found.group(1)}"')
+
+    return re.sub(r'<img src="(assets/[^"]+\.svg)"[^>]*? alt="([^"]*)"', fix, readme)
+
+
 def main():
     ap = argparse.ArgumentParser(description="Atualiza o painel My Stats Action do README.")
     ap.add_argument("--offline", help="gera a partir de um snapshot JSON salvo")
@@ -1005,7 +1023,7 @@ def main():
     s, e = readme.find(START_MARK), readme.find(END_MARK)
     if s == -1 or e == -1:
         raise SystemExit(f"Marcadores {START_MARK} / {END_MARK} não encontrados no README.md")
-    updated = readme[:s] + render_markdown(m) + readme[e + len(END_MARK):]
+    updated = sync_alt_texts(readme[:s] + render_markdown(m) + readme[e + len(END_MARK):])
     if updated != readme:
         with open(README_PATH, "w", encoding="utf-8") as f:
             f.write(updated)
