@@ -1,22 +1,22 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="128" viewBox="0 0 900 128" role="img" aria-labelledby="t d"><title id="t">Contact</title><desc id="d">Contact: INSTITUTIONAL: ramon.mayor at ifsc.edu.br; PERSONAL: mayor at linuxmail.org; PROFILE: rmayormartins.github.io</desc><style>
 text{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace;}
-.h1{font-size:15px;font-weight:700;letter-spacing:2.4px;fill:#e6edf3;}
-.h1d{font-size:15px;font-weight:400;letter-spacing:.5px;fill:#7d8da0;}
-.hs{font-size:12px;letter-spacing:.8px;fill:#7d8da0;}
-.hb{font-size:12px;font-weight:700;letter-spacing:1.2px;fill:#a8b6c5;}
-.kl{font-size:11.5px;font-weight:600;letter-spacing:1px;fill:#7d8da0;}
-.kv{font-family:system-ui,-apple-system,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:30px;font-weight:600;fill:#e6edf3;}
-.ku{font-family:system-ui,-apple-system,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:15px;font-weight:500;fill:#a8b6c5;}
-.ks{font-size:12px;fill:#a8b6c5;}
-.pt{font-size:12.5px;font-weight:700;letter-spacing:1.8px;fill:#e6edf3;}
-.pn{font-size:12px;fill:#7d8da0;}
-.lb{font-size:12.5px;fill:#a8b6c5;}
-.vl{font-size:12.5px;font-weight:700;fill:#e6edf3;}
-.ax{font-size:12px;fill:#7d8da0;}
-.st{font-size:12px;fill:#7d8da0;}
-.sv{font-size:12px;font-weight:700;fill:#e6edf3;}
-.ch{font-size:11.5px;font-weight:600;letter-spacing:1px;fill:#a8b6c5;}
-.ft{font-size:11.5px;letter-spacing:.5px;fill:#7d8da0;}
+.h1{font-size:15px;font-weight:700;letter-spacing:2.4px;fill:#1d1f21;}
+.h1d{font-size:15px;font-weight:400;letter-spacing:.5px;fill:#666666;}
+.hs{font-size:12px;letter-spacing:.8px;fill:#666666;}
+.hb{font-size:12px;font-weight:700;letter-spacing:1.2px;fill:#333333;}
+.kl{font-size:11.5px;font-weight:600;letter-spacing:1px;fill:#666666;}
+.kv{font-family:system-ui,-apple-system,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:30px;font-weight:600;fill:#1d1f21;}
+.ku{font-family:system-ui,-apple-system,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:15px;font-weight:500;fill:#333333;}
+.ks{font-size:12px;fill:#333333;}
+.pt{font-size:12.5px;font-weight:700;letter-spacing:1.8px;fill:#1d1f21;}
+.pn{font-size:12px;fill:#666666;}
+.lb{font-size:12.5px;fill:#333333;}
+.vl{font-size:12.5px;font-weight:700;fill:#1d1f21;}
+.ax{font-size:12px;fill:#666666;}
+.st{font-size:12px;fill:#666666;}
+.sv{font-size:12px;font-weight:700;fill:#1d1f21;}
+.ch{font-size:11.5px;font-weight:600;letter-spacing:1px;fill:#333333;}
+.ft{font-size:11.5px;letter-spacing:.5px;fill:#666666;}
 .led{animation:pulse 2.4s ease-in-out infinite;}
 .gx{transform-box:fill-box;transform-origin:left center;animation:gx .9s cubic-bezier(.2,.7,.2,1) both;}
 .gy{transform-box:fill-box;transform-origin:center bottom;animation:gy .9s cubic-bezier(.2,.7,.2,1) both;}
@@ -27,22 +27,22 @@ text{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberatio
 @keyframes sw{from{opacity:0}to{opacity:1}}
 @media (prefers-reduced-motion:reduce){.led,.gx,.gy,.sw{animation:none}}
 
-.name{font-family:system-ui,-apple-system,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:40px;font-weight:700;letter-spacing:.5px;fill:#e6edf3;}
-.deg{font-family:system-ui,-apple-system,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:18px;font-weight:500;fill:#3987e5;}
-.role{font-size:13px;fill:#a8b6c5;}
-.tiny{font-size:11px;letter-spacing:1px;fill:#7d8da0;}
-.sec{font-size:15px;font-weight:700;letter-spacing:3px;fill:#e6edf3;}
-.secn{font-size:15px;font-weight:700;letter-spacing:1px;fill:#3987e5;}
-.secs{font-size:11.5px;letter-spacing:.5px;fill:#7d8da0;}
-.ct{font-size:14.5px;font-weight:700;letter-spacing:.6px;fill:#e6edf3;}
-.cs{font-size:11.5px;fill:#a8b6c5;}
-.cu{font-size:11.5px;fill:#3987e5;}
-.it{font-size:12.5px;fill:#a8b6c5;}
-.ib{font-size:12.5px;font-weight:700;fill:#e6edf3;}
-.kt{font-size:11.5px;font-weight:600;letter-spacing:1px;fill:#7d8da0;}
-.kv2{font-size:12.5px;font-weight:700;fill:#e6edf3;}
-.pill{font-size:11.5px;letter-spacing:.8px;fill:#a8b6c5;}
-.pilld{font-size:11.5px;letter-spacing:.8px;fill:#7d8da0;}
-.orbiter{fill:#3987e5;}
+.name{font-family:system-ui,-apple-system,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:40px;font-weight:700;letter-spacing:.5px;fill:#1d1f21;}
+.deg{font-family:system-ui,-apple-system,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:18px;font-weight:500;fill:#267CB9;}
+.role{font-size:13px;fill:#333333;}
+.tiny{font-size:11px;letter-spacing:1px;fill:#666666;}
+.sec{font-size:15px;font-weight:700;letter-spacing:3px;fill:#1d1f21;}
+.secn{font-size:15px;font-weight:700;letter-spacing:1px;fill:#267CB9;}
+.secs{font-size:11.5px;letter-spacing:.5px;fill:#666666;}
+.ct{font-size:14.5px;font-weight:700;letter-spacing:.6px;fill:#1d1f21;}
+.cs{font-size:11.5px;fill:#333333;}
+.cu{font-size:11.5px;fill:#267CB9;}
+.it{font-size:12.5px;fill:#333333;}
+.ib{font-size:12.5px;font-weight:700;fill:#1d1f21;}
+.kt{font-size:11.5px;font-weight:600;letter-spacing:1px;fill:#666666;}
+.kv2{font-size:12.5px;font-weight:700;fill:#1d1f21;}
+.pill{font-size:11.5px;letter-spacing:.8px;fill:#333333;}
+.pilld{font-size:11.5px;letter-spacing:.8px;fill:#666666;}
+.orbiter{fill:#267CB9;}
 @media (prefers-reduced-motion:reduce){.orbiter{display:none}}
-</style><defs><pattern id="dots" width="14" height="14" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".8" fill="#ffffff" fill-opacity=".05"/></pattern><linearGradient id="fade" x1="0" x2="1"><stop offset="0" stop-color="#3987e5" stop-opacity=".55"/><stop offset="1" stop-color="#3987e5" stop-opacity="0"/></linearGradient></defs><rect x=".5" y=".5" width="899" height="127" rx="12" fill="#0a0f16" stroke="#1c2836"/><rect x=".5" y=".5" width="899" height="127" rx="12" fill="url(#dots)"/><rect x="22.0" y="16.0" width="856.0" height="96.0" rx="3" fill="#0f1722" stroke="#1c2836"/><path d="M22.0,25.0V16.0H31.0M869.0,16.0H878.0V25.0M878.0,103.0V112.0H869.0M31.0,112.0H22.0V103.0" fill="none" stroke="#3987e5" stroke-width="1.5" stroke-opacity=".7"/><text x="38.0" y="42.0" class="pt">CONTACT</text><text x="862.0" y="42.0" class="pn" text-anchor="end">open channels</text><path d="M38.0,54.5H862.0" stroke="#1c2836"/><g transform="translate(38.0,58.0) scale(0.9)" fill="none" stroke="#3987e5" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><rect x="2.5" y="5" width="15" height="10" rx="1.5"/><path d="m3.5 6.5 6.5 5 6.5-5"/></g><text x="66.0" y="66.0" class="kt">INSTITUTIONAL</text><text x="66.0" y="84.0" class="kv2">ramon.mayor at ifsc.edu.br</text><g transform="translate(312.7,58.0) scale(0.9)" fill="none" stroke="#3987e5" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><rect x="2.5" y="5" width="15" height="10" rx="1.5"/><path d="m3.5 6.5 6.5 5 6.5-5"/></g><text x="340.7" y="66.0" class="kt">PERSONAL</text><text x="340.7" y="84.0" class="kv2">mayor at linuxmail.org</text><g transform="translate(587.3,58.0) scale(0.9)" fill="none" stroke="#3987e5" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><circle cx="10" cy="10" r="7"/><path d="M3 10h14"/><path d="M10 3a11 11 0 0 1 0 14a11 11 0 0 1 0-14z"/></g><text x="615.3" y="66.0" class="kt">PROFILE</text><text x="615.3" y="84.0" class="kv2">rmayormartins.github.io</text><text x="450.0" y="106.0" class="tiny" text-anchor="middle">73 de PU4MAY · built with Python + GitHub Actions</text></svg>
+</style><defs><pattern id="dots" width="14" height="14" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".8" fill="#ffffff" fill-opacity=".05"/></pattern><linearGradient id="fade" x1="0" x2="1"><stop offset="0" stop-color="#267CB9" stop-opacity=".55"/><stop offset="1" stop-color="#267CB9" stop-opacity="0"/></linearGradient></defs><rect x=".5" y=".5" width="899" height="127" rx="12" fill="#ffffff" stroke="#e5e5e5"/><rect x=".5" y=".5" width="899" height="127" rx="12" fill="url(#dots)"/><rect x="22.0" y="16.0" width="856.0" height="96.0" rx="3" fill="#fafafa" stroke="#e5e5e5"/><path d="M22.0,25.0V16.0H31.0M869.0,16.0H878.0V25.0M878.0,103.0V112.0H869.0M31.0,112.0H22.0V103.0" fill="none" stroke="#267CB9" stroke-width="1.5" stroke-opacity=".7"/><text x="38.0" y="42.0" class="pt">CONTACT</text><text x="862.0" y="42.0" class="pn" text-anchor="end">open channels</text><path d="M38.0,54.5H862.0" stroke="#e5e5e5"/><g transform="translate(38.0,58.0) scale(0.9)" fill="none" stroke="#267CB9" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><rect x="2.5" y="5" width="15" height="10" rx="1.5"/><path d="m3.5 6.5 6.5 5 6.5-5"/></g><text x="66.0" y="66.0" class="kt">INSTITUTIONAL</text><text x="66.0" y="84.0" class="kv2">ramon.mayor at ifsc.edu.br</text><g transform="translate(312.7,58.0) scale(0.9)" fill="none" stroke="#267CB9" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><rect x="2.5" y="5" width="15" height="10" rx="1.5"/><path d="m3.5 6.5 6.5 5 6.5-5"/></g><text x="340.7" y="66.0" class="kt">PERSONAL</text><text x="340.7" y="84.0" class="kv2">mayor at linuxmail.org</text><g transform="translate(587.3,58.0) scale(0.9)" fill="none" stroke="#267CB9" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><circle cx="10" cy="10" r="7"/><path d="M3 10h14"/><path d="M10 3a11 11 0 0 1 0 14a11 11 0 0 1 0-14z"/></g><text x="615.3" y="66.0" class="kt">PROFILE</text><text x="615.3" y="84.0" class="kv2">rmayormartins.github.io</text><text x="450.0" y="106.0" class="tiny" text-anchor="middle">73 de PU4MAY · built with Python + GitHub Actions</text></svg>

@@ -1,22 +1,22 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="46" viewBox="0 0 900 46" role="img" aria-labelledby="t d"><title id="t">TECH STACK section</title><desc id="d">Section 07: TECH STACK. languages, libraries and rigs.</desc><style>
 text{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace;}
-.h1{font-size:15px;font-weight:700;letter-spacing:2.4px;fill:#e6edf3;}
-.h1d{font-size:15px;font-weight:400;letter-spacing:.5px;fill:#7d8da0;}
-.hs{font-size:12px;letter-spacing:.8px;fill:#7d8da0;}
-.hb{font-size:12px;font-weight:700;letter-spacing:1.2px;fill:#a8b6c5;}
-.kl{font-size:11.5px;font-weight:600;letter-spacing:1px;fill:#7d8da0;}
-.kv{font-family:system-ui,-apple-system,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:30px;font-weight:600;fill:#e6edf3;}
-.ku{font-family:system-ui,-apple-system,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:15px;font-weight:500;fill:#a8b6c5;}
-.ks{font-size:12px;fill:#a8b6c5;}
-.pt{font-size:12.5px;font-weight:700;letter-spacing:1.8px;fill:#e6edf3;}
-.pn{font-size:12px;fill:#7d8da0;}
-.lb{font-size:12.5px;fill:#a8b6c5;}
-.vl{font-size:12.5px;font-weight:700;fill:#e6edf3;}
-.ax{font-size:12px;fill:#7d8da0;}
-.st{font-size:12px;fill:#7d8da0;}
-.sv{font-size:12px;font-weight:700;fill:#e6edf3;}
-.ch{font-size:11.5px;font-weight:600;letter-spacing:1px;fill:#a8b6c5;}
-.ft{font-size:11.5px;letter-spacing:.5px;fill:#7d8da0;}
+.h1{font-size:15px;font-weight:700;letter-spacing:2.4px;fill:#1d1f21;}
+.h1d{font-size:15px;font-weight:400;letter-spacing:.5px;fill:#666666;}
+.hs{font-size:12px;letter-spacing:.8px;fill:#666666;}
+.hb{font-size:12px;font-weight:700;letter-spacing:1.2px;fill:#333333;}
+.kl{font-size:11.5px;font-weight:600;letter-spacing:1px;fill:#666666;}
+.kv{font-family:system-ui,-apple-system,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:30px;font-weight:600;fill:#1d1f21;}
+.ku{font-family:system-ui,-apple-system,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:15px;font-weight:500;fill:#333333;}
+.ks{font-size:12px;fill:#333333;}
+.pt{font-size:12.5px;font-weight:700;letter-spacing:1.8px;fill:#1d1f21;}
+.pn{font-size:12px;fill:#666666;}
+.lb{font-size:12.5px;fill:#333333;}
+.vl{font-size:12.5px;font-weight:700;fill:#1d1f21;}
+.ax{font-size:12px;fill:#666666;}
+.st{font-size:12px;fill:#666666;}
+.sv{font-size:12px;font-weight:700;fill:#1d1f21;}
+.ch{font-size:11.5px;font-weight:600;letter-spacing:1px;fill:#333333;}
+.ft{font-size:11.5px;letter-spacing:.5px;fill:#666666;}
 .led{animation:pulse 2.4s ease-in-out infinite;}
 .gx{transform-box:fill-box;transform-origin:left center;animation:gx .9s cubic-bezier(.2,.7,.2,1) both;}
 .gy{transform-box:fill-box;transform-origin:center bottom;animation:gy .9s cubic-bezier(.2,.7,.2,1) both;}
@@ -27,22 +27,22 @@ text{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberatio
 @keyframes sw{from{opacity:0}to{opacity:1}}
 @media (prefers-reduced-motion:reduce){.led,.gx,.gy,.sw{animation:none}}
 
-.name{font-family:system-ui,-apple-system,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:40px;font-weight:700;letter-spacing:.5px;fill:#e6edf3;}
-.deg{font-family:system-ui,-apple-system,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:18px;font-weight:500;fill:#3987e5;}
-.role{font-size:13px;fill:#a8b6c5;}
-.tiny{font-size:11px;letter-spacing:1px;fill:#7d8da0;}
-.sec{font-size:15px;font-weight:700;letter-spacing:3px;fill:#e6edf3;}
-.secn{font-size:15px;font-weight:700;letter-spacing:1px;fill:#3987e5;}
-.secs{font-size:11.5px;letter-spacing:.5px;fill:#7d8da0;}
-.ct{font-size:14.5px;font-weight:700;letter-spacing:.6px;fill:#e6edf3;}
-.cs{font-size:11.5px;fill:#a8b6c5;}
-.cu{font-size:11.5px;fill:#3987e5;}
-.it{font-size:12.5px;fill:#a8b6c5;}
-.ib{font-size:12.5px;font-weight:700;fill:#e6edf3;}
-.kt{font-size:11.5px;font-weight:600;letter-spacing:1px;fill:#7d8da0;}
-.kv2{font-size:12.5px;font-weight:700;fill:#e6edf3;}
-.pill{font-size:11.5px;letter-spacing:.8px;fill:#a8b6c5;}
-.pilld{font-size:11.5px;letter-spacing:.8px;fill:#7d8da0;}
-.orbiter{fill:#3987e5;}
+.name{font-family:system-ui,-apple-system,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:40px;font-weight:700;letter-spacing:.5px;fill:#1d1f21;}
+.deg{font-family:system-ui,-apple-system,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;font-size:18px;font-weight:500;fill:#267CB9;}
+.role{font-size:13px;fill:#333333;}
+.tiny{font-size:11px;letter-spacing:1px;fill:#666666;}
+.sec{font-size:15px;font-weight:700;letter-spacing:3px;fill:#1d1f21;}
+.secn{font-size:15px;font-weight:700;letter-spacing:1px;fill:#267CB9;}
+.secs{font-size:11.5px;letter-spacing:.5px;fill:#666666;}
+.ct{font-size:14.5px;font-weight:700;letter-spacing:.6px;fill:#1d1f21;}
+.cs{font-size:11.5px;fill:#333333;}
+.cu{font-size:11.5px;fill:#267CB9;}
+.it{font-size:12.5px;fill:#333333;}
+.ib{font-size:12.5px;font-weight:700;fill:#1d1f21;}
+.kt{font-size:11.5px;font-weight:600;letter-spacing:1px;fill:#666666;}
+.kv2{font-size:12.5px;font-weight:700;fill:#1d1f21;}
+.pill{font-size:11.5px;letter-spacing:.8px;fill:#333333;}
+.pilld{font-size:11.5px;letter-spacing:.8px;fill:#666666;}
+.orbiter{fill:#267CB9;}
 @media (prefers-reduced-motion:reduce){.orbiter{display:none}}
-</style><defs><pattern id="dots" width="14" height="14" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".8" fill="#ffffff" fill-opacity=".05"/></pattern><linearGradient id="fade" x1="0" x2="1"><stop offset="0" stop-color="#3987e5" stop-opacity=".55"/><stop offset="1" stop-color="#3987e5" stop-opacity="0"/></linearGradient></defs><rect x=".5" y=".5" width="899" height="45" rx="6" fill="#0a0f16" stroke="#1c2836"/><rect x="1" y="1" width="4" height="44" rx="2" fill="#3987e5"/><text x="22.0" y="30.0" class="secn">07</text><text x="56.0" y="30.0" class="sec">TECH STACK</text><text x="838.0" y="30.0" class="secs" text-anchor="end">languages, libraries and rigs</text><path d="M197.0,23.5H604.7" stroke="#1c2836"/><g opacity=".65"><path d="M852,16 l-7,14" stroke="#3987e5" stroke-width="1.4"/><path d="M858,16 l-7,14" stroke="#3987e5" stroke-width="1.4"/><path d="M864,16 l-7,14" stroke="#3987e5" stroke-width="1.4"/></g></svg>
+</style><defs><pattern id="dots" width="14" height="14" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".8" fill="#ffffff" fill-opacity=".05"/></pattern><linearGradient id="fade" x1="0" x2="1"><stop offset="0" stop-color="#267CB9" stop-opacity=".55"/><stop offset="1" stop-color="#267CB9" stop-opacity="0"/></linearGradient></defs><rect x=".5" y=".5" width="899" height="45" rx="6" fill="#ffffff" stroke="#e5e5e5"/><rect x="1" y="1" width="4" height="44" rx="2" fill="#267CB9"/><text x="22.0" y="30.0" class="secn">07</text><text x="56.0" y="30.0" class="sec">TECH STACK</text><text x="838.0" y="30.0" class="secs" text-anchor="end">languages, libraries and rigs</text><path d="M197.0,23.5H604.7" stroke="#e5e5e5"/><g opacity=".65"><path d="M852,16 l-7,14" stroke="#267CB9" stroke-width="1.4"/><path d="M858,16 l-7,14" stroke="#267CB9" stroke-width="1.4"/><path d="M864,16 l-7,14" stroke="#267CB9" stroke-width="1.4"/></g></svg>

@@ -54,7 +54,7 @@ He is currently the Research and Innovation Coordinator at the IFSC São José C
 <!--START_STATS-->
 
 <p align="center">
-  <img src="assets/telemetry.svg" width="100%" alt="GitHub telemetry dashboard for rmayormartins: 79 repositories, 24 stars, 76 forks, 26 GitHub Pages sites, top language Python, 601 contributions in the last 12 months">
+  <img src="assets/telemetry.svg" width="100%" alt="GitHub telemetry dashboard for rmayormartins: 79 repositories, 24 stars, 76 forks, 26 GitHub Pages sites, top language Python, 604 contributions in the last 12 months">
 </p>
 
 <img src="assets/lbl-act.svg" width="100%" alt="LATEST ACTIVITY: last 6 repositories pushed">
@@ -87,17 +87,17 @@ He is currently the Research and Innovation Coordinator at the IFSC São José C
 | Star std deviation | **1.92** | Fork std deviation | **7.37** |
 | Repos with 5+ stars | **1** | Repos with 0 stars | **71** |
 | Forks > stars | **3 repos** | Avg repo size | **4.9 MB** |
-| Largest repo | **starlink-commander (301.2 MB)** | Total size | **389.7 MB** |
+| Largest repo | **starlink-commander (301.9 MB)** | Total size | **390.4 MB** |
 | Most common language | **Python** | Unique languages | **10** |
 | Top languages | **Python (27), HTML (23), Jupyter Notebook (9)** | GitHub Pages sites | **26** |
 | Pushed in last 90 days | **11 (13.9%)** | Avg open issues per repo | **0.01** |
 | Most starred | **IFSC-Codespace-ENG-ADS-JAVA-POO (17)** | Most forked | **IFSC-Codespace-ENG-ADS-JAVA-POO (65)** |
-| Latest push | **ai-news-radar (today)** | Longest dormant | **TELE-RF-Arduino-nRF24L01 (1,963 d)** |
+| Latest push | **ai-news-radar (today)** | Longest dormant | **TELE-RF-Arduino-nRF24L01 (1,964 d)** |
 | First repository | **rmayormartins.github.io (2021-05-07)** | Newest repository | **ifsc-python (2026-07-27)** |
 | Repos with open issues | **1 (REPL-PY-pygames-dragster)** | Followers | **58** |
-| Contributions (12 mo) | **601** | Commits (12 mo) | **570** |
-| Longest streak | **9 days** | Current streak | **1 days** |
-| Best day | **28 (2026-09-22)** | Active days (12 mo) | **78** |
+| Contributions (12 mo) | **604** | Commits (12 mo) | **573** |
+| Longest streak | **9 days** | Current streak | **2 days** |
+| Best day | **28 (2026-09-22)** | Active days (12 mo) | **79** |
 
 **Achievements:** 🏅 50+ Repos · 🏅 20+ Stars · 🏅 50+ Forks · 🏅 25+ Sites · 🏅 10+ Years · 🏅 500+ Contrib/Yr
 
@@ -142,8 +142,8 @@ He is currently the Research and Innovation Coordinator at the IFSC São José C
 
 | Repository | Language | ⭐ | 🍴 | Created | Last push | Signal |
 |:--|:--|--:|--:|:--|--:|:-:|
-| [ai-news-radar](https://github.com/rmayormartins/ai-news-radar) [🌐](https://rmayormartins.github.io/ai-news-radar/) | HTML | 0 | 0 | Jun 2026 | today | <img src="assets/signal-5.svg" height="14" alt="signal 5/5"> |
 | [rmayormartins](https://github.com/rmayormartins/rmayormartins) | Python | 0 | 0 | May 2021 | today | <img src="assets/signal-5.svg" height="14" alt="signal 5/5"> |
+| [ai-news-radar](https://github.com/rmayormartins/ai-news-radar) [🌐](https://rmayormartins.github.io/ai-news-radar/) | HTML | 0 | 0 | Jun 2026 | today | <img src="assets/signal-5.svg" height="14" alt="signal 5/5"> |
 | [telecom-news-radar](https://github.com/rmayormartins/telecom-news-radar) [🌐](https://rmayormartins.github.io/telecom-news-radar/) | HTML | 0 | 0 | Jun 2026 | today | <img src="assets/signal-5.svg" height="14" alt="signal 5/5"> |
 | [starlink-commander](https://github.com/rmayormartins/starlink-commander) [🌐](https://rmayormartins.github.io/starlink-commander/) | JavaScript | 0 | 0 | Aug 2025 | today | <img src="assets/signal-5.svg" height="14" alt="signal 5/5"> |
 | [rmayormartins.github.io](https://github.com/rmayormartins/rmayormartins.github.io) [🌐](https://rmayormartins.github.io/) | HTML | 0 | 0 | May 2021 | today | <img src="assets/signal-5.svg" height="14" alt="signal 5/5"> |
@@ -224,7 +224,7 @@ He is currently the Research and Innovation Coordinator at the IFSC São José C
 
 </details>
 
-<p align="right"><sub>🤖 Auto-updated daily by <a href="generate_stats.py">generate_stats.py</a> (GitHub Actions) · last sync 2026-09-23 10:36 UTC</sub></p>
+<p align="right"><sub>🤖 Auto-updated daily by <a href="generate_stats.py">generate_stats.py</a> (GitHub Actions) · last sync 2026-09-23 21:22 UTC</sub></p>
 <!--END_STATS-->
 
 #### <img src="assets/sec-stack.svg" width="100%" alt="Section 07: TECH STACK. languages, libraries and rigs.">
