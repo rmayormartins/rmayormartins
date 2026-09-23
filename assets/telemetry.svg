@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="711" viewBox="0 0 900 711" role="img" aria-labelledby="t d"><title id="t">GitHub telemetry for rmayormartins</title><desc id="d">GitHub telemetry dashboard for rmayormartins: 79 repositories, 24 stars, 76 forks, 26 GitHub Pages sites, top language Python, 590 contributions in the last 12 months</desc><style>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="711" viewBox="0 0 900 711" role="img" aria-labelledby="t d"><title id="t">GitHub telemetry for rmayormartins</title><desc id="d">GitHub telemetry dashboard for rmayormartins: 79 repositories, 24 stars, 76 forks, 26 GitHub Pages sites, top language Python, 591 contributions in the last 12 months</desc><style>
 text{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace;}
 .h1{font-size:15px;font-weight:700;letter-spacing:2.4px;fill:#e6edf3;}
 .h1d{font-size:15px;font-weight:400;letter-spacing:.5px;fill:#7d8da0;}
@@ -54,7 +54,7 @@ text{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberatio
 <rect x="599.3" y="70.0" width="134.3" height="92.0" rx="3" fill="#0f1722" stroke="#1c2836"/>
 <path d="M599.3,79.0V70.0H608.3M724.7,70.0H733.7V79.0M733.7,153.0V162.0H724.7M608.3,162.0H599.3V153.0" fill="none" stroke="#3987e5" stroke-width="1.5" stroke-opacity=".7"/>
 <text x="613.3" y="95.0" class="kl">CONTRIBUTIONS</text>
-<text x="613.3" y="131.0" class="kv">590</text>
+<text x="613.3" y="131.0" class="kv">591</text>
 <text x="613.3" y="150.0" class="ks">last 12 months</text>
 <rect x="743.7" y="70.0" width="134.3" height="92.0" rx="3" fill="#0f1722" stroke="#1c2836"/>
 <path d="M743.7,79.0V70.0H752.7M869.0,70.0H878.0V79.0M878.0,153.0V162.0H869.0M752.7,162.0H743.7V153.0" fill="none" stroke="#3987e5" stroke-width="1.5" stroke-opacity=".7"/>
@@ -66,7 +66,7 @@ text{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberatio
 <text x="38.0" y="202.0" class="pt">CONTRIBUTIONS</text>
 <text x="862.0" y="202.0" class="pn" text-anchor="end">last 12 months · GitHub calendar</text>
 <path d="M38.0,214.5H862.0" stroke="#1c2836"/>
-<text x="38.0" y="238.0" class="st"><tspan class="sv">590</tspan> contributions<tspan dx="12">·</tspan><tspan dx="12" class="sv">78</tspan> active days<tspan dx="12">·</tspan><tspan dx="12">best day </tspan><tspan class="sv">25</tspan> (Apr 22)<tspan dx="12">·</tspan><tspan dx="12">longest streak </tspan><tspan class="sv">9 d</tspan><tspan dx="12">·</tspan><tspan dx="12">current </tspan><tspan class="sv">1 d</tspan></text>
+<text x="38.0" y="238.0" class="st"><tspan class="sv">591</tspan> contributions<tspan dx="12">·</tspan><tspan dx="12" class="sv">78</tspan> active days<tspan dx="12">·</tspan><tspan dx="12">best day </tspan><tspan class="sv">25</tspan> (Apr 22)<tspan dx="12">·</tspan><tspan dx="12">longest streak </tspan><tspan class="sv">9 d</tspan><tspan dx="12">·</tspan><tspan dx="12">current </tspan><tspan class="sv">1 d</tspan></text>
 <text x="61.5" y="295.0" class="ax" text-anchor="end">Mon</text>
 <text x="61.5" y="324.9" class="ax" text-anchor="end">Wed</text>
 <text x="61.5" y="354.9" class="ax" text-anchor="end">Fri</text>
@@ -556,7 +556,7 @@ text{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberatio
 <rect x="848.5" y="300.0" width="12.0" height="12.0" rx="2.5" fill="#9ec5f4"/>
 <rect x="848.5" y="314.9" width="12.0" height="12.0" rx="2.5" fill="#17212e"/>
 </g>
-<text x="38.0" y="402.0" class="st"><tspan>COMMITS </tspan><tspan class="sv">559</tspan><tspan dx="16">PULL REQUESTS </tspan><tspan class="sv">0</tspan><tspan dx="16">ISSUES </tspan><tspan class="sv">0</tspan><tspan dx="16">REVIEWS </tspan><tspan class="sv">0</tspan><tspan dx="16">NEW REPOS </tspan><tspan class="sv">23</tspan><tspan dx="16">PRIVATE </tspan><tspan class="sv">8</tspan></text>
+<text x="38.0" y="402.0" class="st"><tspan>COMMITS </tspan><tspan class="sv">560</tspan><tspan dx="16">PULL REQUESTS </tspan><tspan class="sv">0</tspan><tspan dx="16">ISSUES </tspan><tspan class="sv">0</tspan><tspan dx="16">REVIEWS </tspan><tspan class="sv">0</tspan><tspan dx="16">NEW REPOS </tspan><tspan class="sv">23</tspan><tspan dx="16">PRIVATE </tspan><tspan class="sv">8</tspan></text>
 <text x="862.0" y="402.0" class="ax" text-anchor="end">MORE</text>
 <rect x="818.0" y="392.0" width="11" height="11" rx="2.5" fill="#9ec5f4"/>
 <rect x="803.0" y="392.0" width="11" height="11" rx="2.5" fill="#5598e7"/>

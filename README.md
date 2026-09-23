@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://rmayormartins.github.io/"><img src="assets/hero.svg" width="100%" alt="RAMON MAYOR MARTINS, Ph.D. Associate Professor · Telecommunications Engineering · IFSC São José. Research &amp; Innovation Coordinator · Postdoc in Educational Games (UFSC). Callsign PU4MAY."></a>
+  <a href="https://rmayormartins.github.io/"><img src="assets/hero.svg" width="100%" alt="RAMON MAYOR MARTINS, Ph.D. Associate Professor · Telecommunications Engineering · IFSC São José. Research &amp; Innovation Coordinator · IFSC São José. Postdoctoral research in Educational Games · UFSC, 2025. Callsign PU4MAY."></a>
 </p>
 
 #### <img src="assets/sec-about.svg" width="100%" alt="Section 01: ABOUT. who is on the other side.">
@@ -54,7 +54,7 @@ He is currently the Research and Innovation Coordinator at the IFSC São José C
 <!--START_STATS-->
 
 <p align="center">
-  <img src="assets/telemetry.svg" width="100%" alt="GitHub telemetry dashboard for rmayormartins: 79 repositories, 24 stars, 76 forks, 26 GitHub Pages sites, top language Python, 590 contributions in the last 12 months">
+  <img src="assets/telemetry.svg" width="100%" alt="GitHub telemetry dashboard for rmayormartins: 79 repositories, 24 stars, 76 forks, 26 GitHub Pages sites, top language Python, 591 contributions in the last 12 months">
 </p>
 
 <img src="assets/lbl-act.svg" width="100%" alt="LATEST ACTIVITY: last 6 repositories pushed">
@@ -95,7 +95,7 @@ He is currently the Research and Innovation Coordinator at the IFSC São José C
 | Latest push | **starlink-commander (today)** | Longest dormant | **TELE-RF-Arduino-nRF24L01 (1,963 d)** |
 | First repository | **rmayormartins.github.io (2021-05-07)** | Newest repository | **ifsc-python (2026-07-27)** |
 | Repos with open issues | **1 (REPL-PY-pygames-dragster)** | Followers | **58** |
-| Contributions (12 mo) | **590** | Commits (12 mo) | **559** |
+| Contributions (12 mo) | **591** | Commits (12 mo) | **560** |
 | Longest streak | **9 days** | Current streak | **1 days** |
 | Best day | **25 (2026-04-22)** | Active days (12 mo) | **78** |
 
