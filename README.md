@@ -54,7 +54,7 @@ He is currently the Research and Innovation Coordinator at the IFSC São José C
 <!--START_STATS-->
 
 <p align="center">
-  <img src="assets/telemetry.svg" width="100%" alt="GitHub telemetry dashboard for rmayormartins: 79 repositories, 24 stars, 76 forks, 26 GitHub Pages sites, top language Python, 586 contributions in the last 12 months">
+  <img src="assets/telemetry.svg" width="100%" alt="GitHub telemetry dashboard for rmayormartins: 79 repositories, 24 stars, 76 forks, 26 GitHub Pages sites, top language Python, 590 contributions in the last 12 months">
 </p>
 
 <img src="assets/lbl-act.svg" width="100%" alt="LATEST ACTIVITY: last 6 repositories pushed">
@@ -87,15 +87,15 @@ He is currently the Research and Innovation Coordinator at the IFSC São José C
 | Star std deviation | **1.92** | Fork std deviation | **7.37** |
 | Repos with 5+ stars | **1** | Repos with 0 stars | **71** |
 | Forks > stars | **3 repos** | Avg repo size | **4.9 MB** |
-| Largest repo | **starlink-commander (301.0 MB)** | Total size | **389.2 MB** |
+| Largest repo | **starlink-commander (301.0 MB)** | Total size | **389.3 MB** |
 | Most common language | **Python** | Unique languages | **10** |
 | Top languages | **Python (27), HTML (23), Jupyter Notebook (9)** | GitHub Pages sites | **26** |
-| Pushed in last 90 days | **12 (15.2%)** | Avg open issues per repo | **0.01** |
+| Pushed in last 90 days | **11 (13.9%)** | Avg open issues per repo | **0.01** |
 | Most starred | **IFSC-Codespace-ENG-ADS-JAVA-POO (17)** | Most forked | **IFSC-Codespace-ENG-ADS-JAVA-POO (65)** |
 | Latest push | **starlink-commander (today)** | Longest dormant | **TELE-RF-Arduino-nRF24L01 (1,963 d)** |
 | First repository | **rmayormartins.github.io (2021-05-07)** | Newest repository | **ifsc-python (2026-07-27)** |
 | Repos with open issues | **1 (REPL-PY-pygames-dragster)** | Followers | **58** |
-| Contributions (12 mo) | **586** | Commits (12 mo) | **555** |
+| Contributions (12 mo) | **590** | Commits (12 mo) | **559** |
 | Longest streak | **9 days** | Current streak | **1 days** |
 | Best day | **25 (2026-04-22)** | Active days (12 mo) | **78** |
 
@@ -153,7 +153,7 @@ He is currently the Research and Innovation Coordinator at the IFSC São José C
 | [rmpagestudio](https://github.com/rmayormartins/rmpagestudio) [🌐](https://rmayormartins.github.io/rmpagestudio/) | HTML | 0 | 0 | Jul 2026 | 2 mo ago | <img src="assets/signal-3.svg" height="14" alt="signal 3/5"> |
 | [telecom-tools](https://github.com/rmayormartins/telecom-tools) [🌐](https://rmayormartins.github.io/telecom-tools/) | HTML | 0 | 0 | Apr 2026 | 2 mo ago | <img src="assets/signal-3.svg" height="14" alt="signal 3/5"> |
 | [IFSC-eng-pfc](https://github.com/rmayormartins/IFSC-eng-pfc) [🌐](https://rmayormartins.github.io/IFSC-eng-pfc/) | HTML | 0 | 0 | Jun 2026 | 2 mo ago | <img src="assets/signal-3.svg" height="14" alt="signal 3/5"> |
-| [sat-commander](https://github.com/rmayormartins/sat-commander) [🌐](https://rmayormartins.github.io/sat-commander/) | HTML | 0 | 0 | Jun 2026 | 3 mo ago | <img src="assets/signal-3.svg" height="14" alt="signal 3/5"> |
+| [sat-commander](https://github.com/rmayormartins/sat-commander) [🌐](https://rmayormartins.github.io/sat-commander/) | HTML | 0 | 0 | Jun 2026 | 3 mo ago | <img src="assets/signal-2.svg" height="14" alt="signal 2/5"> |
 | [sistema-pei](https://github.com/rmayormartins/sistema-pei) [🌐](https://rmayormartins.github.io/sistema-pei/) | JavaScript | 0 | 0 | May 2026 | 3 mo ago | <img src="assets/signal-2.svg" height="14" alt="signal 2/5"> |
 | [iss-commander](https://github.com/rmayormartins/iss-commander) [🌐](https://rmayormartins.github.io/iss-commander/) | HTML | 1 | 0 | Apr 2026 | 3 mo ago | <img src="assets/signal-2.svg" height="14" alt="signal 2/5"> |
 | [funcube1-commander](https://github.com/rmayormartins/funcube1-commander) [🌐](https://rmayormartins.github.io/funcube1-commander/) | HTML | 0 | 0 | May 2026 | 3 mo ago | <img src="assets/signal-2.svg" height="14" alt="signal 2/5"> |
@@ -224,7 +224,7 @@ He is currently the Research and Innovation Coordinator at the IFSC São José C
 
 </details>
 
-<p align="right"><sub>🤖 Auto-updated daily by <a href="generate_stats.py">generate_stats.py</a> (GitHub Actions) · last sync 2026-09-22 23:44 UTC</sub></p>
+<p align="right"><sub>🤖 Auto-updated daily by <a href="generate_stats.py">generate_stats.py</a> (GitHub Actions) · last sync 2026-09-23 00:56 UTC</sub></p>
 <!--END_STATS-->
 
 #### <img src="assets/sec-stack.svg" width="100%" alt="Section 07: TECH STACK. languages, libraries and rigs.">
