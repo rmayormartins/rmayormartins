@@ -57,24 +57,91 @@ LANG_BARS = 6                        # linguagens no gráfico (o resto vira "Oth
 API = "https://api.github.com"
 TOKEN = os.environ.get("GITHUB_TOKEN", "")
 
-# Paleta do painel. Contrastes medidos sobre a superfície dos painéis (#0f1722)
-# e rampas conferidas com o validador de paletas (luminância monotônica).
-C = {
-    "card": "#0a0f16",      # fundo do cartão
-    "panel": "#0f1722",     # superfície dos painéis
-    "stroke": "#1c2836",    # bordas e divisórias (hairline)
-    "baseline": "#2b3b4f",  # linha de base dos gráficos
-    "ink": "#e6edf3",       # texto primário      15.2:1
-    "ink2": "#a8b6c5",      # texto secundário     8.7:1
-    "muted": "#7d8da0",     # rótulos e eixos      5.3:1
-    "accent": "#3987e5",    # série única (barras e colunas)
-    "bracket": "#3987e5",   # cantoneiras dos painéis
-    "other": "#3a4a5e",     # agregado "Other" (de-ênfase)
-    "good": "#0ca30c",      # status: sincronização OK (sempre com rótulo)
-    "chip": "#243548",      # contorno das conquistas
+# =============================================================================
+# Tema e paleta
+# =============================================================================
+# "light" usa a paleta do site rmayormartins.github.io; "dark" é o mission
+# control original. Trocar aqui muda painel, faixas, painéis e cartões juntos.
+# Contrastes medidos sobre a superfície dos painéis e rampas conferidas com o
+# validador de paletas (luminância monotônica e degraus visíveis).
+THEME = os.environ.get("STATS_THEME", "light")
+
+PALETTES = {
+    "light": {
+        "card": "#ffffff",      # fundo do cartão              (site: --bg)
+        "panel": "#fafafa",     # superfície dos painéis       (site: --bg-soft)
+        "stroke": "#e5e5e5",    # bordas e divisórias          (site: --line)
+        "baseline": "#cccccc",  # linha de base dos gráficos   (site: --line-dot)
+        "ink": "#1d1f21",       # texto primário      15.8:1   (site: --text-strong)
+        "ink2": "#333333",      # texto secundário    12.1:1   (site: --text)
+        "muted": "#666666",     # rótulos e eixos      5.5:1   (site: --text-mute)
+        "accent": "#267CB9",    # série única          4.3:1   (site: --accent)
+        "bracket": "#267CB9",   # cantoneiras dos painéis
+        "other": "#999999",     # agregado "Other"             (site: --text-low)
+        "good": "#2f8f4e",      # status sincronizado  4.1:1   (verde do site, mais escuro)
+        "chip": "#dcdcdc",      # contorno das pastilhas
+        "dots": ("#000000", ".045"),   # textura de fundo
+        "signal_off": "#cccccc",       # barra de sinal apagada
+        "fresh": ["#164669", "#1d5e8c", "#267CB9", "#63a1cd", "#88b7d8"],  # recente = escuro
+        "heat": ["#ebedf0", "#cfe3f2", "#8fbfdf", "#3d8cc4", "#1d5e8c"],   # nível 0 a 4
+    },
+    "dark": {
+        "card": "#0a0f16",
+        "panel": "#0f1722",
+        "stroke": "#1c2836",
+        "baseline": "#2b3b4f",
+        "ink": "#e6edf3",       # 15.2:1
+        "ink2": "#a8b6c5",      #  8.7:1
+        "muted": "#7d8da0",     #  5.3:1
+        "accent": "#3987e5",
+        "bracket": "#3987e5",
+        "other": "#3a4a5e",
+        "good": "#0ca30c",
+        "chip": "#243548",
+        "dots": ("#ffffff", ".05"),
+        "signal_off": "#8b949e",
+        "fresh": ["#9ec5f4", "#6da7ec", "#3987e5", "#256abf", "#184f95"],  # recente = claro
+        "heat": ["#17212e", "#104281", "#256abf", "#5598e7", "#9ec5f4"],
+    },
 }
-FRESH_RAMP = ["#9ec5f4", "#6da7ec", "#3987e5", "#256abf", "#184f95"]  # recente = claro
-HEAT_RAMP = ["#17212e", "#104281", "#256abf", "#5598e7", "#9ec5f4"]   # nível 0 a 4
+C = PALETTES[THEME]
+FRESH_RAMP = C["fresh"]
+HEAT_RAMP = C["heat"]
+
+# Fonte do site rmayormartins.github.io. Os .b64 são subconjuntos WOFF2 (licença
+# SIL OFL, ver fonts/SourceCodePro-OFL.txt) embutidos no SVG: imagem SVG no
+# GitHub não carrega fonte externa, então ela viaja junto, em base64.
+FONT_FAMILY = "Source Code Pro"
+FONT_FILES = {400: "fonts/source-code-pro-400.b64", 700: "fonts/source-code-pro-700.b64"}
+# Peças que embutem a fonte: hero, section, panel, card, telemetry, label.
+# Cada arquivo cresce cerca de 18 KB; deixar só {"hero"} economiza peso.
+EMBED_FONT_IN = {"hero", "section", "panel", "card", "telemetry", "label"}
+_FONT_CSS = {}
+
+
+def font_css(part):
+    """@font-face com a fonte embutida em base64, para a peça pedida."""
+    if part not in EMBED_FONT_IN:
+        return ""
+    if "css" not in _FONT_CSS:
+        faces = []
+        for weight, path in sorted(FONT_FILES.items()):
+            if not os.path.exists(path):
+                continue
+            with open(path, encoding="utf-8") as f:
+                faces.append(f"@font-face{{font-family:'{FONT_FAMILY}';font-style:normal;"
+                             f"font-weight:{weight};src:url(data:font/woff2;base64,"
+                             f"{f.read().strip()}) format('woff2');}}")
+        if faces:
+            stack = f"'{FONT_FAMILY}',{MONO}"
+            # o site usa a mesma fonte para tudo, inclusive os números grandes
+            _FONT_CSS["css"] = ("".join(faces) + f"text{{font-family:{stack};}}"
+                                f".kv,.ku{{font-family:{stack};}}"
+                                f".name{{font-family:{stack};letter-spacing:-0.6px;}}")
+        else:
+            print(f"Aviso: fonte {FONT_FAMILY} nao encontrada em fonts/, usando a do sistema.")
+            _FONT_CSS["css"] = ""
+    return _FONT_CSS["css"]
 
 FRESH_BUCKETS = [          # (rótulo, limite superior em dias desde o último push)
     ("≤ 7 days", 7),
@@ -402,7 +469,7 @@ def signal_svg(level):
     for i in range(5):
         h = 4 + i * 2.5
         on = i < level
-        fill = C["accent"] if on else "#8b949e"
+        fill = C["accent"] if on else C["signal_off"]
         alpha = "" if on else ' fill-opacity=".4"'
         bars.append(f'<rect x="{i * 5:.1f}" y="{16 - h:.1f}" width="3.4" height="{h:.1f}" '
                     f'rx="1" fill="{fill}"{alpha}/>')
@@ -515,22 +582,27 @@ text{{font-family:{MONO};}}
 
 
 def svg_defs():
-    return ('<defs><pattern id="dots" width="14" height="14" patternUnits="userSpaceOnUse">'
-            '<circle cx="1" cy="1" r=".8" fill="#ffffff" fill-opacity=".05"/></pattern>'
+    dot, op = C["dots"]
+    return (f'<defs><pattern id="dots" width="14" height="14" patternUnits="userSpaceOnUse">'
+            f'<circle cx="1" cy="1" r=".8" fill="{dot}" fill-opacity="{op}"/></pattern>'
             f'<linearGradient id="fade" x1="0" x2="1"><stop offset="0" stop-color="{C["accent"]}" '
             f'stop-opacity=".55"/><stop offset="1" stop-color="{C["accent"]}" stop-opacity="0"/>'
             '</linearGradient></defs>')
 
 
-def svg_doc(w, h, title, desc, body, extra_css=""):
-    """Moldura comum de todos os SVGs: estilo, defs, título e descrição acessível."""
-    style = svg_style()
-    if extra_css:
-        style = style.replace("</style>", extra_css + "</style>")
+def svg_open(w, h, title, desc, extra_css="", part=None):
+    """Abertura comum dos SVGs: estilo, fonte embutida, defs, título e descrição."""
+    css = extra_css + font_css(part)
+    style = svg_style().replace("</style>", css + "</style>") if css else svg_style()
     return (f'<svg xmlns="http://www.w3.org/2000/svg" width="{w:.0f}" height="{h:.0f}" '
             f'viewBox="0 0 {w:.0f} {h:.0f}" role="img" aria-labelledby="t d">'
             f'<title id="t">{esc(title)}</title><desc id="d">{esc(desc)}</desc>'
-            f'{style}{svg_defs()}{body}</svg>\n')
+            f'{style}{svg_defs()}')
+
+
+def svg_doc(w, h, title, desc, body, extra_css="", part=None):
+    """Moldura completa de um SVG (abertura + conteúdo + fechamento)."""
+    return svg_open(w, h, title, desc, extra_css, part) + body + "</svg>\n"
 
 
 def signal_bars(x, y, level, scale=1.0):
@@ -542,7 +614,7 @@ def signal_bars(x, y, level, scale=1.0):
         alpha = "" if on else ' fill-opacity=".4"'
         out.append(f'<rect x="{x + i * 5 * scale:.1f}" y="{y - h:.1f}" '
                    f'width="{3.4 * scale:.1f}" height="{h:.1f}" rx="1" '
-                   f'fill="{C["accent"] if on else "#8b949e"}"{alpha}/>')
+                   f'fill="{C["accent"] if on else C["signal_off"]}"{alpha}/>')
     return "".join(out)
 
 
@@ -600,7 +672,7 @@ def label_bar(key, text, note=""):
     path = LABEL_PATH.format(key)
     with open(path, "w", encoding="utf-8") as f:
         f.write(svg_doc(w, h, text, f"{text}{': ' + note if note else ''}",
-                        "".join(s.parts), css))
+                        "".join(s.parts), css, "label"))
     return path
 
 
@@ -626,7 +698,7 @@ def write_repo_cards(m):
                     f'Link: {repo_url(r)}')
             path = CARD_PATH.format(prefix, i)
             with open(path, "w", encoding="utf-8") as f:
-                f.write(svg_doc(CARD_W, CARD_H, r["name"], desc, "".join(body), CARD_CSS))
+                f.write(svg_doc(CARD_W, CARD_H, r["name"], desc, "".join(body), CARD_CSS, "card"))
             cards.append((prefix, path, r, desc))
     return cards
 
@@ -827,7 +899,7 @@ def render_svg(m):
           f'fill="{C["card"]}" stroke="{C["stroke"]}"/>'
           f'<rect x=".5" y=".5" width="{W - 1}" height="{height - 1:.0f}" rx="12" fill="url(#dots)"/>')
     return svg_doc(W, height, f"GitHub telemetry for {USERNAME}", alt_text(m),
-                   bg + "\n".join(s.parts))
+                   bg + "\n".join(s.parts), part="telemetry")
 
 
 def alt_text(m):
