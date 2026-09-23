@@ -24,14 +24,7 @@ cartões, sem mexer no resto do código.
 
 import os
 
-from generate_stats import C, MONO, SANS, Svg, esc, svg_style
-
-# Fonte do site rmayormartins.github.io. Os .b64 são subconjuntos WOFF2 (licença
-# SIL OFL, ver fonts/SourceCodePro-OFL.txt) embutidos no SVG: imagem SVG no
-# GitHub não carrega fonte externa, então ela vai junto, em base64.
-FONT_FAMILY = "Source Code Pro"
-FONT_FILES = {400: "fonts/source-code-pro-400.b64", 700: "fonts/source-code-pro-700.b64"}
-EMBED_FONT_IN = {"hero"}  # peças: hero, section, panel, card (cada uma cresce ~18 KB)
+from generate_stats import C, SANS, Svg, esc, font_css, svg_open
 
 W = 900          # mesma largura do painel de telemetria
 PAD = 22
@@ -181,48 +174,13 @@ EXTRA_CSS = f"""
 """
 
 
-_FONT_CACHE = {}
-
-
-def font_css(part):
-    """@font-face com a fonte embutida em base64, para a peça pedida."""
-    if part not in EMBED_FONT_IN:
-        return ""
-    if "css" in _FONT_CACHE:
-        return _FONT_CACHE["css"]
-    faces = []
-    for weight, path in sorted(FONT_FILES.items()):
-        if not os.path.exists(path):
-            continue
-        with open(path, encoding="utf-8") as f:
-            b64 = f.read().strip()
-        faces.append(f"@font-face{{font-family:'{FONT_FAMILY}';font-style:normal;"
-                     f"font-weight:{weight};src:url(data:font/woff2;base64,{b64}) "
-                     "format('woff2');}")
-    if not faces:
-        print(f"Aviso: fonte {FONT_FAMILY} nao encontrada em fonts/, usando a do sistema.")
-        _FONT_CACHE["css"] = ""
-        return ""
-    stack = f"'{FONT_FAMILY}',{MONO}"
-    _FONT_CACHE["css"] = ("".join(faces) + f"text{{font-family:{stack};}}"
-                          f".name{{font-family:{stack};letter-spacing:-0.6px;}}")
-    return _FONT_CACHE["css"]
+def head(w, h, title, desc, part=None):
+    """Abertura do SVG com o estilo comum, a fonte embutida e os defs."""
+    return svg_open(w, h, title, desc, EXTRA_CSS, part)
 
 
 def font_embedded(part):
     return bool(font_css(part))
-
-
-def head(w, h, title, desc, part=None):
-    style = svg_style().replace("</style>", EXTRA_CSS + font_css(part) + "</style>")
-    return (f'<svg xmlns="http://www.w3.org/2000/svg" width="{w}" height="{h:.0f}" '
-            f'viewBox="0 0 {w} {h:.0f}" role="img" aria-labelledby="t d">'
-            f'<title id="t">{esc(title)}</title><desc id="d">{esc(desc)}</desc>{style}'
-            f'<defs><pattern id="dots" width="14" height="14" patternUnits="userSpaceOnUse">'
-            f'<circle cx="1" cy="1" r=".8" fill="#ffffff" fill-opacity=".05"/></pattern>'
-            f'<linearGradient id="fade" x1="0" x2="1"><stop offset="0" stop-color="{C["accent"]}" '
-            f'stop-opacity=".55"/><stop offset="1" stop-color="{C["accent"]}" stop-opacity="0"/>'
-            f'</linearGradient></defs>')
 
 
 def card_bg(w, h, rx=12, fill=None):
