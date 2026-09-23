@@ -362,7 +362,7 @@ He is currently the Research and Innovation Coordinator at the IFSC São José C
 <sub>_...And eternal love with: Computer: XT, MSX; Processor: Zilog Z80; instructions: goto, gosub, gotoxy; libraries: graphics.h, conio.h, Allegro; IDEs: QBasic, Turbo C, devc++ and codeblock_</sub><br>
 
 <p align="center">
-  <img src="assets/panel-contact.svg" width="100%" alt="Contact: INSTITUTIONAL: ramon.mayor at ifsc.edu.br; PERSONAL: mayor at linuxmail.org; PROFILE: rmayormartins.github.io">
+  <img src="assets/panel-contact.svg" width="100%" alt="Contact: INSTITUTIONAL: ramon.mayor at ifsc.edu.br; LINKEDIN: /in/rmayormartins; PROFILE: rmayormartins.github.io">
 </p>
 
-<p align="center"><sub>ramon.mayor at ifsc.edu.br  ·  mayor at linuxmail.org  ·  callsign PU4MAY</sub></p>
+<p align="center"><sub>ramon.mayor at ifsc.edu.br  ·  rmayormartins at gmail.com  ·  callsign PU4MAY</sub></p>
