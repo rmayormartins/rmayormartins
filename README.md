@@ -54,18 +54,18 @@ He is currently the Research and Innovation Coordinator at the IFSC São José C
 <!--START_STATS-->
 
 <p align="center">
-  <img src="assets/telemetry.svg" width="100%" alt="GitHub telemetry dashboard for rmayormartins: 81 repositories, 25 stars, 77 forks, 28 GitHub Pages sites, top language Python, 608 contributions in the last 12 months">
+  <img src="assets/telemetry.svg" width="100%" alt="GitHub telemetry dashboard for rmayormartins: 82 repositories, 25 stars, 77 forks, 29 GitHub Pages sites, top language Python, 616 contributions in the last 12 months">
 </p>
 
 <img src="assets/lbl-act.svg" width="100%" alt="LATEST ACTIVITY: last 6 repositories pushed">
 
 <p align="center">
-  <a href="https://github.com/rmayormartins/ai-news-radar"><img src="assets/act-1.svg" width="49%" alt="ai-news-radar: HTML · pushed today. Last push today. Link: https://github.com/rmayormartins/ai-news-radar"></a>
-  <a href="https://github.com/rmayormartins/telecom-news-radar"><img src="assets/act-2.svg" width="49%" alt="telecom-news-radar: HTML · pushed today. Last push today. Link: https://github.com/rmayormartins/telecom-news-radar"></a>
-  <a href="https://github.com/rmayormartins/starlink-commander"><img src="assets/act-3.svg" width="49%" alt="starlink-commander: JavaScript · pushed today. Last push today. Link: https://github.com/rmayormartins/starlink-commander"></a>
-  <a href="https://github.com/rmayormartins/arducar-lab"><img src="assets/act-4.svg" width="49%" alt="arducar-lab: HTML · pushed 7 d ago. Last push 7 d ago. Link: https://github.com/rmayormartins/arducar-lab"></a>
-  <a href="https://github.com/rmayormartins/myfll-lab"><img src="assets/act-5.svg" width="49%" alt="myfll-lab: HTML · pushed 7 d ago. Last push 7 d ago. Link: https://github.com/rmayormartins/myfll-lab"></a>
-  <a href="https://github.com/rmayormartins/rmayormartins.github.io"><img src="assets/act-6.svg" width="49%" alt="rmayormartins.github.io: HTML · pushed 9 d ago. Last push 9 d ago. Link: https://github.com/rmayormartins/rmayormartins.github.io"></a>
+  <a href="https://github.com/rmayormartins/telecom-news-radar"><img src="assets/act-1.svg" width="49%" alt="telecom-news-radar: HTML · pushed today. Last push today. Link: https://github.com/rmayormartins/telecom-news-radar"></a>
+  <a href="https://github.com/rmayormartins/starlink-commander"><img src="assets/act-2.svg" width="49%" alt="starlink-commander: JavaScript · pushed today. Last push today. Link: https://github.com/rmayormartins/starlink-commander"></a>
+  <a href="https://github.com/rmayormartins/ai-news-radar"><img src="assets/act-3.svg" width="49%" alt="ai-news-radar: HTML · pushed today. Last push today. Link: https://github.com/rmayormartins/ai-news-radar"></a>
+  <a href="https://github.com/rmayormartins/bot-tools"><img src="assets/act-4.svg" width="49%" alt="bot-tools: HTML · pushed today. Last push today. Link: https://github.com/rmayormartins/bot-tools"></a>
+  <a href="https://github.com/rmayormartins/arducar-lab"><img src="assets/act-5.svg" width="49%" alt="arducar-lab: HTML · pushed 8 d ago. Last push 8 d ago. Link: https://github.com/rmayormartins/arducar-lab"></a>
+  <a href="https://github.com/rmayormartins/myfll-lab"><img src="assets/act-6.svg" width="49%" alt="myfll-lab: HTML · pushed 8 d ago. Last push 8 d ago. Link: https://github.com/rmayormartins/myfll-lab"></a>
 </p>
 
 <img src="assets/lbl-top.svg" width="100%" alt="MOST STARRED &amp; FORKED: all time">
@@ -82,38 +82,39 @@ He is currently the Research and Innovation Coordinator at the IFSC São José C
 
 | Metric | Value | Metric | Value |
 |:--|:--|:--|:--|
-| Public repositories | **81 (82 incl. forks)** | Days on GitHub | **4,057 (since 2015-08-23)** |
-| Total stars | **25 (avg 0.31)** | Total forks | **77 (avg 0.95)** |
-| Star std deviation | **2.01** | Fork std deviation | **7.39** |
-| Repos with 5+ stars | **1** | Repos with 0 stars | **73** |
+| Public repositories | **82 (83 incl. forks)** | Days on GitHub | **4,058 (since 2015-08-23)** |
+| Total stars | **25 (avg 0.30)** | Total forks | **77 (avg 0.94)** |
+| Star std deviation | **2.00** | Fork std deviation | **7.34** |
+| Repos with 5+ stars | **1** | Repos with 0 stars | **74** |
 | Forks > stars | **3 repos** | Avg repo size | **5.1 MB** |
-| Largest repo | **starlink-commander (323.0 MB)** | Total size | **414.0 MB** |
+| Largest repo | **starlink-commander (324.1 MB)** | Total size | **414.5 MB** |
 | Most common language | **Python** | Unique languages | **10** |
-| Top languages | **Python (27), HTML (25), Jupyter Notebook (9)** | GitHub Pages sites | **28** |
-| Pushed in last 90 days | **12 (14.8%)** | Avg open issues per repo | **0.01** |
+| Top languages | **Python (27), HTML (26), Jupyter Notebook (9)** | GitHub Pages sites | **29** |
+| Pushed in last 90 days | **13 (15.9%)** | Avg open issues per repo | **0.01** |
 | Most starred | **IFSC-Codespace-ENG-ADS-JAVA-POO (18)** | Most forked | **IFSC-Codespace-ENG-ADS-JAVA-POO (66)** |
-| Latest push | **ai-news-radar (today)** | Longest dormant | **TELE-RF-Arduino-nRF24L01 (1,972 d)** |
-| First repository | **rmayormartins.github.io (2021-05-07)** | Newest repository | **arducar-lab (2026-09-25)** |
+| Latest push | **telecom-news-radar (today)** | Longest dormant | **TELE-RF-Arduino-nRF24L01 (1,973 d)** |
+| First repository | **rmayormartins.github.io (2021-05-07)** | Newest repository | **bot-tools (2026-10-03)** |
 | Repos with open issues | **1 (REPL-PY-pygames-dragster)** | Followers | **57** |
-| Contributions (12 mo) | **608** | Commits (12 mo) | **575** |
-| Longest streak | **9 days** | Current streak | **0 days** |
-| Best day | **28 (2026-09-22)** | Active days (12 mo) | **79** |
+| Contributions (12 mo) | **616** | Commits (12 mo) | **581** |
+| Longest streak | **9 days** | Current streak | **2 days** |
+| Best day | **28 (2026-09-22)** | Active days (12 mo) | **81** |
 
 **Achievements:** 🏅 50+ Repos · 🏅 20+ Stars · 🏅 50+ Forks · 🏅 25+ Sites · 🏅 10+ Years · 🏅 500+ Contrib/Yr
 
 </details>
 
 <details>
-<summary><b>🌐 Live on GitHub Pages</b> (28 sites)</summary>
+<summary><b>🌐 Live on GitHub Pages</b> (29 sites)</summary>
 
 | | Live site | Source | Language | Last deploy |
 |:-:|:--|:--|:--|--:|
-| 📡 | [ai-news-radar](https://rmayormartins.github.io/ai-news-radar/) | [code](https://github.com/rmayormartins/ai-news-radar) | HTML | today |
 | 📡 | [telecom-news-radar](https://rmayormartins.github.io/telecom-news-radar/) | [code](https://github.com/rmayormartins/telecom-news-radar) | HTML | today |
 | 🛰️ | [starlink-commander](https://rmayormartins.github.io/starlink-commander/) | [code](https://github.com/rmayormartins/starlink-commander) | JavaScript | today |
-| 🌐 | [arducar-lab](https://rmayormartins.github.io/arducar-lab/) | [code](https://github.com/rmayormartins/arducar-lab) | HTML | 7 d ago |
-| 🌐 | [myfll-lab](https://rmayormartins.github.io/myfll-lab/) | [code](https://github.com/rmayormartins/myfll-lab) | HTML | 7 d ago |
-| 🏠 | [rmayormartins.github.io](https://rmayormartins.github.io/) | [code](https://github.com/rmayormartins/rmayormartins.github.io) | HTML | 9 d ago |
+| 📡 | [ai-news-radar](https://rmayormartins.github.io/ai-news-radar/) | [code](https://github.com/rmayormartins/ai-news-radar) | HTML | today |
+| 🌐 | [bot-tools](https://rmayormartins.github.io/bot-tools/) | [code](https://github.com/rmayormartins/bot-tools) | HTML | today |
+| 🌐 | [arducar-lab](https://rmayormartins.github.io/arducar-lab/) | [code](https://github.com/rmayormartins/arducar-lab) | HTML | 8 d ago |
+| 🌐 | [myfll-lab](https://rmayormartins.github.io/myfll-lab/) | [code](https://github.com/rmayormartins/myfll-lab) | HTML | 8 d ago |
+| 🏠 | [rmayormartins.github.io](https://rmayormartins.github.io/) | [code](https://github.com/rmayormartins/rmayormartins.github.io) | HTML | 10 d ago |
 | 🤖 | [ia-tools](https://rmayormartins.github.io/ia-tools/) | [code](https://github.com/rmayormartins/ia-tools) | HTML | 1 mo ago |
 | 🐍 | [ifsc-python](https://rmayormartins.github.io/ifsc-python/) | [code](https://github.com/rmayormartins/ifsc-python) | HTML | 2 mo ago |
 | 📡 | [leadradar](https://rmayormartins.github.io/leadradar/) | [code](https://github.com/rmayormartins/leadradar) | HTML | 2 mo ago |
@@ -140,17 +141,18 @@ He is currently the Research and Innovation Coordinator at the IFSC São José C
 </details>
 
 <details>
-<summary><b>🗂️ Repository inventory</b> (81 repos, 🌐 = live site)</summary>
+<summary><b>🗂️ Repository inventory</b> (82 repos, 🌐 = live site)</summary>
 
 | Repository | Language | ⭐ | 🍴 | Created | Last push | Signal |
 |:--|:--|--:|--:|:--|--:|:-:|
-| [ai-news-radar](https://github.com/rmayormartins/ai-news-radar) [🌐](https://rmayormartins.github.io/ai-news-radar/) | HTML | 0 | 0 | Jun 2026 | today | <img src="assets/signal-5.svg" height="14" alt="signal 5/5"> |
-| [rmayormartins](https://github.com/rmayormartins/rmayormartins) | Python | 0 | 0 | May 2021 | today | <img src="assets/signal-5.svg" height="14" alt="signal 5/5"> |
 | [telecom-news-radar](https://github.com/rmayormartins/telecom-news-radar) [🌐](https://rmayormartins.github.io/telecom-news-radar/) | HTML | 0 | 0 | Jun 2026 | today | <img src="assets/signal-5.svg" height="14" alt="signal 5/5"> |
 | [starlink-commander](https://github.com/rmayormartins/starlink-commander) [🌐](https://rmayormartins.github.io/starlink-commander/) | JavaScript | 0 | 0 | Aug 2025 | today | <img src="assets/signal-5.svg" height="14" alt="signal 5/5"> |
-| [arducar-lab](https://github.com/rmayormartins/arducar-lab) [🌐](https://rmayormartins.github.io/arducar-lab/) | HTML | 0 | 0 | Sep 2026 | 7 d ago | <img src="assets/signal-5.svg" height="14" alt="signal 5/5"> |
-| [myfll-lab](https://github.com/rmayormartins/myfll-lab) [🌐](https://rmayormartins.github.io/myfll-lab/) | HTML | 0 | 0 | Sep 2026 | 7 d ago | <img src="assets/signal-5.svg" height="14" alt="signal 5/5"> |
-| [rmayormartins.github.io](https://github.com/rmayormartins/rmayormartins.github.io) [🌐](https://rmayormartins.github.io/) | HTML | 0 | 0 | May 2021 | 9 d ago | <img src="assets/signal-4.svg" height="14" alt="signal 4/5"> |
+| [ai-news-radar](https://github.com/rmayormartins/ai-news-radar) [🌐](https://rmayormartins.github.io/ai-news-radar/) | HTML | 0 | 0 | Jun 2026 | today | <img src="assets/signal-5.svg" height="14" alt="signal 5/5"> |
+| [bot-tools](https://github.com/rmayormartins/bot-tools) [🌐](https://rmayormartins.github.io/bot-tools/) | HTML | 0 | 0 | Oct 2026 | today | <img src="assets/signal-5.svg" height="14" alt="signal 5/5"> |
+| [rmayormartins](https://github.com/rmayormartins/rmayormartins) | Python | 0 | 0 | May 2021 | today | <img src="assets/signal-5.svg" height="14" alt="signal 5/5"> |
+| [arducar-lab](https://github.com/rmayormartins/arducar-lab) [🌐](https://rmayormartins.github.io/arducar-lab/) | HTML | 0 | 0 | Sep 2026 | 8 d ago | <img src="assets/signal-4.svg" height="14" alt="signal 4/5"> |
+| [myfll-lab](https://github.com/rmayormartins/myfll-lab) [🌐](https://rmayormartins.github.io/myfll-lab/) | HTML | 0 | 0 | Sep 2026 | 8 d ago | <img src="assets/signal-4.svg" height="14" alt="signal 4/5"> |
+| [rmayormartins.github.io](https://github.com/rmayormartins/rmayormartins.github.io) [🌐](https://rmayormartins.github.io/) | HTML | 0 | 0 | May 2021 | 10 d ago | <img src="assets/signal-4.svg" height="14" alt="signal 4/5"> |
 | [ia-tools](https://github.com/rmayormartins/ia-tools) [🌐](https://rmayormartins.github.io/ia-tools/) | HTML | 0 | 0 | May 2025 | 1 mo ago | <img src="assets/signal-3.svg" height="14" alt="signal 3/5"> |
 | [ifsc-python](https://github.com/rmayormartins/ifsc-python) [🌐](https://rmayormartins.github.io/ifsc-python/) | HTML | 0 | 0 | Jul 2026 | 2 mo ago | <img src="assets/signal-3.svg" height="14" alt="signal 3/5"> |
 | [leadradar](https://github.com/rmayormartins/leadradar) [🌐](https://rmayormartins.github.io/leadradar/) | HTML | 0 | 0 | Jul 2026 | 2 mo ago | <img src="assets/signal-3.svg" height="14" alt="signal 3/5"> |
@@ -228,7 +230,7 @@ He is currently the Research and Innovation Coordinator at the IFSC São José C
 
 </details>
 
-<p align="right"><sub>🤖 Auto-updated daily by <a href="generate_stats.py">generate_stats.py</a> (GitHub Actions) · last sync 2026-10-02 11:43 UTC</sub></p>
+<p align="right"><sub>🤖 Auto-updated daily by <a href="generate_stats.py">generate_stats.py</a> (GitHub Actions) · last sync 2026-10-03 10:47 UTC</sub></p>
 <!--END_STATS-->
 
 #### <img src="assets/sec-stack.svg" width="100%" alt="Section 07: TECH STACK. languages, libraries and rigs.">
