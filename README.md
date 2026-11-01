@@ -54,18 +54,18 @@ He is currently the Research and Innovation Coordinator at the IFSC São José C
 <!--START_STATS-->
 
 <p align="center">
-  <img src="assets/telemetry.svg" width="100%" alt="GitHub telemetry dashboard for rmayormartins: 82 repositories, 25 stars, 77 forks, 29 GitHub Pages sites, top language Python, 571 contributions in the last 12 months">
+  <img src="assets/telemetry.svg" width="100%" alt="GitHub telemetry dashboard for rmayormartins: 83 repositories, 25 stars, 77 forks, 29 GitHub Pages sites, top language Python, 575 contributions in the last 12 months">
 </p>
 
 <img src="assets/lbl-act.svg" width="100%" alt="LATEST ACTIVITY: last 6 repositories pushed">
 
 <p align="center">
-  <a href="https://github.com/rmayormartins/ai-news-radar"><img src="assets/act-1.svg" width="49%" alt="ai-news-radar: HTML · pushed today. Last push today. Link: https://github.com/rmayormartins/ai-news-radar"></a>
-  <a href="https://github.com/rmayormartins/telecom-news-radar"><img src="assets/act-2.svg" width="49%" alt="telecom-news-radar: HTML · pushed today. Last push today. Link: https://github.com/rmayormartins/telecom-news-radar"></a>
-  <a href="https://github.com/rmayormartins/starlink-commander"><img src="assets/act-3.svg" width="49%" alt="starlink-commander: JavaScript · pushed today. Last push today. Link: https://github.com/rmayormartins/starlink-commander"></a>
-  <a href="https://github.com/rmayormartins/telecom-tools"><img src="assets/act-4.svg" width="49%" alt="telecom-tools: HTML · pushed today. Last push today. Link: https://github.com/rmayormartins/telecom-tools"></a>
-  <a href="https://github.com/rmayormartins/ia-tools"><img src="assets/act-5.svg" width="49%" alt="ia-tools: HTML · pushed 9 d ago. Last push 9 d ago. Link: https://github.com/rmayormartins/ia-tools"></a>
-  <a href="https://github.com/rmayormartins/sat-commander"><img src="assets/act-6.svg" width="49%" alt="sat-commander: HTML · pushed 18 d ago. Last push 18 d ago. Link: https://github.com/rmayormartins/sat-commander"></a>
+  <a href="https://github.com/rmayormartins/telecom-news-radar"><img src="assets/act-1.svg" width="49%" alt="telecom-news-radar: HTML · pushed today. Last push today. Link: https://github.com/rmayormartins/telecom-news-radar"></a>
+  <a href="https://github.com/rmayormartins/starlink-commander"><img src="assets/act-2.svg" width="49%" alt="starlink-commander: JavaScript · pushed today. Last push today. Link: https://github.com/rmayormartins/starlink-commander"></a>
+  <a href="https://github.com/rmayormartins/ai-news-radar"><img src="assets/act-3.svg" width="49%" alt="ai-news-radar: HTML · pushed today. Last push today. Link: https://github.com/rmayormartins/ai-news-radar"></a>
+  <a href="https://github.com/rmayormartins/IFSC-cooperamais"><img src="assets/act-4.svg" width="49%" alt="IFSC-cooperamais: C++ · pushed today. Last push today. Link: https://github.com/rmayormartins/IFSC-cooperamais"></a>
+  <a href="https://github.com/rmayormartins/telecom-tools"><img src="assets/act-5.svg" width="49%" alt="telecom-tools: HTML · pushed 1 d ago. Last push 1 d ago. Link: https://github.com/rmayormartins/telecom-tools"></a>
+  <a href="https://github.com/rmayormartins/ia-tools"><img src="assets/act-6.svg" width="49%" alt="ia-tools: HTML · pushed 10 d ago. Last push 10 d ago. Link: https://github.com/rmayormartins/ia-tools"></a>
 </p>
 
 <img src="assets/lbl-top.svg" width="100%" alt="MOST STARRED &amp; FORKED: all time">
@@ -73,7 +73,7 @@ He is currently the Research and Innovation Coordinator at the IFSC São José C
 <p align="center">
   <a href="https://github.com/rmayormartins/IFSC-Codespace-ENG-ADS-JAVA-POO"><img src="assets/top-1.svg" width="49%" alt="IFSC-Codespace-ENG-ADS-JAVA-POO: no language · 18 stars · 66 forks. Last push 1.4 y ago. Link: https://github.com/rmayormartins/IFSC-Codespace-ENG-ADS-JAVA-POO"></a>
   <a href="https://github.com/rmayormartins/IFSC-Codespace-ENG-C-PRG1"><img src="assets/top-2.svg" width="49%" alt="IFSC-Codespace-ENG-C-PRG1: C · 0 stars · 9 forks. Last push 1.7 y ago. Link: https://github.com/rmayormartins/IFSC-Codespace-ENG-C-PRG1"></a>
-  <a href="https://github.com/rmayormartins/SPACE-AI-PY-yolov5-farm-cattle"><img src="assets/top-3.svg" width="49%" alt="SPACE-AI-PY-yolov5-farm-cattle: Python · 1 star · 1 fork. Last push 1.8 y ago. Link: https://github.com/rmayormartins/SPACE-AI-PY-yolov5-farm-cattle"></a>
+  <a href="https://github.com/rmayormartins/SPACE-AI-PY-yolov5-farm-cattle"><img src="assets/top-3.svg" width="49%" alt="SPACE-AI-PY-yolov5-farm-cattle: Python · 1 star · 1 fork. Last push 1.9 y ago. Link: https://github.com/rmayormartins/SPACE-AI-PY-yolov5-farm-cattle"></a>
   <a href="https://github.com/rmayormartins/iss-commander"><img src="assets/top-4.svg" width="49%" alt="iss-commander: HTML · 1 star · 0 forks. Last push 4 mo ago. Link: https://github.com/rmayormartins/iss-commander"></a>
 </p>
 
@@ -82,22 +82,22 @@ He is currently the Research and Innovation Coordinator at the IFSC São José C
 
 | Metric | Value | Metric | Value |
 |:--|:--|:--|:--|
-| Public repositories | **82 (83 incl. forks)** | Days on GitHub | **4,086 (since 2015-08-23)** |
-| Total stars | **25 (avg 0.30)** | Total forks | **77 (avg 0.94)** |
-| Star std deviation | **2.00** | Fork std deviation | **7.34** |
-| Repos with 5+ stars | **1** | Repos with 0 stars | **74** |
-| Forks > stars | **3 repos** | Avg repo size | **5.5 MB** |
-| Largest repo | **starlink-commander (360.9 MB)** | Total size | **453.2 MB** |
+| Public repositories | **83 (84 incl. forks)** | Days on GitHub | **4,087 (since 2015-08-23)** |
+| Total stars | **25 (avg 0.30)** | Total forks | **77 (avg 0.93)** |
+| Star std deviation | **1.99** | Fork std deviation | **7.30** |
+| Repos with 5+ stars | **1** | Repos with 0 stars | **75** |
+| Forks > stars | **3 repos** | Avg repo size | **5.6 MB** |
+| Largest repo | **starlink-commander (362.2 MB)** | Total size | **461.1 MB** |
 | Most common language | **Python** | Unique languages | **10** |
 | Top languages | **Python (27), HTML (26), Jupyter Notebook (9)** | GitHub Pages sites | **29** |
-| Pushed in last 90 days | **13 (15.9%)** | Avg open issues per repo | **0.02** |
+| Pushed in last 90 days | **14 (16.9%)** | Avg open issues per repo | **0.02** |
 | Most starred | **IFSC-Codespace-ENG-ADS-JAVA-POO (18)** | Most forked | **IFSC-Codespace-ENG-ADS-JAVA-POO (66)** |
-| Latest push | **ai-news-radar (today)** | Longest dormant | **TELE-RF-Arduino-nRF24L01 (2,001 d)** |
-| First repository | **rmayormartins.github.io (2021-05-07)** | Newest repository | **bot-tools (2026-10-03)** |
+| Latest push | **telecom-news-radar (today)** | Longest dormant | **TELE-RF-Arduino-nRF24L01 (2,002 d)** |
+| First repository | **rmayormartins.github.io (2021-05-07)** | Newest repository | **IFSC-cooperamais (2026-10-31)** |
 | Repos with open issues | **2 (REPL-PY-pygames-dragster, sat-commander)** | Followers | **57** |
-| Contributions (12 mo) | **571** | Commits (12 mo) | **528** |
-| Longest streak | **9 days** | Current streak | **1 days** |
-| Best day | **28 (2026-09-22)** | Active days (12 mo) | **82** |
+| Contributions (12 mo) | **575** | Commits (12 mo) | **531** |
+| Longest streak | **9 days** | Current streak | **2 days** |
+| Best day | **28 (2026-09-22)** | Active days (12 mo) | **81** |
 
 **Achievements:** 🏅 50+ Repos · 🏅 20+ Stars · 🏅 50+ Forks · 🏅 25+ Sites · 🏅 10+ Years · 🏅 500+ Contrib/Yr
 
@@ -108,15 +108,15 @@ He is currently the Research and Innovation Coordinator at the IFSC São José C
 
 | | Live site | Source | Language | Last deploy |
 |:-:|:--|:--|:--|--:|
-| 📡 | [ai-news-radar](https://rmayormartins.github.io/ai-news-radar/) | [code](https://github.com/rmayormartins/ai-news-radar) | HTML | today |
 | 📡 | [telecom-news-radar](https://rmayormartins.github.io/telecom-news-radar/) | [code](https://github.com/rmayormartins/telecom-news-radar) | HTML | today |
 | 🛰️ | [starlink-commander](https://rmayormartins.github.io/starlink-commander/) | [code](https://github.com/rmayormartins/starlink-commander) | JavaScript | today |
-| 📶 | [telecom-tools](https://rmayormartins.github.io/telecom-tools/) | [code](https://github.com/rmayormartins/telecom-tools) | HTML | today |
-| 🤖 | [ia-tools](https://rmayormartins.github.io/ia-tools/) | [code](https://github.com/rmayormartins/ia-tools) | HTML | 9 d ago |
-| 🛰️ | [sat-commander](https://rmayormartins.github.io/sat-commander/) | [code](https://github.com/rmayormartins/sat-commander) | HTML | 18 d ago |
-| 🎓 | [IFSC-corretor-enem](https://rmayormartins.github.io/IFSC-corretor-enem/) | [code](https://github.com/rmayormartins/IFSC-corretor-enem) | JavaScript | 21 d ago |
-| 🌐 | [sistema-pei](https://rmayormartins.github.io/sistema-pei/) | [code](https://github.com/rmayormartins/sistema-pei) | JavaScript | 21 d ago |
-| 🌐 | [bot-tools](https://rmayormartins.github.io/bot-tools/) | [code](https://github.com/rmayormartins/bot-tools) | HTML | 28 d ago |
+| 📡 | [ai-news-radar](https://rmayormartins.github.io/ai-news-radar/) | [code](https://github.com/rmayormartins/ai-news-radar) | HTML | today |
+| 📶 | [telecom-tools](https://rmayormartins.github.io/telecom-tools/) | [code](https://github.com/rmayormartins/telecom-tools) | HTML | 1 d ago |
+| 🤖 | [ia-tools](https://rmayormartins.github.io/ia-tools/) | [code](https://github.com/rmayormartins/ia-tools) | HTML | 10 d ago |
+| 🛰️ | [sat-commander](https://rmayormartins.github.io/sat-commander/) | [code](https://github.com/rmayormartins/sat-commander) | HTML | 19 d ago |
+| 🎓 | [IFSC-corretor-enem](https://rmayormartins.github.io/IFSC-corretor-enem/) | [code](https://github.com/rmayormartins/IFSC-corretor-enem) | JavaScript | 22 d ago |
+| 🌐 | [sistema-pei](https://rmayormartins.github.io/sistema-pei/) | [code](https://github.com/rmayormartins/sistema-pei) | JavaScript | 23 d ago |
+| 🌐 | [bot-tools](https://rmayormartins.github.io/bot-tools/) | [code](https://github.com/rmayormartins/bot-tools) | HTML | 29 d ago |
 | 🌐 | [arducar-lab](https://rmayormartins.github.io/arducar-lab/) | [code](https://github.com/rmayormartins/arducar-lab) | HTML | 1 mo ago |
 | 🌐 | [myfll-lab](https://rmayormartins.github.io/myfll-lab/) | [code](https://github.com/rmayormartins/myfll-lab) | HTML | 1 mo ago |
 | 🏠 | [rmayormartins.github.io](https://rmayormartins.github.io/) | [code](https://github.com/rmayormartins/rmayormartins.github.io) | HTML | 1 mo ago |
@@ -133,7 +133,7 @@ He is currently the Research and Innovation Coordinator at the IFSC São José C
 | 🎓 | [IFSC-pesquisa-ensino-2025](https://rmayormartins.github.io/IFSC-pesquisa-ensino-2025/) | [code](https://github.com/rmayormartins/IFSC-pesquisa-ensino-2025) | HTML | 8 mo ago |
 | 🌐 | [gym-tracker](https://rmayormartins.github.io/gym-tracker/) | [code](https://github.com/rmayormartins/gym-tracker) | HTML | 10 mo ago |
 | 🌐 | [Kamtech-sisdev-barra-do-rio](https://rmayormartins.github.io/Kamtech-sisdev-barra-do-rio/) | [code](https://github.com/rmayormartins/Kamtech-sisdev-barra-do-rio) | HTML | 11 mo ago |
-| 🌐 | [kamtech](https://rmayormartins.github.io/kamtech/) | [code](https://github.com/rmayormartins/kamtech) | HTML | 12 mo ago |
+| 🌐 | [kamtech](https://rmayormartins.github.io/kamtech/) | [code](https://github.com/rmayormartins/kamtech) | HTML | 1.0 y ago |
 | 🌐 | [mapa-risco](https://rmayormartins.github.io/mapa-risco/) | [code](https://github.com/rmayormartins/mapa-risco) | HTML | 1.0 y ago |
 | 🌐 | [sigap-sc-portos](https://rmayormartins.github.io/sigap-sc-portos/) | [code](https://github.com/rmayormartins/sigap-sc-portos) | JavaScript | 1.1 y ago |
 | 🌐 | [mapa-alagamentos](https://rmayormartins.github.io/mapa-alagamentos/) | [code](https://github.com/rmayormartins/mapa-alagamentos) | HTML | 1.1 y ago |
@@ -141,20 +141,21 @@ He is currently the Research and Innovation Coordinator at the IFSC São José C
 </details>
 
 <details>
-<summary><b>🗂️ Repository inventory</b> (82 repos, 🌐 = live site)</summary>
+<summary><b>🗂️ Repository inventory</b> (83 repos, 🌐 = live site)</summary>
 
 | Repository | Language | ⭐ | 🍴 | Created | Last push | Signal |
 |:--|:--|--:|--:|:--|--:|:-:|
-| [ai-news-radar](https://github.com/rmayormartins/ai-news-radar) [🌐](https://rmayormartins.github.io/ai-news-radar/) | HTML | 0 | 0 | Jun 2026 | today | <img src="assets/signal-5.svg" height="14" alt="signal 5/5"> |
-| [rmayormartins](https://github.com/rmayormartins/rmayormartins) | Python | 0 | 0 | May 2021 | today | <img src="assets/signal-5.svg" height="14" alt="signal 5/5"> |
 | [telecom-news-radar](https://github.com/rmayormartins/telecom-news-radar) [🌐](https://rmayormartins.github.io/telecom-news-radar/) | HTML | 0 | 0 | Jun 2026 | today | <img src="assets/signal-5.svg" height="14" alt="signal 5/5"> |
 | [starlink-commander](https://github.com/rmayormartins/starlink-commander) [🌐](https://rmayormartins.github.io/starlink-commander/) | JavaScript | 0 | 0 | Aug 2025 | today | <img src="assets/signal-5.svg" height="14" alt="signal 5/5"> |
-| [telecom-tools](https://github.com/rmayormartins/telecom-tools) [🌐](https://rmayormartins.github.io/telecom-tools/) | HTML | 0 | 0 | Apr 2026 | today | <img src="assets/signal-5.svg" height="14" alt="signal 5/5"> |
-| [ia-tools](https://github.com/rmayormartins/ia-tools) [🌐](https://rmayormartins.github.io/ia-tools/) | HTML | 0 | 0 | May 2025 | 9 d ago | <img src="assets/signal-4.svg" height="14" alt="signal 4/5"> |
-| [sat-commander](https://github.com/rmayormartins/sat-commander) [🌐](https://rmayormartins.github.io/sat-commander/) | HTML | 0 | 0 | Jun 2026 | 18 d ago | <img src="assets/signal-4.svg" height="14" alt="signal 4/5"> |
-| [IFSC-corretor-enem](https://github.com/rmayormartins/IFSC-corretor-enem) [🌐](https://rmayormartins.github.io/IFSC-corretor-enem/) | JavaScript | 0 | 0 | Apr 2026 | 21 d ago | <img src="assets/signal-4.svg" height="14" alt="signal 4/5"> |
-| [sistema-pei](https://github.com/rmayormartins/sistema-pei) [🌐](https://rmayormartins.github.io/sistema-pei/) | JavaScript | 0 | 0 | May 2026 | 21 d ago | <img src="assets/signal-4.svg" height="14" alt="signal 4/5"> |
-| [bot-tools](https://github.com/rmayormartins/bot-tools) [🌐](https://rmayormartins.github.io/bot-tools/) | HTML | 0 | 0 | Oct 2026 | 28 d ago | <img src="assets/signal-4.svg" height="14" alt="signal 4/5"> |
+| [ai-news-radar](https://github.com/rmayormartins/ai-news-radar) [🌐](https://rmayormartins.github.io/ai-news-radar/) | HTML | 0 | 0 | Jun 2026 | today | <img src="assets/signal-5.svg" height="14" alt="signal 5/5"> |
+| [IFSC-cooperamais](https://github.com/rmayormartins/IFSC-cooperamais) | C++ | 0 | 0 | Oct 2026 | today | <img src="assets/signal-5.svg" height="14" alt="signal 5/5"> |
+| [rmayormartins](https://github.com/rmayormartins/rmayormartins) | Python | 0 | 0 | May 2021 | 1 d ago | <img src="assets/signal-5.svg" height="14" alt="signal 5/5"> |
+| [telecom-tools](https://github.com/rmayormartins/telecom-tools) [🌐](https://rmayormartins.github.io/telecom-tools/) | HTML | 0 | 0 | Apr 2026 | 1 d ago | <img src="assets/signal-5.svg" height="14" alt="signal 5/5"> |
+| [ia-tools](https://github.com/rmayormartins/ia-tools) [🌐](https://rmayormartins.github.io/ia-tools/) | HTML | 0 | 0 | May 2025 | 10 d ago | <img src="assets/signal-4.svg" height="14" alt="signal 4/5"> |
+| [sat-commander](https://github.com/rmayormartins/sat-commander) [🌐](https://rmayormartins.github.io/sat-commander/) | HTML | 0 | 0 | Jun 2026 | 19 d ago | <img src="assets/signal-4.svg" height="14" alt="signal 4/5"> |
+| [IFSC-corretor-enem](https://github.com/rmayormartins/IFSC-corretor-enem) [🌐](https://rmayormartins.github.io/IFSC-corretor-enem/) | JavaScript | 0 | 0 | Apr 2026 | 22 d ago | <img src="assets/signal-4.svg" height="14" alt="signal 4/5"> |
+| [sistema-pei](https://github.com/rmayormartins/sistema-pei) [🌐](https://rmayormartins.github.io/sistema-pei/) | JavaScript | 0 | 0 | May 2026 | 23 d ago | <img src="assets/signal-4.svg" height="14" alt="signal 4/5"> |
+| [bot-tools](https://github.com/rmayormartins/bot-tools) [🌐](https://rmayormartins.github.io/bot-tools/) | HTML | 0 | 0 | Oct 2026 | 29 d ago | <img src="assets/signal-4.svg" height="14" alt="signal 4/5"> |
 | [arducar-lab](https://github.com/rmayormartins/arducar-lab) [🌐](https://rmayormartins.github.io/arducar-lab/) | HTML | 0 | 0 | Sep 2026 | 1 mo ago | <img src="assets/signal-3.svg" height="14" alt="signal 3/5"> |
 | [myfll-lab](https://github.com/rmayormartins/myfll-lab) [🌐](https://rmayormartins.github.io/myfll-lab/) | HTML | 0 | 0 | Sep 2026 | 1 mo ago | <img src="assets/signal-3.svg" height="14" alt="signal 3/5"> |
 | [rmayormartins.github.io](https://github.com/rmayormartins/rmayormartins.github.io) [🌐](https://rmayormartins.github.io/) | HTML | 0 | 0 | May 2021 | 1 mo ago | <img src="assets/signal-3.svg" height="14" alt="signal 3/5"> |
@@ -172,7 +173,7 @@ He is currently the Research and Innovation Coordinator at the IFSC São José C
 | [IFSC-pesquisa-ensino-2025](https://github.com/rmayormartins/IFSC-pesquisa-ensino-2025) [🌐](https://rmayormartins.github.io/IFSC-pesquisa-ensino-2025/) | HTML | 0 | 0 | Feb 2026 | 8 mo ago | <img src="assets/signal-2.svg" height="14" alt="signal 2/5"> |
 | [gym-tracker](https://github.com/rmayormartins/gym-tracker) [🌐](https://rmayormartins.github.io/gym-tracker/) | HTML | 0 | 0 | Dec 2025 | 10 mo ago | <img src="assets/signal-2.svg" height="14" alt="signal 2/5"> |
 | [Kamtech-sisdev-barra-do-rio](https://github.com/rmayormartins/Kamtech-sisdev-barra-do-rio) [🌐](https://rmayormartins.github.io/Kamtech-sisdev-barra-do-rio/) | HTML | 0 | 0 | Oct 2025 | 11 mo ago | <img src="assets/signal-2.svg" height="14" alt="signal 2/5"> |
-| [kamtech](https://github.com/rmayormartins/kamtech) [🌐](https://rmayormartins.github.io/kamtech/) | HTML | 0 | 0 | Oct 2025 | 12 mo ago | <img src="assets/signal-2.svg" height="14" alt="signal 2/5"> |
+| [kamtech](https://github.com/rmayormartins/kamtech) [🌐](https://rmayormartins.github.io/kamtech/) | HTML | 0 | 0 | Oct 2025 | 1.0 y ago | <img src="assets/signal-1.svg" height="14" alt="signal 1/5"> |
 | [mapa-risco](https://github.com/rmayormartins/mapa-risco) [🌐](https://rmayormartins.github.io/mapa-risco/) | HTML | 0 | 0 | Oct 2025 | 1.0 y ago | <img src="assets/signal-1.svg" height="14" alt="signal 1/5"> |
 | [sigap-sc-portos](https://github.com/rmayormartins/sigap-sc-portos) [🌐](https://rmayormartins.github.io/sigap-sc-portos/) | JavaScript | 0 | 0 | Oct 2025 | 1.1 y ago | <img src="assets/signal-1.svg" height="14" alt="signal 1/5"> |
 | [mapa-alagamentos](https://github.com/rmayormartins/mapa-alagamentos) [🌐](https://rmayormartins.github.io/mapa-alagamentos/) | HTML | 0 | 0 | Sep 2025 | 1.1 y ago | <img src="assets/signal-1.svg" height="14" alt="signal 1/5"> |
@@ -184,29 +185,29 @@ He is currently the Research and Innovation Coordinator at the IFSC São José C
 | [IFSC-Codespace-ENG-C-PRG1](https://github.com/rmayormartins/IFSC-Codespace-ENG-C-PRG1) | C | 0 | 9 | Aug 2024 | 1.7 y ago | <img src="assets/signal-1.svg" height="14" alt="signal 1/5"> |
 | [SPACE-PY-c-cpp-inspector](https://github.com/rmayormartins/SPACE-PY-c-cpp-inspector) | Python | 0 | 0 | Jan 2025 | 1.8 y ago | <img src="assets/signal-1.svg" height="14" alt="signal 1/5"> |
 | [SPACE-AI-PY-ai-multiagents-committee](https://github.com/rmayormartins/SPACE-AI-PY-ai-multiagents-committee) | Python | 0 | 0 | Jan 2025 | 1.8 y ago | <img src="assets/signal-1.svg" height="14" alt="signal 1/5"> |
-| [SPACE-AI-PY-gtm-keras-h5-predictor](https://github.com/rmayormartins/SPACE-AI-PY-gtm-keras-h5-predictor) | Python | 0 | 0 | Dec 2024 | 1.8 y ago | <img src="assets/signal-1.svg" height="14" alt="signal 1/5"> |
-| [SPACE-PY-gtm-scope](https://github.com/rmayormartins/SPACE-PY-gtm-scope) | Python | 0 | 0 | Dec 2024 | 1.8 y ago | <img src="assets/signal-1.svg" height="14" alt="signal 1/5"> |
-| [SPACE-AI-PY-image-classifier-interactive](https://github.com/rmayormartins/SPACE-AI-PY-image-classifier-interactive) | Python | 0 | 0 | Dec 2024 | 1.8 y ago | <img src="assets/signal-1.svg" height="14" alt="signal 1/5"> |
-| [SPACE-AI-PY-image-classifier](https://github.com/rmayormartins/SPACE-AI-PY-image-classifier) | Python | 0 | 0 | Dec 2024 | 1.8 y ago | <img src="assets/signal-1.svg" height="14" alt="signal 1/5"> |
-| [SPACE-PY-image-conversor-dpi](https://github.com/rmayormartins/SPACE-PY-image-conversor-dpi) | Python | 0 | 0 | Dec 2024 | 1.8 y ago | <img src="assets/signal-1.svg" height="14" alt="signal 1/5"> |
-| [SPACE-AI-PY-image-enhancer](https://github.com/rmayormartins/SPACE-AI-PY-image-enhancer) | Python | 0 | 0 | Dec 2024 | 1.8 y ago | <img src="assets/signal-1.svg" height="14" alt="signal 1/5"> |
-| [SPACE-PY-image-inspector](https://github.com/rmayormartins/SPACE-PY-image-inspector) | Python | 0 | 0 | Dec 2024 | 1.8 y ago | <img src="assets/signal-1.svg" height="14" alt="signal 1/5"> |
-| [SPACE-PY-image-license-inspector](https://github.com/rmayormartins/SPACE-PY-image-license-inspector) | Python | 0 | 0 | Dec 2024 | 1.8 y ago | <img src="assets/signal-1.svg" height="14" alt="signal 1/5"> |
-| [SPACE-AI-PY-ai-q-learning-vacuum-robot](https://github.com/rmayormartins/SPACE-AI-PY-ai-q-learning-vacuum-robot) | Python | 0 | 0 | Dec 2024 | 1.8 y ago | <img src="assets/signal-1.svg" height="14" alt="signal 1/5"> |
-| [SPACE-PY-java-inspector-judge](https://github.com/rmayormartins/SPACE-PY-java-inspector-judge) | Python | 0 | 0 | Dec 2024 | 1.8 y ago | <img src="assets/signal-1.svg" height="14" alt="signal 1/5"> |
-| [SPACE-PY-aia-scope](https://github.com/rmayormartins/SPACE-PY-aia-scope) | Python | 0 | 0 | Dec 2024 | 1.8 y ago | <img src="assets/signal-1.svg" height="14" alt="signal 1/5"> |
-| [SPACE-AI-PY-neural-style-transfer-deepdreaming](https://github.com/rmayormartins/SPACE-AI-PY-neural-style-transfer-deepdreaming) | Python | 0 | 0 | Dec 2024 | 1.8 y ago | <img src="assets/signal-1.svg" height="14" alt="signal 1/5"> |
-| [SPACE-AI-PY-neural-style-transfer](https://github.com/rmayormartins/SPACE-AI-PY-neural-style-transfer) | Jupyter Notebook | 0 | 0 | Nov 2023 | 1.8 y ago | <img src="assets/signal-1.svg" height="14" alt="signal 1/5"> |
-| [SPACE-AI-PY-nlp-rag-langchain](https://github.com/rmayormartins/SPACE-AI-PY-nlp-rag-langchain) | Python | 0 | 0 | Dec 2024 | 1.8 y ago | <img src="assets/signal-1.svg" height="14" alt="signal 1/5"> |
-| [SPACE-AI-PY-ocr-img2txt](https://github.com/rmayormartins/SPACE-AI-PY-ocr-img2txt) | Python | 0 | 0 | Dec 2024 | 1.8 y ago | <img src="assets/signal-1.svg" height="14" alt="signal 1/5"> |
-| [SPACE-PY-onnx-scope](https://github.com/rmayormartins/SPACE-PY-onnx-scope) | Python | 0 | 0 | Dec 2024 | 1.8 y ago | <img src="assets/signal-1.svg" height="14" alt="signal 1/5"> |
-| [SPACE-PY-pth-scope](https://github.com/rmayormartins/SPACE-PY-pth-scope) | Python | 0 | 0 | Dec 2024 | 1.8 y ago | <img src="assets/signal-1.svg" height="14" alt="signal 1/5"> |
-| [SPACE-AI-PY-sentiment-analysis-committee](https://github.com/rmayormartins/SPACE-AI-PY-sentiment-analysis-committee) | Python | 0 | 0 | Dec 2024 | 1.8 y ago | <img src="assets/signal-1.svg" height="14" alt="signal 1/5"> |
-| [SPACE-AI-PY-speech-accent-ES-PT-classifier](https://github.com/rmayormartins/SPACE-AI-PY-speech-accent-ES-PT-classifier) | Python | 1 | 0 | Dec 2024 | 1.8 y ago | <img src="assets/signal-1.svg" height="14" alt="signal 1/5"> |
-| [SPACE-PY-speech-scope](https://github.com/rmayormartins/SPACE-PY-speech-scope) | Python | 0 | 0 | Dec 2024 | 1.8 y ago | <img src="assets/signal-1.svg" height="14" alt="signal 1/5"> |
-| [SPACE-AI-PY-svgbuilder-llama3](https://github.com/rmayormartins/SPACE-AI-PY-svgbuilder-llama3) | Python | 0 | 0 | Dec 2024 | 1.8 y ago | <img src="assets/signal-1.svg" height="14" alt="signal 1/5"> |
-| [SPACE-AI-PY-yolov5-farm-cattle](https://github.com/rmayormartins/SPACE-AI-PY-yolov5-farm-cattle) | Python | 1 | 1 | Dec 2024 | 1.8 y ago | <img src="assets/signal-1.svg" height="14" alt="signal 1/5"> |
-| [SPACE-AI-PY-yolov5-sunspot-hunter](https://github.com/rmayormartins/SPACE-AI-PY-yolov5-sunspot-hunter) | Python | 1 | 0 | Dec 2024 | 1.8 y ago | <img src="assets/signal-1.svg" height="14" alt="signal 1/5"> |
+| [SPACE-AI-PY-gtm-keras-h5-predictor](https://github.com/rmayormartins/SPACE-AI-PY-gtm-keras-h5-predictor) | Python | 0 | 0 | Dec 2024 | 1.9 y ago | <img src="assets/signal-1.svg" height="14" alt="signal 1/5"> |
+| [SPACE-PY-gtm-scope](https://github.com/rmayormartins/SPACE-PY-gtm-scope) | Python | 0 | 0 | Dec 2024 | 1.9 y ago | <img src="assets/signal-1.svg" height="14" alt="signal 1/5"> |
+| [SPACE-AI-PY-image-classifier-interactive](https://github.com/rmayormartins/SPACE-AI-PY-image-classifier-interactive) | Python | 0 | 0 | Dec 2024 | 1.9 y ago | <img src="assets/signal-1.svg" height="14" alt="signal 1/5"> |
+| [SPACE-AI-PY-image-classifier](https://github.com/rmayormartins/SPACE-AI-PY-image-classifier) | Python | 0 | 0 | Dec 2024 | 1.9 y ago | <img src="assets/signal-1.svg" height="14" alt="signal 1/5"> |
+| [SPACE-PY-image-conversor-dpi](https://github.com/rmayormartins/SPACE-PY-image-conversor-dpi) | Python | 0 | 0 | Dec 2024 | 1.9 y ago | <img src="assets/signal-1.svg" height="14" alt="signal 1/5"> |
+| [SPACE-AI-PY-image-enhancer](https://github.com/rmayormartins/SPACE-AI-PY-image-enhancer) | Python | 0 | 0 | Dec 2024 | 1.9 y ago | <img src="assets/signal-1.svg" height="14" alt="signal 1/5"> |
+| [SPACE-PY-image-inspector](https://github.com/rmayormartins/SPACE-PY-image-inspector) | Python | 0 | 0 | Dec 2024 | 1.9 y ago | <img src="assets/signal-1.svg" height="14" alt="signal 1/5"> |
+| [SPACE-PY-image-license-inspector](https://github.com/rmayormartins/SPACE-PY-image-license-inspector) | Python | 0 | 0 | Dec 2024 | 1.9 y ago | <img src="assets/signal-1.svg" height="14" alt="signal 1/5"> |
+| [SPACE-AI-PY-ai-q-learning-vacuum-robot](https://github.com/rmayormartins/SPACE-AI-PY-ai-q-learning-vacuum-robot) | Python | 0 | 0 | Dec 2024 | 1.9 y ago | <img src="assets/signal-1.svg" height="14" alt="signal 1/5"> |
+| [SPACE-PY-java-inspector-judge](https://github.com/rmayormartins/SPACE-PY-java-inspector-judge) | Python | 0 | 0 | Dec 2024 | 1.9 y ago | <img src="assets/signal-1.svg" height="14" alt="signal 1/5"> |
+| [SPACE-PY-aia-scope](https://github.com/rmayormartins/SPACE-PY-aia-scope) | Python | 0 | 0 | Dec 2024 | 1.9 y ago | <img src="assets/signal-1.svg" height="14" alt="signal 1/5"> |
+| [SPACE-AI-PY-neural-style-transfer-deepdreaming](https://github.com/rmayormartins/SPACE-AI-PY-neural-style-transfer-deepdreaming) | Python | 0 | 0 | Dec 2024 | 1.9 y ago | <img src="assets/signal-1.svg" height="14" alt="signal 1/5"> |
+| [SPACE-AI-PY-neural-style-transfer](https://github.com/rmayormartins/SPACE-AI-PY-neural-style-transfer) | Jupyter Notebook | 0 | 0 | Nov 2023 | 1.9 y ago | <img src="assets/signal-1.svg" height="14" alt="signal 1/5"> |
+| [SPACE-AI-PY-nlp-rag-langchain](https://github.com/rmayormartins/SPACE-AI-PY-nlp-rag-langchain) | Python | 0 | 0 | Dec 2024 | 1.9 y ago | <img src="assets/signal-1.svg" height="14" alt="signal 1/5"> |
+| [SPACE-AI-PY-ocr-img2txt](https://github.com/rmayormartins/SPACE-AI-PY-ocr-img2txt) | Python | 0 | 0 | Dec 2024 | 1.9 y ago | <img src="assets/signal-1.svg" height="14" alt="signal 1/5"> |
+| [SPACE-PY-onnx-scope](https://github.com/rmayormartins/SPACE-PY-onnx-scope) | Python | 0 | 0 | Dec 2024 | 1.9 y ago | <img src="assets/signal-1.svg" height="14" alt="signal 1/5"> |
+| [SPACE-PY-pth-scope](https://github.com/rmayormartins/SPACE-PY-pth-scope) | Python | 0 | 0 | Dec 2024 | 1.9 y ago | <img src="assets/signal-1.svg" height="14" alt="signal 1/5"> |
+| [SPACE-AI-PY-sentiment-analysis-committee](https://github.com/rmayormartins/SPACE-AI-PY-sentiment-analysis-committee) | Python | 0 | 0 | Dec 2024 | 1.9 y ago | <img src="assets/signal-1.svg" height="14" alt="signal 1/5"> |
+| [SPACE-AI-PY-speech-accent-ES-PT-classifier](https://github.com/rmayormartins/SPACE-AI-PY-speech-accent-ES-PT-classifier) | Python | 1 | 0 | Dec 2024 | 1.9 y ago | <img src="assets/signal-1.svg" height="14" alt="signal 1/5"> |
+| [SPACE-PY-speech-scope](https://github.com/rmayormartins/SPACE-PY-speech-scope) | Python | 0 | 0 | Dec 2024 | 1.9 y ago | <img src="assets/signal-1.svg" height="14" alt="signal 1/5"> |
+| [SPACE-AI-PY-svgbuilder-llama3](https://github.com/rmayormartins/SPACE-AI-PY-svgbuilder-llama3) | Python | 0 | 0 | Dec 2024 | 1.9 y ago | <img src="assets/signal-1.svg" height="14" alt="signal 1/5"> |
+| [SPACE-AI-PY-yolov5-farm-cattle](https://github.com/rmayormartins/SPACE-AI-PY-yolov5-farm-cattle) | Python | 1 | 1 | Dec 2024 | 1.9 y ago | <img src="assets/signal-1.svg" height="14" alt="signal 1/5"> |
+| [SPACE-AI-PY-yolov5-sunspot-hunter](https://github.com/rmayormartins/SPACE-AI-PY-yolov5-sunspot-hunter) | Python | 1 | 0 | Dec 2024 | 1.9 y ago | <img src="assets/signal-1.svg" height="14" alt="signal 1/5"> |
 | [SHINY-R-DiagnosticDataset](https://github.com/rmayormartins/SHINY-R-DiagnosticDataset) | R | 0 | 0 | Oct 2024 | 1.9 y ago | <img src="assets/signal-1.svg" height="14" alt="signal 1/5"> |
 | [TELE-RF-Antenna-NEC2C-Diagram-Imp](https://github.com/rmayormartins/TELE-RF-Antenna-NEC2C-Diagram-Imp) | Jupyter Notebook | 0 | 0 | Aug 2024 | 2.2 y ago | <img src="assets/signal-1.svg" height="14" alt="signal 1/5"> |
 | [REPL-PY-pygames-dragster](https://github.com/rmayormartins/REPL-PY-pygames-dragster) | Python | 0 | 0 | Jul 2024 | 2.3 y ago | <img src="assets/signal-1.svg" height="14" alt="signal 1/5"> |
@@ -230,7 +231,7 @@ He is currently the Research and Innovation Coordinator at the IFSC São José C
 
 </details>
 
-<p align="right"><sub>🤖 Auto-updated daily by <a href="generate_stats.py">generate_stats.py</a> (GitHub Actions) · last sync 2026-10-31 11:32 UTC</sub></p>
+<p align="right"><sub>🤖 Auto-updated daily by <a href="generate_stats.py">generate_stats.py</a> (GitHub Actions) · last sync 2026-11-01 12:16 UTC</sub></p>
 <!--END_STATS-->
 
 #### <img src="assets/sec-stack.svg" width="100%" alt="Section 07: TECH STACK. languages, libraries and rigs.">
