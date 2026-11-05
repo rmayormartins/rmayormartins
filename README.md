@@ -60,11 +60,11 @@ He is currently the Research and Innovation Coordinator at the IFSC São José C
 <img src="assets/lbl-act.svg" width="100%" alt="LATEST ACTIVITY: last 6 repositories pushed">
 
 <p align="center">
-  <a href="https://github.com/rmayormartins/telecom-news-radar"><img src="assets/act-1.svg" width="49%" alt="telecom-news-radar: HTML · pushed today. Last push today. Link: https://github.com/rmayormartins/telecom-news-radar"></a>
-  <a href="https://github.com/rmayormartins/ifsc-riscosj"><img src="assets/act-2.svg" width="49%" alt="ifsc-riscosj: HTML · pushed today. Last push today. Link: https://github.com/rmayormartins/ifsc-riscosj"></a>
-  <a href="https://github.com/rmayormartins/starlink-commander"><img src="assets/act-3.svg" width="49%" alt="starlink-commander: JavaScript · pushed today. Last push today. Link: https://github.com/rmayormartins/starlink-commander"></a>
-  <a href="https://github.com/rmayormartins/ai-news-radar"><img src="assets/act-4.svg" width="49%" alt="ai-news-radar: HTML · pushed today. Last push today. Link: https://github.com/rmayormartins/ai-news-radar"></a>
-  <a href="https://github.com/rmayormartins/bairro-bigode"><img src="assets/act-5.svg" width="49%" alt="bairro-bigode: HTML · pushed today. Last push today. Link: https://github.com/rmayormartins/bairro-bigode"></a>
+  <a href="https://github.com/rmayormartins/ai-news-radar"><img src="assets/act-1.svg" width="49%" alt="ai-news-radar: HTML · pushed today. Last push today. Link: https://github.com/rmayormartins/ai-news-radar"></a>
+  <a href="https://github.com/rmayormartins/telecom-news-radar"><img src="assets/act-2.svg" width="49%" alt="telecom-news-radar: HTML · pushed today. Last push today. Link: https://github.com/rmayormartins/telecom-news-radar"></a>
+  <a href="https://github.com/rmayormartins/ifsc-riscosj"><img src="assets/act-3.svg" width="49%" alt="ifsc-riscosj: HTML · pushed today. Last push today. Link: https://github.com/rmayormartins/ifsc-riscosj"></a>
+  <a href="https://github.com/rmayormartins/starlink-commander"><img src="assets/act-4.svg" width="49%" alt="starlink-commander: JavaScript · pushed today. Last push today. Link: https://github.com/rmayormartins/starlink-commander"></a>
+  <a href="https://github.com/rmayormartins/bairro-bigode"><img src="assets/act-5.svg" width="49%" alt="bairro-bigode: HTML · pushed 1 d ago. Last push 1 d ago. Link: https://github.com/rmayormartins/bairro-bigode"></a>
   <a href="https://github.com/rmayormartins/ia-tools"><img src="assets/act-6.svg" width="49%" alt="ia-tools: HTML · pushed 2 d ago. Last push 2 d ago. Link: https://github.com/rmayormartins/ia-tools"></a>
 </p>
 
@@ -92,7 +92,7 @@ He is currently the Research and Innovation Coordinator at the IFSC São José C
 | Top languages | **HTML (28), Python (27), Jupyter Notebook (9)** | GitHub Pages sites | **31** |
 | Pushed in last 90 days | **16 (18.8%)** | Avg open issues per repo | **0.02** |
 | Most starred | **IFSC-Codespace-ENG-ADS-JAVA-POO (18)** | Most forked | **IFSC-Codespace-ENG-ADS-JAVA-POO (66)** |
-| Latest push | **telecom-news-radar (today)** | Longest dormant | **TELE-RF-Arduino-nRF24L01 (2,006 d)** |
+| Latest push | **ai-news-radar (today)** | Longest dormant | **TELE-RF-Arduino-nRF24L01 (2,006 d)** |
 | First repository | **rmayormartins.github.io (2021-05-07)** | Newest repository | **ifsc-riscosj (2026-11-05)** |
 | Repos with open issues | **2 (REPL-PY-pygames-dragster, sat-commander)** | Followers | **56** |
 | Contributions (12 mo) | **572** | Commits (12 mo) | **527** |
@@ -108,11 +108,11 @@ He is currently the Research and Innovation Coordinator at the IFSC São José C
 
 | | Live site | Source | Language | Last deploy |
 |:-:|:--|:--|:--|--:|
+| 📡 | [ai-news-radar](https://rmayormartins.github.io/ai-news-radar/) | [code](https://github.com/rmayormartins/ai-news-radar) | HTML | today |
 | 📡 | [telecom-news-radar](https://rmayormartins.github.io/telecom-news-radar/) | [code](https://github.com/rmayormartins/telecom-news-radar) | HTML | today |
 | 🎓 | [ifsc-riscosj](https://rmayormartins.github.io/ifsc-riscosj/) | [code](https://github.com/rmayormartins/ifsc-riscosj) | HTML | today |
 | 🛰️ | [starlink-commander](https://rmayormartins.github.io/starlink-commander/) | [code](https://github.com/rmayormartins/starlink-commander) | JavaScript | today |
-| 📡 | [ai-news-radar](https://rmayormartins.github.io/ai-news-radar/) | [code](https://github.com/rmayormartins/ai-news-radar) | HTML | today |
-| 🌐 | [bairro-bigode](https://rmayormartins.github.io/bairro-bigode/) | [code](https://github.com/rmayormartins/bairro-bigode) | HTML | today |
+| 🌐 | [bairro-bigode](https://rmayormartins.github.io/bairro-bigode/) | [code](https://github.com/rmayormartins/bairro-bigode) | HTML | 1 d ago |
 | 🤖 | [ia-tools](https://rmayormartins.github.io/ia-tools/) | [code](https://github.com/rmayormartins/ia-tools) | HTML | 2 d ago |
 | 📶 | [telecom-tools](https://rmayormartins.github.io/telecom-tools/) | [code](https://github.com/rmayormartins/telecom-tools) | HTML | 5 d ago |
 | 🛰️ | [sat-commander](https://rmayormartins.github.io/sat-commander/) | [code](https://github.com/rmayormartins/sat-commander) | HTML | 23 d ago |
@@ -147,12 +147,12 @@ He is currently the Research and Innovation Coordinator at the IFSC São José C
 
 | Repository | Language | ⭐ | 🍴 | Created | Last push | Signal |
 |:--|:--|--:|--:|:--|--:|:-:|
+| [ai-news-radar](https://github.com/rmayormartins/ai-news-radar) [🌐](https://rmayormartins.github.io/ai-news-radar/) | HTML | 0 | 0 | Jun 2026 | today | <img src="assets/signal-5.svg" height="14" alt="signal 5/5"> |
+| [rmayormartins](https://github.com/rmayormartins/rmayormartins) | Python | 0 | 0 | May 2021 | today | <img src="assets/signal-5.svg" height="14" alt="signal 5/5"> |
 | [telecom-news-radar](https://github.com/rmayormartins/telecom-news-radar) [🌐](https://rmayormartins.github.io/telecom-news-radar/) | HTML | 0 | 0 | Jun 2026 | today | <img src="assets/signal-5.svg" height="14" alt="signal 5/5"> |
 | [ifsc-riscosj](https://github.com/rmayormartins/ifsc-riscosj) [🌐](https://rmayormartins.github.io/ifsc-riscosj/) | HTML | 0 | 0 | Nov 2026 | today | <img src="assets/signal-5.svg" height="14" alt="signal 5/5"> |
 | [starlink-commander](https://github.com/rmayormartins/starlink-commander) [🌐](https://rmayormartins.github.io/starlink-commander/) | JavaScript | 0 | 0 | Aug 2025 | today | <img src="assets/signal-5.svg" height="14" alt="signal 5/5"> |
-| [ai-news-radar](https://github.com/rmayormartins/ai-news-radar) [🌐](https://rmayormartins.github.io/ai-news-radar/) | HTML | 0 | 0 | Jun 2026 | today | <img src="assets/signal-5.svg" height="14" alt="signal 5/5"> |
-| [bairro-bigode](https://github.com/rmayormartins/bairro-bigode) [🌐](https://rmayormartins.github.io/bairro-bigode/) | HTML | 0 | 0 | Nov 2026 | today | <img src="assets/signal-5.svg" height="14" alt="signal 5/5"> |
-| [rmayormartins](https://github.com/rmayormartins/rmayormartins) | Python | 0 | 0 | May 2021 | 1 d ago | <img src="assets/signal-5.svg" height="14" alt="signal 5/5"> |
+| [bairro-bigode](https://github.com/rmayormartins/bairro-bigode) [🌐](https://rmayormartins.github.io/bairro-bigode/) | HTML | 0 | 0 | Nov 2026 | 1 d ago | <img src="assets/signal-5.svg" height="14" alt="signal 5/5"> |
 | [ia-tools](https://github.com/rmayormartins/ia-tools) [🌐](https://rmayormartins.github.io/ia-tools/) | HTML | 0 | 0 | May 2025 | 2 d ago | <img src="assets/signal-5.svg" height="14" alt="signal 5/5"> |
 | [IFSC-cooperamais](https://github.com/rmayormartins/IFSC-cooperamais) | C++ | 0 | 0 | Oct 2026 | 5 d ago | <img src="assets/signal-5.svg" height="14" alt="signal 5/5"> |
 | [telecom-tools](https://github.com/rmayormartins/telecom-tools) [🌐](https://rmayormartins.github.io/telecom-tools/) | HTML | 0 | 0 | Apr 2026 | 5 d ago | <img src="assets/signal-5.svg" height="14" alt="signal 5/5"> |
@@ -235,7 +235,7 @@ He is currently the Research and Innovation Coordinator at the IFSC São José C
 
 </details>
 
-<p align="right"><sub>🤖 Auto-updated daily by <a href="generate_stats.py">generate_stats.py</a> (GitHub Actions) · last sync 2026-11-05 13:41 UTC</sub></p>
+<p align="right"><sub>🤖 Auto-updated daily by <a href="generate_stats.py">generate_stats.py</a> (GitHub Actions) · last sync 2026-11-05 13:50 UTC</sub></p>
 <!--END_STATS-->
 
 #### <img src="assets/sec-stack.svg" width="100%" alt="Section 07: TECH STACK. languages, libraries and rigs.">
